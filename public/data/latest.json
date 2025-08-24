@@ -4,60 +4,13 @@
     "kickoff_jst": "2025-08-24 22:30",
     "home": {
       "id": "ARS",
-      "name": "Arsenal"
+      "name": "ARS"
     },
     "away": {
       "id": "MCI",
-      "name": "Man City"
+      "name": "MCI"
     },
     "hashtag": "#ARSMCI"
   },
-  "items": [
-    {
-      "id": "1",
-      "ts": 1756005600000,
-      "url": "https://www.bbc.com/sport/football/",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [
-        "Bukayo Saka"
-      ],
-      "ja": "サカは打撲の疑いで当日判断。",
-      "en": "Saka a late fitness test (bruise)."
-    },
-    {
-      "id": "2",
-      "ts": 1755991200000,
-      "url": "https://www.skysports.com/football/",
-      "domain": "skysports.com",
-      "trust": "sky",
-      "tags": [
-        "復帰",
-        "好調"
-      ],
-      "players": [
-        "Kevin De Bruyne"
-      ],
-      "ja": "デ・ブライネが全体練習復帰、直近2試合で2A。",
-      "en": "KDB back in full training; 2 assists in last two matches."
-    },
-    {
-      "id": "3",
-      "ts": 1755926400000,
-      "url": "https://www.arsenal.com/news",
-      "domain": "arsenal.com",
-      "trust": "official",
-      "tags": [
-        "好調"
-      ],
-      "players": [
-        "Declan Rice"
-      ],
-      "ja": "ライスは前節MOM、走行距離もチーム最長。",
-      "en": "Rice named MOTM; longest distance covered last match."
-    }
-  ]
+  "items": []
 }
