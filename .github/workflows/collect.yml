@@ -5,6 +5,13 @@ on:
     - cron: '*/30 * * * *' # every 30 minutes (UTC)
   workflow_dispatch: {}
 
+env:
+  TEAMS: ARS,MCI,LIV,MUN,CHE,TOT
+  MAX_AGE_HOURS: 72
+
+- name: Run collector
+  run: node scripts/collect.mjs --teams "$TEAMS" --maxAgeHours=$MAX_AGE_HOURS
+
 jobs:
   collect:
     runs-on: ubuntu-latest
