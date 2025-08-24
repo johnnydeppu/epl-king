@@ -78,7 +78,7 @@ for (const t of teams) {
 // --- write ---
 await fs.mkdir(dataDir, { recursive: true });
 const out = {
-  + generated_at: Date.now(),
+  generated_at: Date.now(),   // ← これでOK（+ は付けない）
   match: {
     id: match.id,
     kickoff_jst: match.kickoff_jst || '',
@@ -88,5 +88,6 @@ const out = {
   },
   items: rows.sort((a, b) => b.ts - a.ts)
 };
+
 await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf-8');
 console.log('Wrote', outPath, 'items:', out.items.length);
