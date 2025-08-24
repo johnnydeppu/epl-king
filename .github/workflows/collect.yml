@@ -5,12 +5,10 @@ on:
     - cron: '*/30 * * * *' # every 30 minutes (UTC)
   workflow_dispatch: {}
 
+# ここは OK（ワークフローレベルの環境変数）
 env:
   TEAMS: ARS,MCI,LIV,MUN,CHE,TOT
   MAX_AGE_HOURS: 72
-
-- name: Run collector
-  run: node scripts/collect.mjs --teams "$TEAMS" --maxAgeHours=$MAX_AGE_HOURS
 
 jobs:
   collect:
@@ -27,7 +25,7 @@ jobs:
       - name: Install deps
         run: npm ci || npm i
       - name: Run collector
-        run: npm run collect
+        run: node scripts/collect.mjs --teams "$TEAMS" --maxAgeHours="$MAX_AGE_HOURS"
       - name: Ensure file exists (even if 0 items)
         run: |
           mkdir -p public/data
