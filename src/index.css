@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* App-level tweaks */
-:root { color-scheme: light dark; }
-.timeline-item { @apply p-3 rounded-xl border bg-white hover:shadow-sm transition; }
-.badge { @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full border text-xs; }
