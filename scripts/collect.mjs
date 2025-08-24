@@ -78,6 +78,7 @@ for (const t of teams) {
 // --- write ---
 await fs.mkdir(dataDir, { recursive: true });
 const out = {
+  + generated_at: Date.now(),
   match: {
     id: match.id,
     kickoff_jst: match.kickoff_jst || '',
