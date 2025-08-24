@@ -8,7 +8,7 @@ on:
 # ここは OK（ワークフローレベルの環境変数）
 env:
   TEAMS: ARS,MCI,LIV,MUN,CHE,TOT
-  MAX_AGE_HOURS: 72
+  MAX_AGE_HOURS: 720
 
 jobs:
   collect:
