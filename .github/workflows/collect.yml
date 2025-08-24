@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Collect EPL sources (every 30m)
 
 
@@ -32,4 +32,3 @@ git push
 else
 echo "No changes"
 fi
-```
