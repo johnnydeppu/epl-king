@@ -1,72 +1,91 @@
-js
-if (feedUrl) {
-const items = await readRss(feedUrl)
-for (const it of items) {
-const d = it.isoDate ? new Date(it.isoDate) : new Date()
-if (!isFresh(d)) continue
-out.push(it)
-}
-} else {
-// simple scrape: just use link list as headlines
-for (const link of links) {
-out.push({ title: link.split('/').slice(-1)[0].replace(/[-_]/g,' '), link, isoDate: null, summary: '' })
-}
-}
-}
-await sleep(500) // polite delay
-} catch (e) {
-console.error('source error', teamId, src, e.message)
-}
-}
-return out
+// scripts/collect.mjs — Minimal RSS collector (Node 20 ESM)
+
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import Parser from 'rss-parser';
+
+// --- paths ---
+const scriptDir = path.dirname(new URL(import.meta.url).pathname);
+const repoRoot  = path.resolve(scriptDir, '..');
+const publicDir = path.join(repoRoot, 'public');
+const dataDir   = path.join(publicDir, 'data');
+const configDir = path.join(publicDir, 'config');
+const outPath   = path.join(dataDir, 'latest.json');
+
+// --- args ---
+const args = Object.fromEntries(
+  process.argv.slice(2).map(a => {
+    const [k, v = ''] = a.replace(/^--/, '').split('=');
+    return [k, v];
+  })
+);
+const teams       = (args.teams || '').split(',').filter(Boolean);
+const maxAgeHours = Number(args.maxAgeHours || 72);
+
+// --- config ---
+const teamSources = JSON.parse(await fs.readFile(path.join(configDir, 'team_sources.json'), 'utf-8')
+  .catch(() => '{}'));
+const fixtures = JSON.parse(await fs.readFile(path.join(configDir, 'fixtures.json'), 'utf-8')
+  .catch(() => '[]'));
+
+const match = fixtures[0] || {
+  id: 'EPL-UNKNOWN',
+  kickoff_jst: '',
+  home: teams[0] || 'HOME',
+  away: teams[1] || 'AWAY'
+};
+
+// --- helpers ---
+const parser = new Parser();
+const now = Date.now();
+const isFresh = (d) => now - new Date(d || now).getTime() <= maxAgeHours * 3600 * 1000;
+const domain = (u) => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch { return ''; } };
+
+// --- collect ---
+const rows = [];
+for (const t of teams) {
+  const sources = teamSources[t] || [];
+  for (const url of sources) {
+    try {
+      const feed = await parser.parseURL(url);
+      for (const it of feed.items || []) {
+        const ts = new Date(it.isoDate || it.pubDate || Date.now()).getTime();
+        if (!isFresh(ts)) continue;
+        const link = it.link || it.guid || url;
+        const host = domain(link);
+        rows.push({
+          id: link,
+          ts,
+          url: link,
+          domain: host,
+          trust:
+            ['bbc.com', 'bbc.co.uk'].includes(host) ? 'bbc' :
+            host.includes('skysports.com') ? 'sky' :
+            host.includes('arsenal.com') || host.includes('mancity.com') ? 'official' : 'other',
+          tags: [],
+          players: [],
+          ja: it.title || '',
+          en: it.title || ''
+        });
+      }
+    } catch {
+      // RSSじゃないURLはスキップ（後で拡張）
+      console.log('skip (not RSS):', url);
+    }
+  }
 }
 
-
-// ---- main ----
-async function main() {
-if (!TEAMS.length) {
-console.log('No --teams specified. Example: --teams ARS,MCI')
-}
-const homeName = Object.keys(playersDict)[0] || 'Arsenal'
-const awayName = Object.keys(playersDict)[1] || 'Man City'
-
-
-const items = []
-for (const t of TEAMS) {
-const part = await collectForTeam(t)
-items.push(...part)
-}
-
-
-// normalize, dedupe by URL hash, sort by ts desc
-const map = new Map()
-for (const r of items) {
-const n = normalizeItem(r, homeName, awayName)
-map.set(n.id, n)
-}
-const list = Array.from(map.values()).sort((a,b) => b.ts - a.ts)
-
-
-// ensure dirs
-await fs.mkdir(DATA_DIR, { recursive: true })
-
-
+// --- write ---
+await fs.mkdir(dataDir, { recursive: true });
 const out = {
-match: {
-id: MATCH.id,
-kickoff_jst: MATCH.kickoff_jst || '',
-home: { id: MATCH.home, name: homeName },
-away: { id: MATCH.away, name: awayName },
-hashtag: `#${(MATCH.home||'').toUpperCase()}${(MATCH.away||'').toUpperCase()}`
-},
-items: list
-}
-
-
-await fs.writeFile(OUT_PATH, JSON.stringify(out, null, 2), 'utf-8')
-console.log('Wrote', OUT_PATH, 'items:', list.length)
-}
-
-
-main().catch(e => { console.error(e); process.exit(1) })
-```
+  match: {
+    id: match.id,
+    kickoff_jst: match.kickoff_jst || '',
+    home: { id: match.home, name: match.home },
+    away: { id: match.away, name: match.away },
+    hashtag: `#${(match.home || '').toUpperCase()}${(match.away || '').toUpperCase()}`
+  },
+  items: rows.sort((a, b) => b.ts - a.ts)
+};
+await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf-8');
+console.log('Wrote', outPath, 'items:', out.items.length);
