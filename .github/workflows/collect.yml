@@ -1,0 +1,35 @@
+```yaml
+name: Collect EPL sources (every 30m)
+
+
+on:
+schedule:
+- cron: '*/30 * * * *' # every 30 minutes (UTC)
+workflow_dispatch: {}
+
+
+jobs:
+collect:
+runs-on: ubuntu-latest
+permissions:
+contents: write # to commit the generated latest.json
+steps:
+- uses: actions/checkout@v4
+- uses: actions/setup-node@v4
+with:
+node-version: 20
+cache: 'npm'
+- run: npm ci || npm i
+- run: npm run collect
+- name: Commit and push if changed
+run: |
+git config user.name "github-actions[bot]"
+git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git add public/data/latest.json
+if ! git diff --cached --quiet; then
+git commit -m "chore: update latest.json [CI]"
+git push
+else
+echo "No changes"
+fi
+```
