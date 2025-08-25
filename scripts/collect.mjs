@@ -1,4 +1,6 @@
-// scripts/collect.mjs — stable v1.3 (RSS collector with BBC fallback & verbose logs)
+/* scripts/collect.mjs — stable v1.4 (RSS collector with BBC fallback & global feeds)
+   Node 20 / ESM。UI変更なし。*/
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -19,9 +21,8 @@ for (let i = 0; i < argv.length; i++) {
   const a = argv[i];
   if (!a.startsWith('--')) continue;
   const eq = a.indexOf('=');
-  if (eq !== -1) {
-    args[a.slice(2, eq)] = a.slice(eq + 1);
-  } else {
+  if (eq !== -1) args[a.slice(2, eq)] = a.slice(eq + 1);
+  else {
     const k = a.slice(2);
     const v = argv[i + 1] && !argv[i + 1].startsWith('--') ? argv[++i] : 'true';
     args[k] = v;
@@ -38,7 +39,7 @@ async function safeReadJSON(p, fallback) {
 const teamSources = await safeReadJSON(path.join(configDir, 'team_sources.json'), {});
 const fixtures    = await safeReadJSON(path.join(configDir, 'fixtures.json'), []);
 
-// ---- BBC fallback & helpers ----
+// ---- BBC team feeds fallback & helpers ----
 const BBC_FEEDS = {
   ARS:'https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml',
   MCI:'https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml',
@@ -47,6 +48,12 @@ const BBC_FEEDS = {
   CHE:'https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml',
   TOT:'https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml'
 };
+// BBCの全体フィード（件数底上げ用）
+const GLOBAL_SOURCES = [
+  'https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml',
+  'https://feeds.bbci.co.uk/sport/football/rss.xml'
+];
+
 if (teams.length === 0) {
   teams = Object.keys(teamSources).length ? Object.keys(teamSources) : Object.keys(BBC_FEEDS);
 }
@@ -98,7 +105,7 @@ const match = fixtures[0] || {
   away: teams[1] || 'AWAY'
 };
 
-// ---- collect ----
+// ---- collect (per team) ----
 const rows = [];
 for (const t of teams) {
   const configured = Array.isArray(teamSources[t]) ? teamSources[t] : [];
@@ -108,10 +115,7 @@ for (const t of teams) {
   for (const url0 of sources) {
     const url = toRssIfKnown(url0);
     try {
-      if (!isLikelyRSS(url)) {
-        console.log('  skip (not RSS):', url);
-        continue;
-      }
+      if (!isLikelyRSS(url)) { console.log('  skip (not RSS):', url); continue; }
       const feed = await parser.parseURL(url);
       console.log('  feed ok:', url, 'items:', (feed.items || []).length);
       for (const it of feed.items || []) {
@@ -137,6 +141,33 @@ for (const t of teams) {
     } catch (e) {
       console.log('  feed error:', url, e.message);
     }
+  }
+}
+
+// ---- also collect global feeds ----
+for (const url of GLOBAL_SOURCES) {
+  try {
+    const feed = await parser.parseURL(url);
+    console.log('global feed ok:', url, 'items:', (feed.items || []).length);
+    for (const it of feed.items || []) {
+      const ts = new Date(it.isoDate || it.pubDate || Date.now()).getTime();
+      if (!isFresh(ts)) continue;
+      const link = normalizeUrl(it.link || it.guid || url);
+      const host = domain(link);
+      rows.push({
+        id: link,
+        ts,
+        url: link,
+        domain: host,
+        trust: ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' : 'other',
+        tags: [],
+        players: [],
+        ja: it.title || '',
+        en: it.title || ''
+      });
+    }
+  } catch (e) {
+    console.log('global feed error:', url, e.message);
   }
 }
 
