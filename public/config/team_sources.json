@@ -1,8 +1,32 @@
 {
-  "ARS": ["https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml"],
-  "MCI": ["https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml"],
-  "LIV": ["https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml"],
-  "MUN": ["https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml"],
-  "CHE": ["https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml"],
-  "TOT": ["https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml"]
+  "ARS": [
+    "https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml",
+    "https://www.skysports.com/arsenal-news",
+    "https://www.arsenal.com/news"
+  ],
+  "MCI": [
+    "https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml",
+    "https://www.skysports.com/manchester-city-news",
+    "https://www.mancity.com/news"
+  ],
+  "LIV": [
+    "https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml",
+    "https://www.skysports.com/liverpool-news",
+    "https://www.liverpoolfc.com/news"
+  ],
+  "MUN": [
+    "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml",
+    "https://www.skysports.com/manchester-united-news",
+    "https://www.manutd.com/en/news"
+  ],
+  "CHE": [
+    "https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml",
+    "https://www.skysports.com/chelsea-news",
+    "https://www.chelseafc.com/en/news"
+  ],
+  "TOT": [
+    "https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml",
+    "https://www.skysports.com/tottenham-hotspur-news",
+    "https://www.tottenhamhotspur.com/news/"
+  ]
 }
