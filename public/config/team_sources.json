@@ -1,10 +1,8 @@
 {
-  "ARS": [
-    "https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml"
-  ],
-  
-  "MCI": [
-    "https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml"
-
-  ]
+  "ARS": ["https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml"],
+  "MCI": ["https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml"],
+  "LIV": ["https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml"],
+  "MUN": ["https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml"],
+  "CHE": ["https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml"],
+  "TOT": ["https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml"]
 }
