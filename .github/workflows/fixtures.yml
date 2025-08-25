@@ -1,0 +1,34 @@
+name: Fetch PL fixtures (weekly)
+
+on:
+  schedule:
+    - cron: '0 2 * * 1' # 毎週月曜 02:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install (no deps required, keep lockfile updated)
+        run: npm ci || npm i
+      - name: Fetch fixtures
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node scripts/fetch-fixtures.mjs --season=2025
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/config/fixtures.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update fixtures.json [CI]"
+            git push
+          else
+            echo "No changes"
+          fi
