@@ -6,8 +6,9 @@ on:
   workflow_dispatch: {}
 
 env:
-  TEAMS: ARS,MCI,LIV,MUN,CHE,TOT
-  MAX_AGE_HOURS: 720
+  TEAMS: ""         # ← 空だと collector が team_sources.json の全キーを自動使用
+  MAX_AGE_HOURS: 168
+  MAX_ITEMS: 200    # 任意（JSONサイズ上限）
 
 jobs:
   collect:
