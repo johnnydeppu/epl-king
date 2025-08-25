@@ -2,6 +2,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import Parser from 'rss-parser';
+import * as cheerio from 'cheerio';
 
 const scriptDir = path.dirname(new URL(import.meta.url).pathname);
 const repoRoot  = path.resolve(scriptDir, '..');
@@ -42,6 +43,44 @@ const BBC_FEEDS = {
 if (teams.length === 0) teams = Object.keys(teamSources).length ? Object.keys(teamSources) : Object.keys(BBC_FEEDS);
 console.log('teams:', teams);
 
+const isLikelyRSS = (u) => {
+  try {
+    const host = new URL(u).hostname;
+    return host.includes('feeds.') || u.endsWith('.xml') || u.includes('/rss');
+  } catch { return false; }
+};
+
+// 汎用HTMLスクレイパ（Sky/公式で通る簡易版）
+async function parseHTMLList(url, limit = 15) {
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (EPL-King Collector)' }
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const html = await res.text();
+  const $ = cheerio.load(html);
+
+  // ゆるい抽出: 記事カード/リスト内の <a> と <time> を拾う
+  const seen = new Set();
+  const items = [];
+  $('article a[href], .news, .article, .teaser, li a[href]').each((_, el) => {
+    if (items.length >= limit) return false;
+    const a = $(el);
+    const href = a.attr('href') || '';
+    const title = a.text().trim();
+    if (!href || !title) return;
+    let link = href.startsWith('http') ? href : new URL(href, url).toString();
+    if (seen.has(link)) return;
+    seen.add(link);
+    // 時刻: 近くの <time> / data-iso / datetime を拾う（無ければ現在時刻）
+    const tEl = a.closest('article').find('time').first();
+    const iso = tEl.attr('datetime') || tEl.attr('data-iso') || '';
+    const ts = iso ? new Date(iso).getTime() : Date.now();
+    items.push({ title, link, ts });
+  });
+
+  return items;
+}
+
 function toRssIfKnown(u) {
   try {
     const url = new URL(u);
@@ -71,25 +110,38 @@ for (const t of teams) {
   console.log('team', t, 'sources:', sources);
 
   for (const url0 of sources) {
-    const url = toRssIfKnown(url0);
-    try {
-      const feed = await parser.parseURL(url);
-      console.log('  feed ok:', url, 'items:', (feed.items || []).length);
-      for (const it of feed.items || []) {
-        const ts = new Date(it.isoDate || it.pubDate || Date.now()).getTime();
-        if (!isFresh(ts)) continue;
-        const link = it.link || it.guid || url;
-        const host = domain(link);
-        rows.push({ id: link, ts, url: link, domain: host, trust:
-          ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' :
-          host.includes('skysports.com') ? 'sky' :
-          (host.includes('arsenal.com') || host.includes('mancity.com')) ? 'official' : 'other',
-          tags: [], players: [], ja: it.title || '', en: it.title || '' });
-      }
-    } catch (e) {
-      console.log('  feed error:', url, e.message);
+const url = toRssIfKnown(url0);
+try {
+  if (isLikelyRSS(url)) {
+    const feed = await parser.parseURL(url);
+    console.log('  feed ok:', url, 'items:', (feed.items || []).length);
+    for (const it of feed.items || []) {
+      const ts = new Date(it.isoDate || it.pubDate || Date.now()).getTime();
+      if (!isFresh(ts)) continue;
+      const link = normalizeUrl(it.link || it.guid || url);
+      const host = domain(link);
+      rows.push({ id: link, ts, url: link, domain: host,
+        trust: ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc'
+             : host.includes('skysports.com') ? 'sky'
+             : (host.includes('arsenal.com')||host.includes('mancity.com')||host.includes('liverpoolfc.com')||host.includes('tottenhamhotspur.com')||host.includes('chelseafc.com')||host.includes('manutd.com')) ? 'official' : 'other',
+        tags: [], players: [], ja: it.title || '', en: it.title || '' });
+    }
+  } else {
+    const list = await parseHTMLList(url);
+    console.log('  html ok:', url, 'items:', list.length);
+    for (const it of list) {
+      if (!isFresh(it.ts)) continue;
+      const link = normalizeUrl(it.link);
+      const host = domain(link);
+      rows.push({ id: link, ts: it.ts, url: link, domain: host,
+        trust: host.includes('skysports.com') ? 'sky'
+             : /arsenal\.com|mancity\.com|liverpoolfc\.com|tottenhamhotspur\.com|chelseafc\.com|manutd\.com/.test(host) ? 'official' : 'other',
+        tags: [], players: [], ja: it.title, en: it.title });
     }
   }
+} catch (e) {
+  console.log('  source error:', url, e.message);
+}
 }
 
 // ---- dedupe & write ----
