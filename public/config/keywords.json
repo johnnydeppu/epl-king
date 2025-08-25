@@ -1,22 +1,17 @@
 {
   "injury": [
-    "injury",
-    "fitness test",
-    "knock",
-    "hamstring",
-    "ankle"
+    "injury", "injured", "injuries", "out", "knock", "hamstring", "groin", "calf", "ankle", "knee",
+    "fracture", "broken", "rupture", "layoff", "ruled out", "doubtful", "setback", "scan", "medical",
+    "out for", "out of action"
   ],
   "returning": [
-    "back in training",
-    "returned",
-    "available",
-    "squad"
+    "return", "returned", "returns", "back", "fit", "in contention", "available", "recovered",
+    "back in training", "full training", "ready to play", "cleared to play", "makes squad",
+    "included in squad", "back from injury", "returning from"
   ],
   "form": [
-    "MOTM",
-    "assist",
-    "goal",
-    "streak",
-    "in form"
+    "in-form", "on form", "scored", "scores", "goal", "brace", "hat-trick", "assist", "assists",
+    "clean sheet", "streak", "run of", "unbeaten", "winless", "hot streak", "purple patch",
+    "impressive", "outstanding", "dominant", "thrashing"
   ]
 }
