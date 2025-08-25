@@ -1,4 +1,4 @@
-// scripts/collect.mjs — RSS collector with BBC fallback (Node 20 ESM)
+// scripts/collect.mjs — RSS collector with BBC fallback & verbose logs
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import Parser from 'rss-parser';
@@ -15,7 +15,7 @@ const args = Object.fromEntries(process.argv.slice(2).map(a => {
   const [k, v=''] = a.replace(/^--/, '').split('=');
   return [k, v];
 }));
-const teams = (args.teams || '').split(',').filter(Boolean);
+const teams = (args.teams || '').split(',').map(s=>s.trim()).filter(Boolean);
 const maxAgeHours = Number(args.maxAgeHours || 72);
 
 // ---- safe JSON read ----
@@ -48,7 +48,17 @@ function toRssIfKnown(u) {
   } catch { return u; }
 }
 
-const parser = new Parser();
+// UA を付ける（BBC等で403回避）
+const parser = new Parser({
+  requestOptions: {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (EPL-King Collector)',
+      'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8'
+    },
+    redirect: 'follow'
+  }
+});
+
 const now = Date.now();
 const isFresh = (ts) => now - (typeof ts === 'number' ? ts : new Date(ts).getTime()) <= maxAgeHours*3600*1000;
 const domain = (u) => { try { return new URL(u).hostname.replace(/^www\./,''); } catch { return ''; } };
@@ -58,12 +68,13 @@ const rows = [];
 for (const t of teams) {
   const configured = Array.isArray(teamSources[t]) ? teamSources[t] : [];
   const sources = configured.length ? configured : (BBC_FEEDS[t] ? [BBC_FEEDS[t]] : []);
-  console.log('team', t, 'sources:', sources.length);
+  console.log('team', t, 'sources:', sources);
 
   for (const url0 of sources) {
     const url = toRssIfKnown(url0);
     try {
       const feed = await parser.parseURL(url);
+      console.log('  feed ok:', url, 'items:', (feed.items || []).length);
       for (const it of feed.items || []) {
         const ts = new Date(it.isoDate || it.pubDate || Date.now()).getTime();
         if (!isFresh(ts)) continue;
@@ -85,7 +96,7 @@ for (const t of teams) {
         });
       }
     } catch (e) {
-      console.log('skip (not RSS or fetch error):', url, e.message);
+      console.log('  feed error:', url, e.message);
     }
   }
 }
