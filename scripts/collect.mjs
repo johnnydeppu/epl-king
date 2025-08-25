@@ -1,4 +1,4 @@
-// scripts/collect.mjs — RSS collector with BBC fallback & verbose logs
+// scripts/collect.mjs — RSS collector (BBC fallback, verbose logs)
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import Parser from 'rss-parser';
@@ -10,33 +10,18 @@ const dataDir   = path.join(publicDir, 'data');
 const configDir = path.join(publicDir, 'config');
 const outPath   = path.join(dataDir, 'latest.json');
 
-// ---- args ----
+// ---- args (both "--k=v" and "--k v" supported) ----
 const argv = process.argv.slice(2);
 const args = {};
 for (let i = 0; i < argv.length; i++) {
   const a = argv[i];
   if (!a.startsWith('--')) continue;
   const eq = a.indexOf('=');
-  if (eq !== -1) {
-    const k = a.slice(2, eq);
-    const v = a.slice(eq + 1);
-    args[k] = v;
-  } else {
-    const k = a.slice(2);
-    const v = argv[i + 1] && !argv[i + 1].startsWith('--') ? argv[++i] : 'true';
-    args[k] = v;
-  }
+  if (eq !== -1) { args[a.slice(2, eq)] = a.slice(eq + 1); }
+  else { const k = a.slice(2); const v = argv[i+1] && !argv[i+1].startsWith('--') ? argv[++i] : 'true'; args[k] = v; }
 }
-
-let teams = (args.teams || '').split(',').map(s => s.trim()).filter(Boolean);
+let teams = (args.teams || '').split(',').map(s=>s.trim()).filter(Boolean);
 const maxAgeHours = Number(args.maxAgeHours || 72);
-
-// teams が空なら自動フォールバック
-if (teams.length === 0) {
-  const fromConfig = Object.keys(teamSources || {});
-  teams = fromConfig.length ? fromConfig : Object.keys(BBC_FEEDS);
-}
-console.log('teams:', teams);
 
 // ---- safe JSON read ----
 async function safeReadJSON(p, fallback) {
@@ -45,9 +30,7 @@ async function safeReadJSON(p, fallback) {
 const teamSources = await safeReadJSON(path.join(configDir, 'team_sources.json'), {});
 const fixtures    = await safeReadJSON(path.join(configDir, 'fixtures.json'), []);
 
-const match = fixtures[0] || { id: 'EPL-UNKNOWN', kickoff_jst: '', home: teams[0] || 'HOME', away: teams[1] || 'AWAY' };
-
-// ---- BBC fallback & helper ----
+// ---- BBC fallback & helpers ----
 const BBC_FEEDS = {
   ARS:'https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml',
   MCI:'https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml',
@@ -56,6 +39,9 @@ const BBC_FEEDS = {
   CHE:'https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml',
   TOT:'https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml'
 };
+if (teams.length === 0) teams = Object.keys(teamSources).length ? Object.keys(teamSources) : Object.keys(BBC_FEEDS);
+console.log('teams:', teams);
+
 function toRssIfKnown(u) {
   try {
     const url = new URL(u);
@@ -68,20 +54,14 @@ function toRssIfKnown(u) {
   } catch { return u; }
 }
 
-// UA を付ける（BBC等で403回避）
 const parser = new Parser({
-  requestOptions: {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (EPL-King Collector)',
-      'Accept': 'application/rss+xml, application/xml;q=0.9, */*;q=0.8'
-    },
-    redirect: 'follow'
-  }
+  requestOptions: { headers: { 'User-Agent': 'Mozilla/5.0 (EPL-King Collector)' }, redirect: 'follow' }
 });
-
 const now = Date.now();
 const isFresh = (ts) => now - (typeof ts === 'number' ? ts : new Date(ts).getTime()) <= maxAgeHours*3600*1000;
 const domain = (u) => { try { return new URL(u).hostname.replace(/^www\./,''); } catch { return ''; } };
+
+const match = fixtures[0] || { id: 'EPL-UNKNOWN', kickoff_jst: '', home: teams[0] || 'HOME', away: teams[1] || 'AWAY' };
 
 // ---- collect ----
 const rows = [];
@@ -100,20 +80,11 @@ for (const t of teams) {
         if (!isFresh(ts)) continue;
         const link = it.link || it.guid || url;
         const host = domain(link);
-        rows.push({
-          id: link,
-          ts,
-          url: link,
-          domain: host,
-          trust:
-            ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' :
-            host.includes('skysports.com') ? 'sky' :
-            (host.includes('arsenal.com') || host.includes('mancity.com')) ? 'official' : 'other',
-          tags: [],
-          players: [],
-          ja: it.title || '',
-          en: it.title || ''
-        });
+        rows.push({ id: link, ts, url: link, domain: host, trust:
+          ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' :
+          host.includes('skysports.com') ? 'sky' :
+          (host.includes('arsenal.com') || host.includes('mancity.com')) ? 'official' : 'other',
+          tags: [], players: [], ja: it.title || '', en: it.title || '' });
       }
     } catch (e) {
       console.log('  feed error:', url, e.message);
@@ -122,24 +93,14 @@ for (const t of teams) {
 }
 
 // ---- dedupe & write ----
-const seen = new Set();
-const items = [];
-for (const it of rows.sort((a,b)=>b.ts-a.ts)) {
-  if (seen.has(it.id)) continue;
-  seen.add(it.id);
-  items.push(it);
-}
+const seen = new Set(); const items = [];
+for (const it of rows.sort((a,b)=>b.ts-a.ts)) { if (!seen.has(it.id)) { seen.add(it.id); items.push(it); } }
+
 await fs.mkdir(dataDir, { recursive: true });
-const out = {
+await fs.writeFile(path.join(dataDir,'latest.json'), JSON.stringify({
   generated_at: Date.now(),
-  match: {
-    id: match.id,
-    kickoff_jst: match.kickoff_jst || '',
-    home: { id: match.home, name: match.home },
-    away: { id: match.away, name: match.away },
-    hashtag: `#${(match.home||'').toUpperCase()}${(match.away||'').toUpperCase()}`
-  },
+  match: { id: match.id, kickoff_jst: match.kickoff_jst || '', home: { id: match.home, name: match.home }, away: { id: match.away, name: match.away },
+           hashtag: `#${(match.home||'').toUpperCase()}${(match.away||'').toUpperCase()}` },
   items
-};
-await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf-8');
+}, null, 2), 'utf-8');
 console.log('Wrote', outPath, 'items:', items.length);
