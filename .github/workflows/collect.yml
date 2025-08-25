@@ -25,7 +25,9 @@ jobs:
       - name: Install deps
         run: npm ci || npm i
       - name: Run collector
-        run: node scripts/collect.mjs --teams "$TEAMS" --maxAgeHours="$MAX_AGE_HOURS"
+- run: node scripts/collect.mjs --teams "$TEAMS" --maxAgeHours="$MAX_AGE_HOURS"
++ run: node scripts/collect.mjs --teams="$TEAMS" --maxAgeHours="$MAX_AGE_HOURS"
+
       - name: Ensure file exists (even if 0 items)
         run: |
           mkdir -p public/data
