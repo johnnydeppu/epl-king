@@ -11,12 +11,32 @@ const configDir = path.join(publicDir, 'config');
 const outPath   = path.join(dataDir, 'latest.json');
 
 // ---- args ----
-const args = Object.fromEntries(process.argv.slice(2).map(a => {
-  const [k, v=''] = a.replace(/^--/, '').split('=');
-  return [k, v];
-}));
-const teams = (args.teams || '').split(',').map(s=>s.trim()).filter(Boolean);
+const argv = process.argv.slice(2);
+const args = {};
+for (let i = 0; i < argv.length; i++) {
+  const a = argv[i];
+  if (!a.startsWith('--')) continue;
+  const eq = a.indexOf('=');
+  if (eq !== -1) {
+    const k = a.slice(2, eq);
+    const v = a.slice(eq + 1);
+    args[k] = v;
+  } else {
+    const k = a.slice(2);
+    const v = argv[i + 1] && !argv[i + 1].startsWith('--') ? argv[++i] : 'true';
+    args[k] = v;
+  }
+}
+
+let teams = (args.teams || '').split(',').map(s => s.trim()).filter(Boolean);
 const maxAgeHours = Number(args.maxAgeHours || 72);
+
+// teams が空なら自動フォールバック
+if (teams.length === 0) {
+  const fromConfig = Object.keys(teamSources || {});
+  teams = fromConfig.length ? fromConfig : Object.keys(BBC_FEEDS);
+}
+console.log('teams:', teams);
 
 // ---- safe JSON read ----
 async function safeReadJSON(p, fallback) {
