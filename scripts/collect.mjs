@@ -1,5 +1,9 @@
-/* scripts/collect.mjs — stable v1.4 (RSS collector with BBC fallback & global feeds)
-   Node 20 / ESM。UI変更なし。*/
+/* scripts/collect.mjs — v1.5
+   - RSS収集（BBCチームRSS + BBCグローバルRSS）
+   - URL正規化＆重複排除
+   - キーワードで「負傷/復帰/好調」を自動タグ付け（/public/config/keywords.json）
+   - スコア付け：score = 0.6*fresh + 0.3*trust + 0.1*relevance（0〜1）
+   Node 20 / ESM 対応（package.json に "type":"module" 必須） */
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -14,7 +18,7 @@ const dataDir    = path.join(publicDir, 'data');
 const configDir  = path.join(publicDir, 'config');
 const outPath    = path.join(dataDir, 'latest.json');
 
-// ---- args (supports "--k=v" and "--k v") ----
+// ---- args (both "--k=v" and "--k v") ----
 const argv = process.argv.slice(2);
 const args = {};
 for (let i = 0; i < argv.length; i++) {
@@ -30,16 +34,21 @@ for (let i = 0; i < argv.length; i++) {
 }
 let teams = (args.teams || '').split(',').map(s => s.trim()).filter(Boolean);
 const maxAgeHours = Number(args.maxAgeHours || 72);
+const MAX_ITEMS = Number(args.maxItems || process.env.MAX_ITEMS || 200); // JSONを軽く保つ上限
 
 // ---- safe JSON read ----
 async function safeReadJSON(p, fallback) {
-  try { return JSON.parse(await fs.readFile(p, 'utf-8')); }
-  catch { return fallback; }
+  try { return JSON.parse(await fs.readFile(p, 'utf-8')); } catch { return fallback; }
 }
 const teamSources = await safeReadJSON(path.join(configDir, 'team_sources.json'), {});
 const fixtures    = await safeReadJSON(path.join(configDir, 'fixtures.json'), []);
+const kwConfig    = await safeReadJSON(path.join(configDir, 'keywords.json'), {
+  injury:    ["injury","injured","injuries","out","knock","hamstring","groin","calf","ankle","knee","fracture","broken","rupture","layoff","ruled out","doubtful","setback","scan","medical","out for","out of action"],
+  returning: ["return","returned","returns","back","fit","in contention","available","recovered","back in training","full training","ready to play","cleared to play","makes squad","included in squad","back from injury","returning from"],
+  form:      ["in-form","on form","scored","scores","goal","brace","hat-trick","assist","assists","clean sheet","streak","run of","unbeaten","winless","hot streak","purple patch","impressive","outstanding","dominant","thrashing"]
+});
 
-// ---- BBC team feeds fallback & helpers ----
+// ---- BBC team feeds & global feeds ----
 const BBC_FEEDS = {
   ARS:'https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml',
   MCI:'https://feeds.bbci.co.uk/sport/football/teams/manchester-city/rss.xml',
@@ -48,7 +57,6 @@ const BBC_FEEDS = {
   CHE:'https://feeds.bbci.co.uk/sport/football/teams/chelsea/rss.xml',
   TOT:'https://feeds.bbci.co.uk/sport/football/teams/tottenham-hotspur/rss.xml'
 };
-// BBCの全体フィード（件数底上げ用）
 const GLOBAL_SOURCES = [
   'https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml',
   'https://feeds.bbci.co.uk/sport/football/rss.xml'
@@ -76,6 +84,7 @@ const isLikelyRSS = (u) => {
     return host.includes('feeds.') || u.endsWith('.xml') || u.includes('/rss');
   } catch { return false; }
 };
+
 // URL 正規化（重複防止）
 function normalizeUrl(link) {
   try {
@@ -87,6 +96,17 @@ function normalizeUrl(link) {
     return u.toString();
   } catch { return link; }
 }
+const domain = (u) => { try { return new URL(u).hostname.replace(/^www\./,''); } catch { return ''; } };
+
+// ---- scoring helpers ----
+const TRUST_CLASS = (host) =>
+  (['bbc.com','bbc.co.uk'].includes(host)) ? 'bbc' :
+  host.includes('skysports.com') ? 'sky' :
+  /arsenal\.com|mancity\.com|liverpoolfc\.com|tottenhamhotspur\.com|chelseafc\.com|manutd\.com/.test(host) ? 'official' :
+  'other';
+
+const TRUST_WEIGHT = { bbc: 1.0, official: 0.95, sky: 0.9, other: 0.6 };
+const HALF_LIFE_HOURS = 72; // 鮮度の“半減期”
 
 const parser = new Parser({
   requestOptions: {
@@ -96,14 +116,24 @@ const parser = new Parser({
 });
 const now = Date.now();
 const isFresh = (ts) => now - (typeof ts === 'number' ? ts : new Date(ts).getTime()) <= maxAgeHours * 3600 * 1000;
-const domain = (u) => { try { return new URL(u).hostname.replace(/^www\./,''); } catch { return ''; } };
 
-const match = fixtures[0] || {
-  id: 'EPL-UNKNOWN',
-  kickoff_jst: '',
-  home: teams[0] || 'HOME',
-  away: teams[1] || 'AWAY'
-};
+// テキスト→タグ&関連度抽出
+function escapeRegExp(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
+function detectTagsAndRelevance(text) {
+  const t = (text || '').toLowerCase();
+  const counts = {
+    injury: (kwConfig.injury||[]).reduce((n, w)=> n + (new RegExp(`\\b${escapeRegExp(w.toLowerCase())}\\b`).test(t)?1:0), 0),
+    returning: (kwConfig.returning||[]).reduce((n, w)=> n + (new RegExp(`\\b${escapeRegExp(w.toLowerCase())}\\b`).test(t)?1:0), 0),
+    form: (kwConfig.form||[]).reduce((n, w)=> n + (new RegExp(`\\b${escapeRegExp(w.toLowerCase())}\\b`).test(t)?1:0), 0)
+  };
+  const tags = [];
+  if (counts.injury    > 0) tags.push('負傷');
+  if (counts.returning > 0) tags.push('復帰');
+  if (counts.form      > 0) tags.push('好調');
+  const total = counts.injury + counts.returning + counts.form;
+  const relevance = Math.min(1, total / 3); // マッチ数を0〜1にクリップ
+  return { tags, relevance, counts };
+}
 
 // ---- collect (per team) ----
 const rows = [];
@@ -123,19 +153,18 @@ for (const t of teams) {
         if (!isFresh(ts)) continue;
         const link = normalizeUrl(it.link || it.guid || url);
         const host = domain(link);
+        const baseTitle = it.title || '';
         rows.push({
           id: link,
           ts,
           url: link,
           domain: host,
-          trust:
-            ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' :
-            host.includes('skysports.com') ? 'sky' :
-            /arsenal\.com|mancity\.com|liverpoolfc\.com|tottenhamhotspur\.com|chelseafc\.com|manutd\.com/.test(host) ? 'official' : 'other',
+          trust: TRUST_CLASS(host),
           tags: [],
           players: [],
-          ja: it.title || '',
-          en: it.title || ''
+          ja: baseTitle, // 翻訳未使用：必要なら /api/translate で後段付与
+          en: baseTitle,
+          text_for_match: [it.title, it.contentSnippet, it.content].filter(Boolean).join(' ')
         });
       }
     } catch (e) {
@@ -154,16 +183,18 @@ for (const url of GLOBAL_SOURCES) {
       if (!isFresh(ts)) continue;
       const link = normalizeUrl(it.link || it.guid || url);
       const host = domain(link);
+      const baseTitle = it.title || '';
       rows.push({
         id: link,
         ts,
         url: link,
         domain: host,
-        trust: ['bbc.com','bbc.co.uk'].includes(host) ? 'bbc' : 'other',
+        trust: TRUST_CLASS(host),
         tags: [],
         players: [],
-        ja: it.title || '',
-        en: it.title || ''
+        ja: baseTitle,
+        en: baseTitle,
+        text_for_match: [it.title, it.contentSnippet, it.content].filter(Boolean).join(' ')
       });
     }
   } catch (e) {
@@ -171,16 +202,37 @@ for (const url of GLOBAL_SOURCES) {
   }
 }
 
-// ---- dedupe & write ----
+// ---- dedupe, tag, score, limit, write ----
 const seen = new Set();
-const items = [];
+let items = [];
 for (const it of rows.sort((a,b)=>b.ts - a.ts)) {
   if (seen.has(it.id)) continue;
   seen.add(it.id);
+  // タグ＆関連度
+  const { tags, relevance } = detectTagsAndRelevance(it.text_for_match);
+  it.tags = tags;
+  // スコア
+  const ageHours = (now - it.ts) / 3600000;
+  const fresh = Math.pow(0.5, ageHours / HALF_LIFE_HOURS); // 0〜1
+  const trustW = TRUST_WEIGHT[it.trust] ?? 0.6;
+  it.score_detail = { fresh, trust: trustW, relevance };
+  it.score = +(0.6 * fresh + 0.3 * trustW + 0.1 * relevance).toFixed(3);
   items.push(it);
 }
+// スコア優先で並べ替え
+items.sort((a,b)=> (b.score - a.score) || (b.ts - a.ts));
+// 上限
+if (Number.isFinite(MAX_ITEMS) && items.length > MAX_ITEMS) items = items.slice(0, MAX_ITEMS);
 
+// JSON書き出し
 await fs.mkdir(dataDir, { recursive: true });
+const firstTeams = teams.slice(0,2);
+const match = fixtures[0] || {
+  id: 'EPL-UNKNOWN',
+  kickoff_jst: '',
+  home: firstTeams[0] || 'HOME',
+  away: firstTeams[1] || 'AWAY'
+};
 const out = {
   generated_at: Date.now(),
   match: {
