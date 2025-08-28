@@ -1,5 +1,5 @@
 {
-  "generated_at": 1756366525211,
+  "generated_at": 1756368875597,
   "match": {
     "id": "EPL-UNKNOWN",
     "kickoff_jst": "",
@@ -28,11 +28,11 @@
       "en": "Weekly sports quiz: Who scored first goal at Everton's new stadium?",
       "text_for_match": "Weekly sports quiz: Who scored first goal at Everton's new stadium? How much attention have you paid to what happened in the world of sport over the past seven days? How much attention have you paid to what happened in the world of sport over the past seven days?",
       "score_detail": {
-        "fresh": 0.9887356652365807,
+        "fresh": 0.9825323677737564,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.96
+      "score": 0.956
     },
     {
       "id": "https://bbc.com/sport/football/videos/cpdj0q1y86do?at_medium=RSS&at_campaign=rss",
@@ -49,11 +49,83 @@
       "en": "Benfica reach Champions League with win against Mourinho's Fenerbahce",
       "text_for_match": "Benfica reach Champions League with win against Mourinho's Fenerbahce Kerem Aktürkoğlu scores the winning goal with a well-taken finish to knock out Jose Mourinho's Fenerbahçe side and progress to the league phase of the Champions League. Kerem Aktürkoğlu scores the winning goal with a well-taken finish to knock out Jose Mourinho's Fenerbahçe side and progress to the league phase of the Champions League.",
       "score_detail": {
-        "fresh": 0.908815632765167,
+        "fresh": 0.9031137511529989,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.945
+      "score": 0.942
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/cz0yz8grknlo?at_medium=RSS&at_campaign=rss",
+      "ts": 1756367564000,
+      "url": "https://bbc.com/sport/football/articles/cz0yz8grknlo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Nunez set for shock £10m move from Norwich to Ipswich",
+      "en": "Nunez set for shock £10m move from Norwich to Ipswich",
+      "text_for_match": "Nunez set for shock £10m move from Norwich to Ipswich Norwich City midfielder Marcelino Nunez is set to make a move worth £10m from the Canaries to bitter rivals Ipswich Town. Norwich City midfielder Marcelino Nunez is set to make a move worth £10m from the Canaries to bitter rivals Ipswich Town. ",
+      "score_detail": {
+        "fresh": 0.9965064641321387,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.898
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/c0j93z96wd8o?at_medium=RSS&at_campaign=rss",
+      "ts": 1756366385000,
+      "url": "https://bbc.com/sport/football/articles/c0j93z96wd8o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'Martin's mess exposed - but when will it end?'",
+      "en": "'Martin's mess exposed - but when will it end?'",
+      "text_for_match": "'Martin's mess exposed - but when will it end?' BBC Scotland chief sportswriter Tom English on Russell Martin's troubling beginning at Rangers. BBC Scotland chief sportswriter Tom English on Russell Martin's troubling beginning at Rangers.",
+      "score_detail": {
+        "fresh": 0.9933695694725273,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.896
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/cgm2rz1dpl8o?at_medium=RSS&at_campaign=rss",
+      "ts": 1756366331000,
+      "url": "https://bbc.com/sport/football/articles/cgm2rz1dpl8o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Championship side keen on Idah - gossip",
+      "en": "Championship side keen on Idah - gossip",
+      "text_for_match": "Championship side keen on Idah - gossip Celtic striker linked with move to English Championship, Rangers midfielder's future in doubt & Scotland international in talks with Dundee. Celtic striker linked with move to English Championship, Rangers midfielder's future in doubt & Scotland international in talks with Dundee.",
+      "score_detail": {
+        "fresh": 0.9932261316384914,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.896
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/czr6jpel46xo?at_medium=RSS&at_campaign=rss",
+      "ts": 1756366234000,
+      "url": "https://bbc.com/sport/football/articles/czr6jpel46xo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Salah, Fernandes and Wood - FPL tips & team of week",
+      "en": "Salah, Fernandes and Wood - FPL tips & team of week",
+      "text_for_match": "Salah, Fernandes and Wood - FPL tips & team of week Is it time to move on from Cole Palmer? How do you replace Bukayo Saka? And the age-old question of Erling Haaland or Mohamed Salah? Is it time to move on from Cole Palmer? How do you replace Bukayo Saka? And the age-old question of Erling Haaland or Mohamed Salah?",
+      "score_detail": {
+        "fresh": 0.9929685268037637,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.896
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn0rn9n0wkzo?at_medium=RSS&at_campaign=rss",
@@ -67,11 +139,11 @@
       "en": "Predict how English clubs will fare in Champions League",
       "text_for_match": "Predict how English clubs will fare in Champions League With the Champions League draw taking place on Thursday, predict how a record six Premier League sides will fare this season. With the Champions League draw taking place on Thursday, predict how a record six Premier League sides will fare this season.",
       "score_detail": {
-        "fresh": 0.982809657250761,
+        "fresh": 0.9766435393816296,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.89
+      "score": 0.886
     },
     {
       "id": "https://bbc.com/sport/football/videos/c8jpd0k0l91o?at_medium=RSS&at_campaign=rss",
@@ -87,11 +159,11 @@
       "en": "Bad pitch or bad finishing? - What caused Maida's miss against Kairat",
       "text_for_match": "Bad pitch or bad finishing? - What caused Maida's miss against Kairat Match of the Day's Pat Nevin and Nedum Onuoha disagree on whether Daizen Maeda's crucial late miss against Kairat was due to a bad pitch or poor finishing from the Celtic forward, as the Glasgow side crashed out of the Champions League. Match of the Day's Pat Nevin and Nedum Onuoha disagree on whether Daizen Maeda's crucial late miss against Kairat was due to a bad pitch or poor finishing from the Celtic forward, as the Glasgow side crashed out of the Champions League.",
       "score_detail": {
-        "fresh": 0.9188716920541582,
+        "fresh": 0.9131067190321557,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.885
+      "score": 0.881
     },
     {
       "id": "https://bbc.com/sport/football/videos/cwy5zdrgrxvo?at_medium=RSS&at_campaign=rss",
@@ -107,11 +179,11 @@
       "en": "Rangers boss Martin 'embarrassed' by  'toughest night' as a manager",
       "text_for_match": "Rangers boss Martin 'embarrassed' by  'toughest night' as a manager Rangers manager Russell Martin says there was \"nothing to be proud\" of in his side's \"humiliating\" 6-0 defeat by Club Brugge as they crashed out of the Champions League. Rangers manager Russell Martin says there was \"nothing to be proud\" of in his side's \"humiliating\" 6-0 defeat by Club Brugge as they crashed out of the Champions League.",
       "score_detail": {
-        "fresh": 0.9150390610287269,
+        "fresh": 0.9092981338170981,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.882
+      "score": 0.879
     },
     {
       "id": "https://bbc.com/sport/football/videos/c754g15gq15o?at_medium=RSS&at_campaign=rss",
@@ -127,11 +199,11 @@
       "en": "Did he mean it? Jaja scores spectacular winner to send Pafos into Champions League",
       "text_for_match": "Did he mean it? Jaja scores spectacular winner to send Pafos into Champions League Pafos substitute Jaja scores a brilliant late winner to secure a 3-2 aggregate win against Red Star Belgrade in their Champions League play-off, securing the Cypriot's side's place in the the league phase of the tournament for the first time in their history. Pafos substitute Jaja scores a brilliant late winner to secure a 3-2 aggregate win against Red Star Belgrade in their Champions League play-off, securing the Cypriot's side's place in the the league phase of the tournament for the first time in their history.",
       "score_detail": {
-        "fresh": 0.9033444698027706,
+        "fresh": 0.8976769141004657,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.875
+      "score": 0.872
     },
     {
       "id": "https://bbc.com/sport/football/videos/c74dgj2ewldo?at_medium=RSS&at_campaign=rss",
@@ -147,11 +219,11 @@
       "en": "Pafos reach Champions League for first time with late winner",
       "text_for_match": "Pafos reach Champions League for first time with late winner Pafos forward Jaja scores a \"wonderful\" late volley in the 89th minute to seal victory on aggregate against Red Star Belgrade and help the Cypriot side qualify for the Champions League for the first time in their history. Pafos forward Jaja scores a \"wonderful\" late volley in the 89th minute to seal victory on aggregate against Red Star Belgrade and help the Cypriot side qualify for the Champions League for the first time in their history.",
       "score_detail": {
-        "fresh": 0.903310650569285,
+        "fresh": 0.8976433070478212,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.875
+      "score": 0.872
     },
     {
       "id": "https://bbc.com/sport/football/videos/cx29v40dpd3o?at_medium=RSS&at_campaign=rss",
@@ -167,11 +239,11 @@
       "en": "Celtic crash out of Champions League on penalties ",
       "text_for_match": "Celtic crash out of Champions League on penalties  Celtic blow their hopes of Champions League qualification, losing to FC Kairat on penalties in a dismal tie, as the Kazakhstan side qualify for the competition for the first time in their history. Celtic blow their hopes of Champions League qualification, losing to FC Kairat on penalties in a dismal tie, as the Kazakhstan side qualify for the competition for the first time in their history.",
       "score_detail": {
-        "fresh": 0.9032913258614715,
+        "fresh": 0.8976241035826364,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.875
+      "score": 0.872
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckg4x244xdpo?at_medium=RSS&at_campaign=rss",
@@ -187,11 +259,11 @@
       "en": "Chelsea close in on Garnacho - Thursday's gossip",
       "text_for_match": "Chelsea close in on Garnacho - Thursday's gossip Manchester United's Alejandro Garnacho on the verge of Chelsea move, AC Milan enter Christopher Nkunku race, Newcastle to return for Jorgen Strand Larsen, and Manchester City the most viable option for Gianluigi Donnarumma. Manchester United's Alejandro Garnacho on the verge of Chelsea move, AC Milan enter Christopher Nkunku race, Newcastle to return for Jorgen Strand Larsen, and Manchester City the most viable option for Gianluigi Donnarumma.",
       "score_detail": {
-        "fresh": 0.9001541393374596,
+        "fresh": 0.8945065996713683,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.873
+      "score": 0.87
     },
     {
       "id": "https://bbc.com/sport/football/articles/cnv7lz9nlq5o?at_medium=RSS&at_campaign=rss",
@@ -205,11 +277,11 @@
       "en": "What next for Man Utd and Amorim after humiliation at Grimsby?",
       "text_for_match": "What next for Man Utd and Amorim after humiliation at Grimsby? Was it the lowest point of Ruben Amorim's Manchester United reign? Defeat by Grimsby Town in the Carabao Cup second round leaves many questions to be answered at United. Was it the lowest point of Ruben Amorim's Manchester United reign? Defeat by Grimsby Town in the Carabao Cup second round leaves many questions to be answered at United.",
       "score_detail": {
-        "fresh": 0.9277455420350337,
+        "fresh": 0.9219248947484048,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.857
+      "score": 0.853
     },
     {
       "id": "https://bbc.com/sport/football/articles/cj4wj8478l8o?at_medium=RSS&at_campaign=rss",
@@ -223,11 +295,11 @@
       "en": "Grimsby send fans wild on famous night for club",
       "text_for_match": "Grimsby send fans wild on famous night for club League Two Grimsby seal one of the biggest nights in their history by beating Manchester United - and rightly earn plenty of post-match reaction. League Two Grimsby seal one of the biggest nights in their history by beating Manchester United - and rightly earn plenty of post-match reaction.",
       "score_detail": {
-        "fresh": 0.9215613704057981,
+        "fresh": 0.9157795224237014,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.853
+      "score": 0.849
     },
     {
       "id": "https://bbc.com/sport/football/articles/cd6n85w1e4zo?at_medium=RSS&at_campaign=rss",
@@ -241,11 +313,11 @@
       "en": "'Something has to change' - Amorim says Man Utd were 'completely lost'",
       "text_for_match": "'Something has to change' - Amorim says Man Utd were 'completely lost' Manchester United boss Ruben Amorim says his team \"were completely lost\" in slipping to a humiliating Carabao Cup defeat at Grimsby. Manchester United boss Ruben Amorim says his team \"were completely lost\" in slipping to a humiliating Carabao Cup defeat at Grimsby.",
       "score_detail": {
-        "fresh": 0.9199707294091124,
+        "fresh": 0.9141988610602039,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.852
+      "score": 0.849
     },
     {
       "id": "https://bbc.com/sport/football/articles/c99mdn4nlnzo?at_medium=RSS&at_campaign=rss",
@@ -259,11 +331,11 @@
       "en": "How 'embarrassed' Martin's 'toughest night' unfolded in Rangers hammering",
       "text_for_match": "How 'embarrassed' Martin's 'toughest night' unfolded in Rangers hammering BBC Scotland looks at what went wrong for Russell Martin and Rangers in Belgium in their Champions League play-off collapse. BBC Scotland looks at what went wrong for Russell Martin and Rangers in Belgium in their Champions League play-off collapse.",
       "score_detail": {
-        "fresh": 0.9194984987123759,
+        "fresh": 0.9137295931244821,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.852
+      "score": 0.848
     },
     {
       "id": "https://bbc.com/sport/football/videos/cvgnypj99xxo?at_medium=RSS&at_campaign=rss",
@@ -277,11 +349,11 @@
       "en": "Rangers defending 'schoolboy and amateurish' - Nevin",
       "text_for_match": "Rangers defending 'schoolboy and amateurish' - Nevin Pat Nevin, Nedum Onuoha and James McFadden discuss Rangers' \"amateurish\" defending against Club Brugge as they suffered a brutal 6-0 loss in the second leg of their Champions League play-off tie. Pat Nevin, Nedum Onuoha and James McFadden discuss Rangers' \"amateurish\" defending against Club Brugge as they suffered a brutal 6-0 loss in the second leg of their Champions League play-off tie.",
       "score_detail": {
-        "fresh": 0.9184835321452958,
+        "fresh": 0.9127209944267444,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.851
+      "score": 0.848
     },
     {
       "id": "https://bbc.com/sport/football/articles/cvgnyexnmxyo?at_medium=RSS&at_campaign=rss",
@@ -295,11 +367,11 @@
       "en": "Grimsby beating Man Utd joins ranks of biggest cup upsets",
       "text_for_match": "Grimsby beating Man Utd joins ranks of biggest cup upsets BBC Sport looks at the history of the biggest FA Cup and EFL Cup upsets after Grimsby's shock win against Manchester United. BBC Sport looks at the history of the biggest FA Cup and EFL Cup upsets after Grimsby's shock win against Manchester United.",
       "score_detail": {
-        "fresh": 0.9176169064220292,
+        "fresh": 0.9118598058868822,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.851
+      "score": 0.847
     },
     {
       "id": "https://bbc.com/sport/football/articles/clyvk73m7leo?at_medium=RSS&at_campaign=rss",
@@ -313,11 +385,11 @@
       "en": "Holders Newcastle to host Bradford in Carabao Cup",
       "text_for_match": "Holders Newcastle to host Bradford in Carabao Cup Holders Newcastle will take on League One Bradford City at home in the third round of the Carabao Cup. Full draw included. Holders Newcastle will take on League One Bradford City at home in the third round of the Carabao Cup. Full draw included. ",
       "score_detail": {
-        "fresh": 0.9112345999194504,
+        "fresh": 0.9055175417809991,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.847
+      "score": 0.843
     },
     {
       "id": "https://bbc.com/sport/football/videos/ce93ej35803o?at_medium=RSS&at_campaign=rss",
@@ -331,11 +403,11 @@
       "en": "Copenhagen beat Basel 2-0 to reach Champions League",
       "text_for_match": "Copenhagen beat Basel 2-0 to reach Champions League Goals from Andreas Cornelius and Youssoufa Moukoko lead Copenhagen to a 2-0 victory against Basel as the Danish side reaches the league phase of the Champions League. Goals from Andreas Cornelius and Youssoufa Moukoko lead Copenhagen to a 2-0 victory against Basel as the Danish side reaches the league phase of the Champions League.",
       "score_detail": {
-        "fresh": 0.9085410463294188,
+        "fresh": 0.9028408874641891,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.845
+      "score": 0.842
     },
     {
       "id": "https://bbc.com/sport/football/videos/cy8jev8qw2zo?at_medium=RSS&at_campaign=rss",
@@ -349,11 +421,11 @@
       "en": "Bodo/Glimt beat Sturm Graz to reach Champions League for first time ",
       "text_for_match": "Bodo/Glimt beat Sturm Graz to reach Champions League for first time  Bodo/Glimt reach the Champions League main draw for the first time in their history, despite a second leg 2-1 defeat against Sturm Graz, as the Norwegian side qualified 6-2 on aggregate in their play-off tie. Bodo/Glimt reach the Champions League main draw for the first time in their history, despite a second leg 2-1 defeat against Sturm Graz, as the Norwegian side qualified 6-2 on aggregate in their play-off tie.",
       "score_detail": {
-        "fresh": 0.9033227287216108,
+        "fresh": 0.8976553094221871,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.842
+      "score": 0.839
     },
     {
       "id": "https://bbc.com/sport/football/videos/c1dxl5ngq6vo?at_medium=RSS&at_campaign=rss",
@@ -367,11 +439,11 @@
       "en": "Qarabag hold on against Ferencavos to qualify in Champions League thriller",
       "text_for_match": "Qarabag hold on against Ferencavos to qualify in Champions League thriller Qarabag hold on against Robbie Keane's Ferencavos side to win 5-4 on aggregate despite a spirited comeback attempt by the Hungarians in their Champions League qualifier. Qarabag hold on against Robbie Keane's Ferencavos side to win 5-4 on aggregate despite a spirited comeback attempt by the Hungarians in their Champions League qualifier.",
       "score_detail": {
-        "fresh": 0.9032478467804352,
+        "fresh": 0.8975808972880308,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.842
+      "score": 0.839
     },
     {
       "id": "https://bbc.com/sport/football/videos/c2l78n7d57qo?at_medium=RSS&at_campaign=rss",
@@ -385,11 +457,11 @@
       "en": "'Humiliating!' Club Brugge thump 10-man Rangers 6-0",
       "text_for_match": "'Humiliating!' Club Brugge thump 10-man Rangers 6-0 Russell Martin's Rangers side suffer \"one of the most embarrassing nights in their European history\" as they are demolished 6-0 by Club Brugge after going down to 10 men to lose 9-1 on aggregate in the Champions League play-offs. Russell Martin's Rangers side suffer \"one of the most embarrassing nights in their European history\" as they are demolished 6-0 by Club Brugge after going down to 10 men to lose 9-1 on aggregate in the Champions League play-offs.",
       "score_detail": {
-        "fresh": 0.9031005165689852,
+        "fresh": 0.8974344914218422,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.842
+      "score": 0.838
     },
     {
       "id": "https://bbc.com/sport/football/articles/c707l4kxwlwo?at_medium=RSS&at_campaign=rss",
@@ -403,11 +475,11 @@
       "en": "Oxlade-Chamberlain's Besiktas contract terminated",
       "text_for_match": "Oxlade-Chamberlain's Besiktas contract terminated Former Arsenal and Liverpool midfielder Alex Oxlade-Chamberlain mutually agrees to terminate his contract at Turkish club Besiktas. Former Arsenal and Liverpool midfielder Alex Oxlade-Chamberlain mutually agrees to terminate his contract at Turkish club Besiktas.",
       "score_detail": {
-        "fresh": 0.8726899195652725,
+        "fresh": 0.8672146895779167,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.824
+      "score": 0.82
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0lzbf1l?at_medium=RSS&at_campaign=rss",
@@ -421,11 +493,11 @@
       "en": "Football Daily",
       "text_for_match": "Football Daily Aaron Paul, Jobi McAnuff & Tommy Smith talk EFL as Danny Ings joins Sheffield United. Aaron Paul, Jobi McAnuff & Tommy Smith talk EFL as Danny Ings joins Sheffield United.",
       "score_detail": {
-        "fresh": 0.8709250736496188,
+        "fresh": 0.8654609162518092,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.823
+      "score": 0.819
     },
     {
       "id": "https://bbc.com/sport/football/articles/czxyqv4zvn7o?at_medium=RSS&at_campaign=rss",
@@ -441,11 +513,11 @@
       "en": "Ballard set to miss NI's World Cup qualifiers",
       "text_for_match": "Ballard set to miss NI's World Cup qualifiers Defender Daniel Ballard is set to miss Northern Ireland’s World Cup qualifiers against Luxembourg and Germany next month through injury Defender Daniel Ballard is set to miss Northern Ireland’s World Cup qualifiers against Luxembourg and Germany next month through injury",
       "score_detail": {
-        "fresh": 0.813047422751301,
+        "fresh": 0.8079463879732118,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.821
+      "score": 0.818
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp893r0d3ddo?at_medium=RSS&at_campaign=rss",
@@ -461,11 +533,11 @@
       "en": "Transfers - August 2025",
       "text_for_match": "Transfers - August 2025 Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "score_detail": {
-        "fresh": 0.8097492942042727,
+        "fresh": 0.80466895178428,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.819
+      "score": 0.816
     },
     {
       "id": "https://bbc.com/sport/football/articles/c209evd067vo?at_medium=RSS&at_campaign=rss",
@@ -481,29 +553,11 @@
       "en": "Wolves reject £55m Newcastle bid for Strand Larsen",
       "text_for_match": "Wolves reject £55m Newcastle bid for Strand Larsen Wolves reject Newcastle's second bid for striker Jorgen Strand Larsen, who scored twice in the win over West Ham on Tuesday night. Wolves reject Newcastle's second bid for striker Jorgen Strand Larsen, who scored twice in the win over West Ham on Tuesday night.\n\n",
       "score_detail": {
-        "fresh": 0.803603469708007,
+        "fresh": 0.7985616860038016,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.815
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c9d0wypw8xzo?at_medium=RSS&at_campaign=rss",
-      "ts": 1756305490000,
-      "url": "https://bbc.com/sport/football/articles/c9d0wypw8xzo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Bloom leading the way for AI in Scottish football at Hearts",
-      "en": "Bloom leading the way for AI in Scottish football at Hearts",
-      "text_for_match": "Bloom leading the way for AI in Scottish football at Hearts BBC Scotland looks at Tony Bloom's plan for Hearts and how AI is reshaping the football landscape. BBC Scotland looks at Tony Bloom's plan for Hearts and how AI is reshaping the football landscape.",
-      "score_detail": {
-        "fresh": 0.8494188219310901,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.81
+      "score": 0.812
     },
     {
       "id": "https://bbc.com/sport/football/articles/cgm2k3xl74ko?at_medium=RSS&at_campaign=rss",
@@ -517,11 +571,11 @@
       "en": "'It's very bleak' - what's gone wrong at West Ham?",
       "text_for_match": "'It's very bleak' - what's gone wrong at West Ham? BBC Sport analyses the issues behind West Ham's poor start to the season. BBC Sport analyses the issues behind West Ham's poor start to the season.",
       "score_detail": {
-        "fresh": 0.8358896496817737,
+        "fresh": 0.8306453034673269,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.802
+      "score": 0.798
     },
     {
       "id": "https://bbc.com/sport/football/articles/c9vd4wegp1go?at_medium=RSS&at_campaign=rss",
@@ -535,11 +589,11 @@
       "en": "Fan reaction - did 'biscuit tin mentality' lead to Celtic's exit?",
       "text_for_match": "Fan reaction - did 'biscuit tin mentality' lead to Celtic's exit? Board parsimony? Brendan Rodgers ineptitude? Players lacking talent or heart? Analysing Celtic's Champions League exit. Board parsimony? Brendan Rodgers ineptitude? Players lacking talent or heart? Analysing Celtic's Champions League exit.",
       "score_detail": {
-        "fresh": 0.8270336237353365,
+        "fresh": 0.8218448399580666,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.796
+      "score": 0.793
     },
     {
       "id": "https://bbc.com/sport/football/articles/cgerwendwdwo?at_medium=RSS&at_campaign=rss",
@@ -553,11 +607,11 @@
       "en": "Newcastle's Isak named in Sweden squad",
       "text_for_match": "Newcastle's Isak named in Sweden squad Alexander Isak is in the Sweden squad for the World Cup qualifiers despite not playing any football this season as he pushes to leave Newcastle. Alexander Isak is in the Sweden squad for the World Cup qualifiers despite not playing any football this season as he pushes to leave Newcastle.",
       "score_detail": {
-        "fresh": 0.8260367771923195,
+        "fresh": 0.8208542475999127,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.796
+      "score": 0.793
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx2pk253k7ko?at_medium=RSS&at_campaign=rss",
@@ -571,11 +625,11 @@
       "en": "FAI launches voluntary redundancy programme",
       "text_for_match": "FAI launches voluntary redundancy programme The Football Association of Ireland announces it is launching a voluntary redundancy programme and may have to move towards compulsory job losses. The Football Association of Ireland announces it is launching a voluntary redundancy programme and may have to move towards compulsory job losses.",
       "score_detail": {
-        "fresh": 0.8249705333530282,
+        "fresh": 0.8197946933420085,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.795
+      "score": 0.792
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx2xmmzdd57o?at_medium=RSS&at_campaign=rss",
@@ -589,11 +643,11 @@
       "en": "Depth & transfers - Wrexham's squad state of play",
       "text_for_match": "Depth & transfers - Wrexham's squad state of play BBC Sport assesses the Wrexham's squad that has undergone a radical makeover since promotion the Championship. BBC Sport assesses the Wrexham's squad that has undergone a radical makeover since promotion the Championship.",
       "score_detail": {
-        "fresh": 0.8179432601919235,
+        "fresh": 0.8128115090787797,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.791
+      "score": 0.788
     },
     {
       "id": "https://bbc.com/sport/football/articles/cde3w1l7pddo?at_medium=RSS&at_campaign=rss",
@@ -607,11 +661,11 @@
       "en": "Palace agree £26m deal for Villarreal winger Pino",
       "text_for_match": "Palace agree £26m deal for Villarreal winger Pino Crystal Palace agree a deal in principle worth up to £26m with Villarreal for Spain winger Yeremy Pino. Crystal Palace agree a deal in principle worth up to £26m with Villarreal for Spain winger Yeremy Pino.",
       "score_detail": {
-        "fresh": 0.812653981569909,
+        "fresh": 0.8075554152298141,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.788
+      "score": 0.785
     },
     {
       "id": "https://bbc.com/sport/football/articles/c78mg272jemo?at_medium=RSS&at_campaign=rss",
@@ -625,11 +679,11 @@
       "en": "Sheff Utd sign striker Ings on one-year deal",
       "text_for_match": "Sheff Utd sign striker Ings on one-year deal Sheffield United sign former Liverpool and England striker Danny Ings on a one-year deal following his release by West Ham earlier this summer. Sheffield United sign former Liverpool and England striker Danny Ings on a one-year deal following his release by West Ham earlier this summer.",
       "score_detail": {
-        "fresh": 0.8114183812083585,
+        "fresh": 0.8063275669873156,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.787
+      "score": 0.784
     },
     {
       "id": "https://bbc.com/sport/football/articles/cjeyj8d8pn5o?at_medium=RSS&at_campaign=rss",
@@ -643,11 +697,11 @@
       "en": "'Stability recipe for success' - PFA on young stars",
       "text_for_match": "'Stability recipe for success' - PFA on young stars Stability and honest conversations will help young players thrive in the game, says the Professional Footballers' Association. Stability and honest conversations will help young players thrive in the game, says the Professional Footballers' Association.",
       "score_detail": {
-        "fresh": 0.8084013641129808,
+        "fresh": 0.8033294785653448,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.785
+      "score": 0.782
     },
     {
       "id": "https://bbc.com/sport/football/articles/c627qrv2rweo?at_medium=RSS&at_campaign=rss",
@@ -661,11 +715,11 @@
       "en": "Republic of Ireland boss happy with players' form",
       "text_for_match": "Republic of Ireland boss happy with players' form Republic of Ireland head coach Heimir Hallgrimsson hails the form of strikers Troy Parrott and Evan Ferguson in the build-up to World Cup qualifying. Republic of Ireland head coach Heimir Hallgrimsson hails the form of strikers Troy Parrott and Evan Ferguson in the build-up to World Cup qualifying. ",
       "score_detail": {
-        "fresh": 0.7914408208362045,
+        "fresh": 0.7864753452207436,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.775
+      "score": 0.772
     },
     {
       "id": "https://bbc.com/sport/football/articles/c8denljlv64o?at_medium=RSS&at_campaign=rss",
@@ -679,11 +733,11 @@
       "en": "Where does blame lie for Celtic's Champions League embarrassment?",
       "text_for_match": "Where does blame lie for Celtic's Champions League embarrassment? BBC Scotland chief sportswriter Tom English analyses the causes of - and the likely fallout from - Celtic's Champions League exit. BBC Scotland chief sportswriter Tom English analyses the causes of - and the likely fallout from - Celtic's Champions League exit.",
       "score_detail": {
-        "fresh": 0.7867393801584202,
+        "fresh": 0.7818034012386419,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.772
+      "score": 0.769
     },
     {
       "id": "https://bbc.com/sport/football/articles/c860n47eyeqo?at_medium=RSS&at_campaign=rss",
@@ -697,11 +751,11 @@
       "en": "'He's at Theatre of Dreams, I'm at Theatre of Trees' - the Fernandes brothers",
       "text_for_match": "'He's at Theatre of Dreams, I'm at Theatre of Trees' - the Fernandes brothers Meet Ricardo Fernandes, the brother of the Manchester United captain Bruno, who plays in the ninth tier of English football. Meet Ricardo Fernandes, the brother of the Manchester United captain Bruno, who plays in the ninth tier of English football.",
       "score_detail": {
-        "fresh": 0.7863124080400312,
+        "fresh": 0.7813791079303252,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.772
+      "score": 0.769
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0lz39vj?at_medium=RSS&at_campaign=rss",
@@ -715,65 +769,11 @@
       "en": "FPL Podcast from BBC Sport",
       "text_for_match": "FPL Podcast from BBC Sport Alistair Bruce-Ball, Chris Sutton and Statman Dave have all of the latest FPL advice. Alistair Bruce-Ball, Chris Sutton and Statman Dave have all of the latest FPL advice.",
       "score_detail": {
-        "fresh": 0.7382567704006571,
+        "fresh": 0.7336249698985041,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.743
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/cwy5e1n5zwgo?at_medium=RSS&at_campaign=rss",
-      "ts": 1756248327000,
-      "url": "https://bbc.com/sport/football/articles/cwy5e1n5zwgo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Sheff Wed show 'togetherness' amid protests at owner",
-      "en": "Sheff Wed show 'togetherness' amid protests at owner",
-      "text_for_match": "Sheff Wed show 'togetherness' amid protests at owner Sheffield Wednesday are showing a \"togetherness\" despite supporter protests against the club's owner as the Owls stunned Leeds in the Carabao Cup. Sheffield Wednesday are showing a \"togetherness\" despite supporter protests against the club's owner as the Owls stunned Leeds in the Carabao Cup.",
-      "score_detail": {
-        "fresh": 0.729010610030381,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.737
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c80dnj4nxkzo?at_medium=RSS&at_campaign=rss",
-      "ts": 1756248069000,
-      "url": "https://bbc.com/sport/football/articles/c80dnj4nxkzo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Pafos, Bodo/Glimt join Kairat among Champions League debutants",
-      "en": "Pafos, Bodo/Glimt join Kairat among Champions League debutants",
-      "text_for_match": "Pafos, Bodo/Glimt join Kairat among Champions League debutants Pafos FC of Cyprus and Norway's Bodo/Glimt will make their Champions League debuts this season after progressing through the qualifying play-offs on Tuesday. Pafos FC of Cyprus and Norway's Bodo/Glimt will make their Champions League debuts this season after progressing through the qualifying play-offs on Tuesday.",
-      "score_detail": {
-        "fresh": 0.7285078112571989,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.737
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/cp8zermdnglo?at_medium=RSS&at_campaign=rss",
-      "ts": 1756244780000,
-      "url": "https://bbc.com/sport/football/articles/cp8zermdnglo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "How did Celtic let Champions League dream slip?",
-      "en": "How did Celtic let Champions League dream slip?",
-      "text_for_match": "How did Celtic let Champions League dream slip? How were Celtic stunned in Kazakhstan by Kairat Almaty to miss Champions League bid? How were Celtic stunned in Kazakhstan by Kairat Almaty to miss Champions League bid?",
-      "score_detail": {
-        "fresh": 0.72212840795858,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.733
+      "score": 0.74
     },
     {
       "id": "https://bbc.com/sport/football/articles/clyvx8eznvmo?at_medium=RSS&at_campaign=rss",
@@ -789,11 +789,11 @@
       "en": "Wolves close to £26m deal for Girona's Krejci",
       "text_for_match": "Wolves close to £26m deal for Girona's Krejci Wolves are close to signing Girona defender Ladislav Krejci for £26m, with the player set to have a medical this week. Wolves are close to signing Girona defender Ladislav Krejci for £26m, with the player set to have a medical this week.",
       "score_detail": {
-        "fresh": 0.6549896996816925,
+        "fresh": 0.6508803142462645,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.726
+      "score": 0.724
     },
     {
       "id": "https://bbc.com/sport/football/articles/cgjye1144l2o?at_medium=RSS&at_campaign=rss",
@@ -807,11 +807,11 @@
       "en": "How Liverpool wrestled Ngumoha away from Chelsea",
       "text_for_match": "How Liverpool wrestled Ngumoha away from Chelsea Sixteen-year-old sensation Rio Ngumoha is the talk of English football after his last-minute winner for Liverpool, but why did he leave Chelsea? Sixteen-year-old sensation Rio Ngumoha is the talk of English football after his last-minute winner for Liverpool, but why did he leave Chelsea?",
       "score_detail": {
-        "fresh": 0.693596046831584,
+        "fresh": 0.6892444463494615,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.716
+      "score": 0.714
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwy5jw801q2o?at_medium=RSS&at_campaign=rss",
@@ -827,11 +827,11 @@
       "en": "'Chelsea were angry to lose him' - who is Liverpool's Ngumoha?",
       "text_for_match": "'Chelsea were angry to lose him' - who is Liverpool's Ngumoha? Sixteen-year-old Rio Ngumoha scores the winning goal for Liverpool against Newcastle in the Premier League, but who is he? Sixteen-year-old Rio Ngumoha scores the winning goal for Liverpool against Newcastle in the Premier League, but who is he?",
       "score_detail": {
-        "fresh": 0.5725761546424871,
+        "fresh": 0.5689838292796536,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.71
+      "score": 0.708
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp94e0d531go?at_medium=RSS&at_campaign=rss",
@@ -845,11 +845,11 @@
       "en": "Safeguarding, GCSE focus & famous mentors - Arsenal's support for Dowman's rise",
       "text_for_match": "Safeguarding, GCSE focus & famous mentors - Arsenal's support for Dowman's rise Max Dowman made his Premier League debut at 15 years and 234 days last weekend - this is how Arsenal are supporting his progress in every sense. Max Dowman made his Premier League debut at 15 years and 234 days last weekend - this is how Arsenal are supporting his progress in every sense.",
       "score_detail": {
-        "fresh": 0.6613469866875641,
+        "fresh": 0.6571977158270013,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.697
+      "score": 0.694
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce83lze9j6xo?at_medium=RSS&at_campaign=rss",
@@ -863,11 +863,11 @@
       "en": "No European games a positive for Man Utd - Amorim",
       "text_for_match": "No European games a positive for Man Utd - Amorim Manchester United head coach Ruben Amorim is convinced his side is better off without having a European campaign to distract them this season. Manchester United head coach Ruben Amorim is convinced his side is better off without having a European campaign to distract them this season.",
       "score_detail": {
-        "fresh": 0.6605145192141854,
+        "fresh": 0.6563704712292069,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.696
+      "score": 0.694
     },
     {
       "id": "https://bbc.com/sport/football/articles/c9394kj4q03o?at_medium=RSS&at_campaign=rss",
@@ -881,11 +881,11 @@
       "en": "Crystal Palace make approach for Man City's Akanji",
       "text_for_match": "Crystal Palace make approach for Man City's Akanji Crystal Palace make an approach to sign Manchester City defender Manuel Akanji, who is valued at about £15m. Crystal Palace make an approach to sign Manchester City defender Manuel Akanji, who is valued at about £15m.",
       "score_detail": {
-        "fresh": 0.6537402792637341,
+        "fresh": 0.6496387326539713,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.692
+      "score": 0.69
     },
     {
       "id": "https://bbc.com/sport/football/articles/cjeyjwq9kkno?at_medium=RSS&at_campaign=rss",
@@ -899,11 +899,11 @@
       "en": "'I'm not sure I saw a football match' - Slot on Newcastle gameplan",
       "text_for_match": "'I'm not sure I saw a football match' - Slot on Newcastle gameplan Manager Arne Slot says \"he is not too sure he saw a football match\" as he questioned Newcastle's tactics during Liverpool's 3-2 win at St James' Park. Manager Arne Slot says \"he is not too sure he saw a football match\" as he questioned Newcastle's tactics during Liverpool's 3-2 win at St James' Park.",
       "score_detail": {
-        "fresh": 0.637631197965109,
+        "fresh": 0.6336307192409921,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.683
+      "score": 0.68
     },
     {
       "id": "https://bbc.com/sport/football/videos/cdd3l8ld2pyo?at_medium=RSS&at_campaign=rss",
@@ -919,11 +919,11 @@
       "en": "Howe praises 'incredible' Newcastle performance in Liverpool loss",
       "text_for_match": "Howe praises 'incredible' Newcastle performance in Liverpool loss Newcastle manager Eddie Howe is full of praise for his side despite their 3-2 defeat to Liverpool at St James' Park, after the away side scored a 100th-minute winner. Newcastle manager Eddie Howe is full of praise for his side despite their 3-2 defeat to Liverpool at St James' Park, after the away side scored a 100th-minute winner.",
       "score_detail": {
-        "fresh": 0.5745348025438364,
+        "fresh": 0.5709301886836985,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.678
+      "score": 0.676
     },
     {
       "id": "https://bbc.com/sport/football/videos/c1w8yv101gxo?at_medium=RSS&at_campaign=rss",
@@ -939,11 +939,11 @@
       "en": "Teenager Ngumoha scores last-minute winner as Liverpool beat Newcastle",
       "text_for_match": "Teenager Ngumoha scores last-minute winner as Liverpool beat Newcastle Teenager Rio Ngumoha scores a 100th-minute winner as Liverpool beat Newcastle 3-2 in the Premier League, with the 16-year old becoming the youngest scorer in the club's history on a dramatic night at St James' Park. Teenager Rio Ngumoha scores a 100th-minute winner as Liverpool beat Newcastle 3-2 in the Premier League, with the 16-year old becoming the youngest scorer in the club's history on a dramatic night at St James' Park. ",
       "score_detail": {
-        "fresh": 0.5731874179586934,
+        "fresh": 0.5695912575484232,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.677
+      "score": 0.675
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy4dexp5lpxo?at_medium=RSS&at_campaign=rss",
@@ -957,11 +957,11 @@
       "en": "Who has made Troy's Premier League team of the week?",
       "text_for_match": "Who has made Troy's Premier League team of the week? After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "score_detail": {
-        "fresh": 0.5796366895020002,
+        "fresh": 0.5760000665584076,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.648
+      "score": 0.646
     },
     {
       "id": "https://bbc.com/sport/football/videos/c4gey1yn5q8o?at_medium=RSS&at_campaign=rss",
@@ -975,11 +975,11 @@
       "en": "'A feeling of relief' - Slot proud of Liverpool's mentality after win",
       "text_for_match": "'A feeling of relief' - Slot proud of Liverpool's mentality after win Liverpool manager Arne Slot admits he is \"relieved\" after seeing his side score a 100th-minute winner to beat 10-man Newcastle 3-2 in a thrilling encounter at St James' Park in the Premier League. Liverpool manager Arne Slot admits he is \"relieved\" after seeing his side score a 100th-minute winner to beat 10-man Newcastle 3-2 in a thrilling encounter at St James' Park in the Premier League. ",
       "score_detail": {
-        "fresh": 0.5766111610524324,
+        "fresh": 0.5729935201822237,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.646
+      "score": 0.644
     },
     {
       "id": "https://bbc.com/sport/football/articles/c80d1vnyl5do?at_medium=RSS&at_campaign=rss",
@@ -993,29 +993,11 @@
       "en": "Talks stall in Man Utd move for Germany's Hoffmann",
       "text_for_match": "Talks stall in Man Utd move for Germany's Hoffmann Transfer talks stall as Manchester United attempt to sign Germany forward Giovanna Hoffmann from RB Leipzig, making the move unlikely to happen. Transfer talks stall as Manchester United attempt to sign Germany forward Giovanna Hoffmann from RB Leipzig, making the move unlikely to happen.",
       "score_detail": {
-        "fresh": 0.5444187738448001,
+        "fresh": 0.5410031070318736,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.627
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c2djywy3754o?at_medium=RSS&at_campaign=rss",
-      "ts": 1756136354000,
-      "url": "https://bbc.com/sport/football/articles/c2djywy3754o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "What we noticed from the Premier League weekend",
-      "en": "What we noticed from the Premier League weekend",
-      "text_for_match": "What we noticed from the Premier League weekend The second weekend of the Premier League season brought with it numerous interesting tactical tweaks and the clever use of certain players - here is what BBC Sport learned. The second weekend of the Premier League season brought with it numerous interesting tactical tweaks and the clever use of certain players - here is what BBC Sport learned.",
-      "score_detail": {
-        "fresh": 0.540369112640532,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.624
+      "score": 0.625
     },
     {
       "id": "https://bbc.com/sport/football/videos/cly4pedyzl8o?at_medium=RSS&at_campaign=rss",
@@ -1032,11 +1014,11 @@
       "en": "Spurs stun Man City to make it back-to-back wins under Frank",
       "text_for_match": "Spurs stun Man City to make it back-to-back wins under Frank Joao Palhinha scores his first goal since joining Tottenham as they beat Man City 2-0 at Etihad Stadium to make it two wins from two under Thomas Frank. Joao Palhinha scores his first goal since joining Tottenham as they beat Man City 2-0 at Etihad Stadium to make it two wins from two under Thomas Frank.",
       "score_detail": {
-        "fresh": 0.35147556127339635,
+        "fresh": 0.3492704143022185,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.611
+      "score": 0.61
     },
     {
       "id": "https://bbc.com/sport/football/videos/cly7r5xdq31o?at_medium=RSS&at_campaign=rss",
@@ -1052,11 +1034,11 @@
       "en": "Palace and Forest share the points at Selhurst Park",
       "text_for_match": "Palace and Forest share the points at Selhurst Park Crystal Palace and Nottingham Forest play out a 1-1 draw in a feisty Premier League encounter at Selhurst Park. Crystal Palace and Nottingham Forest play out a 1-1 draw in a feisty Premier League encounter at Selhurst Park.",
       "score_detail": {
-        "fresh": 0.44292383622955767,
+        "fresh": 0.44014494556533784,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.599
+      "score": 0.597
     },
     {
       "id": "https://bbc.com/sport/football/videos/c6271z1g1wwo?at_medium=RSS&at_campaign=rss",
@@ -1072,11 +1054,11 @@
       "en": "Grealish shines in Everton's first win at new stadium",
       "text_for_match": "Grealish shines in Everton's first win at new stadium Jack Grealish gets two assists as Iliman Ndiaye and James Garner score to give Everton a 2-0 win over Brighton & Hove Albion and a strong start to life at the Hill Dickinson stadium. Jack Grealish gets two assists as Iliman Ndiaye and James Garner score to give Everton a 2-0 win over Brighton & Hove Albion and a strong start to life at the Hill Dickinson stadium.",
       "score_detail": {
-        "fresh": 0.4429190984245225,
+        "fresh": 0.44014023748514713,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.599
+      "score": 0.597
     },
     {
       "id": "https://bbc.com/sport/football/articles/c336j3d4rn7o?at_medium=RSS&at_campaign=rss",
@@ -1090,11 +1072,11 @@
       "en": "What does your club need before transfer window shuts?",
       "text_for_match": "What does your club need before transfer window shuts? Premier League clubs have spent more than £2bn this summer - but with transfer deadline day nearing, there are more deals to be done. Phil McNulty assesses each top-flight club's potential activity. Premier League clubs have spent more than £2bn this summer - but with transfer deadline day nearing, there are more deals to be done. Phil McNulty assesses each top-flight club's potential activity.",
       "score_detail": {
-        "fresh": 0.4947513694508893,
+        "fresh": 0.49164731442106574,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.597
+      "score": 0.595
     },
     {
       "id": "https://bbc.com/sport/football/videos/c80d2pj8x52o?at_medium=RSS&at_campaign=rss",
@@ -1108,11 +1090,11 @@
       "en": "Fernandes misses penalty as Man Utd draw at Fulham",
       "text_for_match": "Fernandes misses penalty as Man Utd draw at Fulham Bruno Fernandes misses a penalty in the first half as Manchester United draw 1-1 against Fulham at Craven Cottage. Bruno Fernandes misses a penalty in the first half as Manchester United draw 1-1 against Fulham at Craven Cottage.",
       "score_detail": {
-        "fresh": 0.44291436067016593,
+        "fresh": 0.4401355294553172,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.566
+      "score": 0.564
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwye3yydw44o?at_medium=RSS&at_campaign=rss",
@@ -1126,11 +1108,11 @@
       "en": "The making of Spain and Arsenal's humble magician",
       "text_for_match": "The making of Spain and Arsenal's humble magician The inside story of Ballon d'Or nominee Mariona Caldentey's journey to becoming one of the world's best footballers. The inside story of Ballon d'Or nominee Mariona Caldentey's journey to becoming one of the world's best footballers.",
       "score_detail": {
-        "fresh": 0.39262037077579787,
+        "fresh": 0.3901570825224062,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.536
+      "score": 0.534
     },
     {
       "id": "https://bbc.com/sport/football/articles/cz93gnn7ld2o?at_medium=RSS&at_campaign=rss",
@@ -1144,11 +1126,11 @@
       "en": "As Everton move: How do teams fare at new stadiums?",
       "text_for_match": "As Everton move: How do teams fare at new stadiums? Everton will start competitive life at their new Hill Dickinson Stadium against Brighton - but how do Premier League sides usually fare at their new grounds? Everton will start competitive life at their new Hill Dickinson Stadium against Brighton - but how do Premier League sides usually fare at their new grounds?",
       "score_detail": {
-        "fresh": 0.3900167980605762,
+        "fresh": 0.38756984454313725,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.534
+      "score": 0.533
     },
     {
       "id": "https://bbc.com/sport/football/articles/crm4p9xkwlko?at_medium=RSS&at_campaign=rss",
@@ -1162,11 +1144,11 @@
       "en": "Skill, confidence & laughs - schoolboy Dowman takes to Premier League",
       "text_for_match": "Skill, confidence & laughs - schoolboy Dowman takes to Premier League Max Dowman becomes Arsenal's second-youngest player and wins a penalty on his Premier League debut against Leeds aged 15 years and 234 days. Max Dowman becomes Arsenal's second-youngest player and wins a penalty on his Premier League debut against Leeds aged 15 years and 234 days.",
       "score_detail": {
-        "fresh": 0.3578890348547944,
+        "fresh": 0.35564364994561737,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.515
+      "score": 0.513
     },
     {
       "id": "https://bbc.com/sport/football/articles/cz718n338r3o?at_medium=RSS&at_campaign=rss",
@@ -1182,11 +1164,11 @@
       "en": "Williamson to miss start of WSL season with injury",
       "text_for_match": "Williamson to miss start of WSL season with injury England captain Leah Williamson is set to miss the start of the Women's Super League season because of a knee injury she suffered in the Euro 2025 final. England captain Leah Williamson is set to miss the start of the Women's Super League season because of a knee injury she suffered in the Euro 2025 final.",
       "score_detail": {
-        "fresh": 0.21269229097420544,
+        "fresh": 0.21135786601579465,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.494
+      "score": 0.493
     },
     {
       "id": "https://bbc.com/sport/football/articles/cg504nqrn1zo?at_medium=RSS&at_campaign=rss",
@@ -1200,11 +1182,11 @@
       "en": "'In our DNA' - how the Scots took over Italian football",
       "text_for_match": "'In our DNA' - how the Scots took over Italian football With six of the Scotland squad lining up in Serie A this season, BBC Sport looks at how Scottish players took over Italian football. With six of the Scotland squad lining up in Serie A this season, BBC Sport looks at how Scottish players took over Italian football.",
       "score_detail": {
-        "fresh": 0.3161683377366601,
+        "fresh": 0.3141847072110657,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.49
+      "score": 0.489
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy0q2ngven5o?at_medium=RSS&at_campaign=rss",
@@ -1218,11 +1200,11 @@
       "en": "Marseille duo's row was like 'bar fight' - De Zerbi",
       "text_for_match": "Marseille duo's row was like 'bar fight' - De Zerbi Marseille boss Roberto de Zerbi says team-mates Adrien Rabiot and Jonathan Rowe were placed on the transfer list after an altercation that was like a \"bar fight\". Marseille boss Roberto de Zerbi says team-mates Adrien Rabiot and Jonathan Rowe were placed on the transfer list after an altercation that was like a \"bar fight\".",
       "score_detail": {
-        "fresh": 0.26914540579976387,
+        "fresh": 0.2674567957175848,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.461
+      "score": 0.46
     },
     {
       "id": "https://bbc.com/sport/football/articles/c754kq0e32wo?at_medium=RSS&at_campaign=rss",
@@ -1238,11 +1220,11 @@
       "en": "How Arsenal won the signing of Eze and where he could fit in",
       "text_for_match": "How Arsenal won the signing of Eze and where he could fit in An Arsenal fan as a boy, Eberechi Eze rejected rivals Tottenham to join the Gunners. But how has the move happened? An Arsenal fan as a boy, Eberechi Eze rejected rivals Tottenham to join the Gunners. But how has the move happened?",
       "score_detail": {
-        "fresh": 0.21321506990628153,
+        "fresh": 0.2118773650487663,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.461
+      "score": 0.46
     },
     {
       "id": "https://bbc.com/sport/football/articles/c8de56y6639o?at_medium=RSS&at_campaign=rss",
@@ -1256,11 +1238,11 @@
       "en": "Who could be Bundesliga's new stars?",
       "text_for_match": "Who could be Bundesliga's new stars? BBC Sport looks at who could be some of the new star names in the Bundesliga this season after several key departures? BBC Sport looks at who could be some of the new star names in the Bundesliga this season after several key departures?",
       "score_detail": {
-        "fresh": 0.24868100134483032,
+        "fresh": 0.24712078431318735,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.449
+      "score": 0.448
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp3el403v3ro?at_medium=RSS&at_campaign=rss",
@@ -1274,11 +1256,11 @@
       "en": "Orlando Pride sign Ovalle for £1.1m record fee",
       "text_for_match": "Orlando Pride sign Ovalle for £1.1m record fee Orlando Pride make Lizbeth Ovalle the most expensive signing in women's football history by signing the Mexico winger from Tigres UANL. Orlando Pride make Lizbeth Ovalle the most expensive signing in women's football history by signing the Mexico winger from Tigres UANL. ",
       "score_detail": {
-        "fresh": 0.21446799080339526,
+        "fresh": 0.2131224251583152,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.429
+      "score": 0.428
     },
     {
       "id": "https://bbc.com/sport/football/articles/c776mzp838mo?at_medium=RSS&at_campaign=rss",
@@ -1292,11 +1274,11 @@
       "en": "How much have Arsenal spent under Arteta?",
       "text_for_match": "How much have Arsenal spent under Arteta? BBC Sport's Ask Me Anything team explores how much Arsenal have spent on transfers under current head coach Mikel Arteta. BBC Sport's Ask Me Anything team explores how much Arsenal have spent on transfers under current head coach Mikel Arteta.",
       "score_detail": {
-        "fresh": 0.21312386138045566,
+        "fresh": 0.2117867287624547,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.428
+      "score": 0.427
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce35d5n5wzdo?at_medium=RSS&at_campaign=rss",
@@ -1310,29 +1292,11 @@
       "en": "When is the Champions League draw and how does it work?",
       "text_for_match": "When is the Champions League draw and how does it work? BBC Sport's Ask Me Anything team looks at when the league phase draws for the Champions League, Europa League and Conference League are all taking place. BBC Sport's Ask Me Anything team looks at when the league phase draws for the Champions League, Europa League and Conference League are all taking place.",
       "score_detail": {
-        "fresh": 0.2014576860845282,
+        "fresh": 0.2001937466951712,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.421
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c9qy5wvn9r8o?at_medium=RSS&at_campaign=rss",
-      "ts": 1755761816000,
-      "url": "https://bbc.com/sport/football/articles/c9qy5wvn9r8o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "What is Everton's new stadium called?",
-      "en": "What is Everton's new stadium called?",
-      "text_for_match": "What is Everton's new stadium called? BBC Sport's Ask Me Anything team take a look at Everton's new stadium - and what will happen to Goodison Park. BBC Sport's Ask Me Anything team take a look at Everton's new stadium - and what will happen to Goodison Park.",
-      "score_detail": {
-        "fresh": 0.19847652221583917,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
+      "score": 0.42
     }
   ]
 }
