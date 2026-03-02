@@ -1,5 +1,5 @@
 {
-  "generated_at": 1772465513197,
+  "generated_at": 1772469069252,
   "match": {
     "id": "EPL-UNKNOWN",
     "kickoff_jst": "",
@@ -21,19 +21,18 @@
       "domain": "bbc.com",
       "trust": "bbc",
       "tags": [
-        "負傷",
-        "復帰"
+        "負傷"
       ],
       "players": [],
       "ja": "Hickey adds to Scotland injury woes for March friendlies",
       "en": "Hickey adds to Scotland injury woes for March friendlies",
-      "text_for_match": "Hickey adds to Scotland injury woes for March friendlies Brentford right-back Aaron Hickey will miss Scotland's World Cup warm-up friendlies against Japan and Ivory Coast as injuries continue to plague several key players in Steve Clarke's squad. Brentford right-back Aaron Hickey will miss Scotland's World Cup warm-up friendlies against Japan and Ivory Coast as injuries continue to plague several key players in Steve Clarke's squad.",
+      "text_for_match": "Hickey adds to Scotland injury woes for March friendlies Aaron Hickey will miss Scotland's World Cup warm-ups against Japan and Ivory Coast as injuries continue to plague several key players in Steve Clarke's squad. Aaron Hickey will miss Scotland's World Cup warm-ups against Japan and Ivory Coast as injuries continue to plague several key players in Steve Clarke's squad.",
       "score_detail": {
-        "fresh": 0.9985795740147616,
+        "fresh": 0.9891193075753979,
         "trust": 1,
-        "relevance": 1
+        "relevance": 0.6666666666666666
       },
-      "score": 0.999
+      "score": 0.96
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwykw52dp35o?at_medium=RSS&at_campaign=rss",
@@ -50,11 +49,11 @@
       "en": "Messi scores twice in Miami comeback at Orlando",
       "text_for_match": "Messi scores twice in Miami comeback at Orlando Lionel Messi scores twice as Inter Miami fight back from two goals down to beat Orlando City 4-2 in the Florida derby. Lionel Messi scores twice as Inter Miami fight back from two goals down to beat Orlando City 4-2 in the Florida derby.",
       "score_detail": {
-        "fresh": 0.9382258606900271,
+        "fresh": 0.9293373686224957,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.93
+      "score": 0.924
     },
     {
       "id": "https://bbc.com/sport/football/articles/cnv6g3nz5m5o?at_medium=RSS&at_campaign=rss",
@@ -70,11 +69,11 @@
       "en": "Judge Rangers' mentality at end of season - Souttar",
       "text_for_match": "Judge Rangers' mentality at end of season - Souttar John Souttar says fans are entitled to question Rangers' mentality after ceding a two-goal lead to Celtic - but asks to be judged at the end of the season. John Souttar says fans are entitled to question Rangers' mentality after ceding a two-goal lead to Celtic - but asks to be judged at the end of the season.",
       "score_detail": {
-        "fresh": 0.9853007292669328,
+        "fresh": 0.9759662629266201,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.925
+      "score": 0.919
     },
     {
       "id": "https://bbc.com/sport/football/videos/c0j5v108d8vo?at_medium=RSS&at_campaign=rss",
@@ -90,11 +89,119 @@
       "en": "Chermiti scores amazing overhead kick in Old Firm derby",
       "text_for_match": "Chermiti scores amazing overhead kick in Old Firm derby Watch every angle of Chermiti's incredible overhead kick against Celtic. Watch every angle of Chermiti's incredible overhead kick against Celtic.",
       "score_detail": {
-        "fresh": 0.9819837534165337,
+        "fresh": 0.9726807111871624,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.923
+      "score": 0.917
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/c0431l6lzpyo?at_medium=RSS&at_campaign=rss",
+      "ts": 1772468439000,
+      "url": "https://bbc.com/sport/football/articles/c0431l6lzpyo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "How can football's lawmakers fix Premier League's corner chaos?",
+      "en": "How can football's lawmakers fix Premier League's corner chaos?",
+      "text_for_match": "How can football's lawmakers fix Premier League's corner chaos? Holding, wrestling, battling ... call it what you will. Corner kicks in the Premier League are becoming dominated by it. Can anything be done? Holding, wrestling, battling ... call it what you will. Corner kicks in the Premier League are becoming dominated by it. Can anything be done?",
+      "score_detail": {
+        "fresh": 0.9983297804888158,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.899
+    },
+    {
+      "id": "https://bbc.com/sport/articles/c0mgkz4p18zo?at_medium=RSS&at_campaign=rss",
+      "ts": 1772467449000,
+      "url": "https://bbc.com/sport/articles/c0mgkz4p18zo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "All your FPL stats and Premier League team news in one place",
+      "en": "All your FPL stats and Premier League team news in one place",
+      "text_for_match": "All your FPL stats and Premier League team news in one place Every key piece of Premier League team news and the most important Fantasy Premier League statistics - all in one place. Every key piece of Premier League team news and the most important Fantasy Premier League statistics - all in one place.",
+      "score_detail": {
+        "fresh": 0.9956902606651226,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.897
+    },
+    {
+      "id": "https://bbc.com/sport/articles/cp89x2egzlpo?at_medium=RSS&at_campaign=rss",
+      "ts": 1772467219000,
+      "url": "https://bbc.com/sport/articles/cp89x2egzlpo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "🎧 Newcastle 'have to prioritise' cups",
+      "en": "🎧 Newcastle 'have to prioritise' cups",
+      "text_for_match": "🎧 Newcastle 'have to prioritise' cups Today's news and views on the Toon in two minutes. Today's news and views on the Toon in two minutes.",
+      "score_detail": {
+        "fresh": 0.995078038559107,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.897
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/cqj92vnvp02o?at_medium=RSS&at_campaign=rss",
+      "ts": 1772467122000,
+      "url": "https://bbc.com/sport/football/articles/cqj92vnvp02o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Spurs given suspended ticket ban for Nazi salutes",
+      "en": "Spurs given suspended ticket ban for Nazi salutes",
+      "text_for_match": "Spurs given suspended ticket ban for Nazi salutes Uefa fine Tottenham Hotspur and give them a suspended ban from selling away tickets after three supporters made Nazi salutes towards Eintracht Frankfurt fans. Uefa fine Tottenham Hotspur and give them a suspended ban from selling away tickets after three supporters made Nazi salutes towards Eintracht Frankfurt fans.",
+      "score_detail": {
+        "fresh": 0.994819953410621,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.897
+    },
+    {
+      "id": "https://bbc.com/sport/articles/cwyvq7n1kzko?at_medium=RSS&at_campaign=rss",
+      "ts": 1772467022000,
+      "url": "https://bbc.com/sport/articles/cwyvq7n1kzko?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "🎧 Semenyo and Guéhi - 'perfect balance'",
+      "en": "🎧 Semenyo and Guéhi - 'perfect balance'",
+      "text_for_match": "🎧 Semenyo and Guéhi - 'perfect balance' Today's news and views on the Citizens in two minutes. Today's news and views on the Citizens in two minutes.",
+      "score_detail": {
+        "fresh": 0.9945539563218105,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.897
+    },
+    {
+      "id": "https://bbc.com/sport/articles/c2epl3zgxero?at_medium=RSS&at_campaign=rss",
+      "ts": 1772466086000,
+      "url": "https://bbc.com/sport/articles/c2epl3zgxero?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "🎧 Champions League hopes and weekend win",
+      "en": "🎧 Champions League hopes and weekend win",
+      "text_for_match": "🎧 Champions League hopes and weekend win Today's news and views on the Red Devils in two minutes. Today's news and views on the Red Devils in two minutes.",
+      "score_detail": {
+        "fresh": 0.9920676693805834,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.895
     },
     {
       "id": "https://bbc.com/sport/articles/cz0n51p514mo?at_medium=RSS&at_campaign=rss",
@@ -108,11 +215,11 @@
       "en": "🎧 \"We need more goals from Barry and Beto\"",
       "text_for_match": "🎧 \"We need more goals from Barry and Beto\" Today's news and views on the Blues in two minutes. Today's news and views on the Blues in two minutes.",
       "score_detail": {
-        "fresh": 0.9981203741895284,
+        "fresh": 0.9886644580821848,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.899
+      "score": 0.893
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwy8njdrg7xo?at_medium=RSS&at_campaign=rss",
@@ -126,11 +233,11 @@
       "en": "Leeds say boos during Ramadan pause 'disappointing'",
       "text_for_match": "Leeds say boos during Ramadan pause 'disappointing' Leeds United say loud boos during a brief pause in play to allow players observing Ramadan to break their fast in Saturday's Premier League game at Elland Road were \"disappointing\". Leeds United say loud boos during a brief pause in play to allow players observing Ramadan to break their fast in Saturday's Premier League game at Elland Road were \"disappointing\".",
       "score_detail": {
-        "fresh": 0.9978481577638206,
+        "fresh": 0.9883948205595344,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.899
+      "score": 0.893
     },
     {
       "id": "https://bbc.com/sport/football/videos/cvg5v33115yo?at_medium=RSS&at_campaign=rss",
@@ -147,11 +254,11 @@
       "en": "Forest fall to defeat at Brighton despite Gibbs-White stunner",
       "text_for_match": "Forest fall to defeat at Brighton despite Gibbs-White stunner Brighton beat Nottingham Forest as Danny Welbeck scored his 10th goal of the season, to claim back-to-back wins for the first time since November. Brighton beat Nottingham Forest as Danny Welbeck scored his 10th goal of the season, to claim back-to-back wins for the first time since November.",
       "score_detail": {
-        "fresh": 0.8286222661653551,
+        "fresh": 0.8207721282099018,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.897
+      "score": 0.892
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4gjkj330lyo?at_medium=RSS&at_campaign=rss",
@@ -167,11 +274,11 @@
       "en": "Was Chermiti's overhead kick best Old Firm goal this century?",
       "text_for_match": "Was Chermiti's overhead kick best Old Firm goal this century? Is Youssef Chermiti's overhead kick for Rangers against Celtic the best of the 2000s so far? Or do some of the other strikes in the fixture get your vote? Is Youssef Chermiti's overhead kick for Rangers against Celtic the best of the 2000s so far? Or do some of the other strikes in the fixture get your vote?",
       "score_detail": {
-        "fresh": 0.9379599460937541,
+        "fresh": 0.9290739732274925,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.896
+      "score": 0.891
     },
     {
       "id": "https://bbc.com/sport/articles/cn81nv1eq17o?at_medium=RSS&at_campaign=rss",
@@ -185,11 +292,11 @@
       "en": "🎧Aston Villa Daily: Slip in the top‑five race",
       "text_for_match": "🎧Aston Villa Daily: Slip in the top‑five race Today's news and views on the Villa in two minutes. Today's news and views on the Villa in two minutes.",
       "score_detail": {
-        "fresh": 0.9901131776955486,
+        "fresh": 0.9807331195510921,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.894
+      "score": 0.888
     },
     {
       "id": "https://bbc.com/sport/articles/c20genkgpqlo?at_medium=RSS&at_campaign=rss",
@@ -203,11 +310,11 @@
       "en": "🎧 Slot on Wirtz, Gakpo and VAR",
       "text_for_match": "🎧 Slot on Wirtz, Gakpo and VAR Today's news and views on the Reds in two minutes. Today's news and views on the Reds in two minutes.",
       "score_detail": {
-        "fresh": 0.9885258076263507,
+        "fresh": 0.9791607877864853,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.893
+      "score": 0.887
     },
     {
       "id": "https://bbc.com/sport/football/articles/cjdrxl52vvzo?at_medium=RSS&at_campaign=rss",
@@ -221,11 +328,11 @@
       "en": "Which club has the most red cards in a Premier League season?",
       "text_for_match": "Which club has the most red cards in a Premier League season? BBC Sport's Ask Me Anything looks at the record for most red cards in a Premier League season BBC Sport's Ask Me Anything looks at the record for most red cards in a Premier League season",
       "score_detail": {
-        "fresh": 0.9871442261589809,
+        "fresh": 0.9777922950394631,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.892
+      "score": 0.887
     },
     {
       "id": "https://bbc.com/sport/football/articles/c78jell37ezo?at_medium=RSS&at_campaign=rss",
@@ -241,11 +348,11 @@
       "en": "'Russell in talks over Dundee United return' - gossip",
       "text_for_match": "'Russell in talks over Dundee United return' - gossip Dundee United are reportedly in talks with Johnny Russell about a return to Tannadice as Marcus Dackers in tipped to leave Kilmarnock in a six-figure transfer. Dundee United are reportedly in talks with Johnny Russell about a return to Tannadice as Marcus Dackers in tipped to leave Kilmarnock in a six-figure transfer.",
       "score_detail": {
-        "fresh": 0.9274072556912595,
+        "fresh": 0.9186212560924846,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.89
+      "score": 0.885
     },
     {
       "id": "https://bbc.com/sport/football/articles/c1l7znp2ge5o?at_medium=RSS&at_campaign=rss",
@@ -259,11 +366,11 @@
       "en": "Premier League deletes Vicario social media post",
       "text_for_match": "Premier League deletes Vicario social media post The Premier League deletes a social media post which appears to mock Tottenham goalkeeper Guglielmo Vicario following a complaint by the club. The Premier League deletes a social media post which appears to mock Tottenham goalkeeper Guglielmo Vicario following a complaint by the club.",
       "score_detail": {
-        "fresh": 0.9817500672024733,
+        "fresh": 0.9724492388516007,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.889
+      "score": 0.883
     },
     {
       "id": "https://bbc.com/news/articles/cx2gpy2554yo?at_medium=RSS&at_campaign=rss",
@@ -277,11 +384,11 @@
       "en": "Charges after flares thrown in Europa League match",
       "text_for_match": "Charges after flares thrown in Europa League match Three people were arrested after Nottingham Forest's Europa League tie against Turkish side Fenerbahçe. Three people were arrested after Nottingham Forest's Europa League tie against Turkish side Fenerbahçe.",
       "score_detail": {
-        "fresh": 0.9758476602354706,
+        "fresh": 0.9666027496541926,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.886
+      "score": 0.88
     },
     {
       "id": "https://bbc.com/sport/football/videos/crm8lnwn7vmo?at_medium=RSS&at_campaign=rss",
@@ -295,11 +402,11 @@
       "en": "England given 'reassurances' about Turkey security - Wiegman",
       "text_for_match": "England given 'reassurances' about Turkey security - Wiegman Manager Sarina Wiegman says England have been given \"reassurances\" that there are no safety concerns about their Women's World Cup qualifier against Ukraine being held in Turkey, as the conflict in the Middle East widens. Manager Sarina Wiegman says England have been given \"reassurances\" that there are no safety concerns about their Women's World Cup qualifier against Ukraine being held in Turkey, as the conflict in the Middle East widens.",
       "score_detail": {
-        "fresh": 0.9730750015658649,
+        "fresh": 0.9638563583852451,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.884
+      "score": 0.878
     },
     {
       "id": "https://bbc.com/sport/football/articles/c8r1mdvvvvvo?at_medium=RSS&at_campaign=rss",
@@ -313,11 +420,11 @@
       "en": "Rangers slip 'unacceptable', Celtic show 'grit', Hearts march on - fan reaction",
       "text_for_match": "Rangers slip 'unacceptable', Celtic show 'grit', Hearts march on - fan reaction Rangers fans feel deflated and Celtic fans buoyant after their 2-2 derby draw, while Heart of Midlothian and Motherwell supporters are another happy bunch as the Scottish Premiership title race heats up further. Rangers fans feel deflated and Celtic fans buoyant after their 2-2 derby draw, while Heart of Midlothian and Motherwell supporters are another happy bunch as the Scottish Premiership title race heats up further.",
       "score_detail": {
-        "fresh": 0.9724168735264831,
+        "fresh": 0.9632044652687134,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.883
+      "score": 0.878
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4gjwm99we8o?at_medium=RSS&at_campaign=rss",
@@ -331,11 +438,11 @@
       "en": "Set-pieces mean Premier League no longer a joy - Slot",
       "text_for_match": "Set-pieces mean Premier League no longer a joy - Slot Liverpool manager Arne Slot says his \"football heart doesn't like\" the reliance on set-pieces in this season's Premier League. Liverpool manager Arne Slot says his \"football heart doesn't like\" the reliance on set-pieces in this season's Premier League.",
       "score_detail": {
-        "fresh": 0.9664749466854814,
+        "fresh": 0.9573188305976519,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.88
+      "score": 0.874
     },
     {
       "id": "https://bbc.com/sport/football/articles/c23zr8k9nd9o?at_medium=RSS&at_campaign=rss",
@@ -349,11 +456,11 @@
       "en": "Mfuni 'ready for anything' at Watford",
       "text_for_match": "Mfuni 'ready for anything' at Watford Teenage Manchester City defender Stephen Mfuni is determined to improve every aspect of his game during his current loan spell with Watford. Teenage Manchester City defender Stephen Mfuni is determined to improve every aspect of his game during his current loan spell with Watford.",
       "score_detail": {
-        "fresh": 0.9592499054141049,
+        "fresh": 0.9501622373671138,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.876
+      "score": 0.87
     },
     {
       "id": "https://bbc.com/sport/football/articles/cpv87y79zpzo?at_medium=RSS&at_campaign=rss",
@@ -367,11 +474,11 @@
       "en": "England 'given reassurances' over safety in Turkey",
       "text_for_match": "England 'given reassurances' over safety in Turkey Sarina Wiegman says England have been told there are no safety concerns over their World Cup qualifier in Turkey despite the conflict in the Middle East. Sarina Wiegman says England have been told there are no safety concerns over their World Cup qualifier in Turkey despite the conflict in the Middle East.",
       "score_detail": {
-        "fresh": 0.9446557379688164,
+        "fresh": 0.9357063310239807,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.867
+      "score": 0.861
     },
     {
       "id": "https://bbc.com/sport/football/videos/c78jzmj1xvro?at_medium=RSS&at_campaign=rss",
@@ -387,11 +494,11 @@
       "en": "Sesko leads Man Utd to victory against 10-man Crystal Palace",
       "text_for_match": "Sesko leads Man Utd to victory against 10-man Crystal Palace Benjamin Sesko scores his sixth goal in eight games to help Manchester United secure a comeback victory against Crystal Palace and move up to third in the Premier League. Benjamin Sesko scores his sixth goal in eight games to help Manchester United secure a comeback victory against Crystal Palace and move up to third in the Premier League.",
       "score_detail": {
-        "fresh": 0.8286510731608256,
+        "fresh": 0.8208006622958721,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.864
+      "score": 0.859
     },
     {
       "id": "https://bbc.com/sport/football/videos/c5y59325wq9o?at_medium=RSS&at_campaign=rss",
@@ -407,11 +514,11 @@
       "en": "Fulham sink struggling Spurs with incredible Iwobi goal",
       "text_for_match": "Fulham sink struggling Spurs with incredible Iwobi goal Alex Iwobi scores a beautifully-placed goal as Fulham hold off late pressure from Tottenham Hotspur to win 2-1. Alex Iwobi scores a beautifully-placed goal as Fulham hold off late pressure from Tottenham Hotspur to win 2-1.",
       "score_detail": {
-        "fresh": 0.8286422093632474,
+        "fresh": 0.8207918824714583,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.864
+      "score": 0.859
     },
     {
       "id": "https://bbc.com/sport/football/articles/c80jgdvdpnvo?at_medium=RSS&at_campaign=rss",
@@ -425,11 +532,11 @@
       "en": "Quiz: Name every team who has played in the Premier League",
       "text_for_match": "Quiz: Name every team who has played in the Premier League Fifty-one teams have played in at least one Premier League season, but can you name them all? Good luck! Fifty-one teams have played in at least one Premier League season, but can you name them all? Good luck!",
       "score_detail": {
-        "fresh": 0.931884604293522,
+        "fresh": 0.9230561875335899,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.859
+      "score": 0.854
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0n422bs?at_medium=RSS&at_campaign=rss",
@@ -443,11 +550,11 @@
       "en": "Listen: Are Hearts nine games from title after Old Firm derby drama?",
       "text_for_match": "Listen: Are Hearts nine games from title after Old Firm derby drama? There’s a late Old Firm equaliser and Hearts win again as the title race twists again. There’s a late Old Firm equaliser and Hearts win again as the title race twists again.",
       "score_detail": {
-        "fresh": 0.9300821227988593,
+        "fresh": 0.9212707822496121,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.858
+      "score": 0.853
     },
     {
       "id": "https://bbc.com/sport/football/articles/c5y4q602qwpo?at_medium=RSS&at_campaign=rss",
@@ -461,11 +568,11 @@
       "en": "'Fearless' Wrexham coming into their own before Chelsea tie",
       "text_for_match": "'Fearless' Wrexham coming into their own before Chelsea tie Wrexham are hitting peak form in the Championship as they prepare for their mouth-watering FA Cup fifth round contest with Premier League side Chelsea. Wrexham are hitting peak form in the Championship as they prepare for their mouth-watering FA Cup fifth round contest with Premier League side Chelsea.",
       "score_detail": {
-        "fresh": 0.9296320474416959,
+        "fresh": 0.9208249707817845,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.858
+      "score": 0.852
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy8pdr55219o?at_medium=RSS&at_campaign=rss",
@@ -479,31 +586,11 @@
       "en": "What can players and clubs do about 'AI slop'?",
       "text_for_match": "What can players and clubs do about 'AI slop'? There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it? There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?",
       "score_detail": {
-        "fresh": 0.9284122212477667,
+        "fresh": 0.9196167008835222,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.857
-    },
-    {
-      "id": "https://bbc.com/sport/football/videos/cn0zk7d9ndjo?at_medium=RSS&at_campaign=rss",
-      "ts": 1772409268000,
-      "url": "https://bbc.com/sport/football/videos/cn0zk7d9ndjo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [],
-      "ja": "How Fernandes 'coached' Man Utd to victory over Palace",
-      "en": "How Fernandes 'coached' Man Utd to victory over Palace",
-      "text_for_match": "How Fernandes 'coached' Man Utd to victory over Palace Match of the Day pundit Joe Hart analyses how Bruno Fernandes was a \"coach on the pitch\" to \"get the best\" out of his Manchester United team-mates in their victory over Crystal Palace. Match of the Day pundit Joe Hart analyses how Bruno Fernandes was a \"coach on the pitch\" to \"get the best\" out of his Manchester United team-mates in their victory over Crystal Palace.",
-      "score_detail": {
-        "fresh": 0.8603753138753916,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.85
+      "score": 0.852
     },
     {
       "id": "https://bbc.com/sport/football/videos/c4g04dvlv5xo?at_medium=RSS&at_campaign=rss",
@@ -519,11 +606,31 @@
       "en": "Starting Sesko is not a gamble - Carrick",
       "text_for_match": "Starting Sesko is not a gamble - Carrick Manchester United manager Michael Carrick says it is \"not a gamble\" to change his preferred XI to start striker Benjamin Sesko, after the Slovenian scored the winner against Crystal Palace for his sixth goal in eight games. Manchester United manager Michael Carrick says it is \"not a gamble\" to change his preferred XI to start striker Benjamin Sesko, after the Slovenian scored the winner against Crystal Palace for his sixth goal in eight games.",
       "score_detail": {
-        "fresh": 0.806103652796252,
+        "fresh": 0.7984668499498478,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.85
+      "score": 0.846
+    },
+    {
+      "id": "https://bbc.com/sport/football/videos/cn0zk7d9ndjo?at_medium=RSS&at_campaign=rss",
+      "ts": 1772409268000,
+      "url": "https://bbc.com/sport/football/videos/cn0zk7d9ndjo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [
+        "負傷"
+      ],
+      "players": [],
+      "ja": "How Fernandes 'coached' Man Utd to victory over Palace",
+      "en": "How Fernandes 'coached' Man Utd to victory over Palace",
+      "text_for_match": "How Fernandes 'coached' Man Utd to victory over Palace Match of the Day pundit Joe Hart analyses how Bruno Fernandes was a \"coach on the pitch\" to \"get the best\" out of his Manchester United team-mates in their victory over Crystal Palace. Match of the Day pundit Joe Hart analyses how Bruno Fernandes was a \"coach on the pitch\" to \"get the best\" out of his Manchester United team-mates in their victory over Crystal Palace.",
+      "score_detail": {
+        "fresh": 0.8522243563363862,
+        "trust": 1,
+        "relevance": 0.3333333333333333
+      },
+      "score": 0.845
     },
     {
       "id": "https://bbc.com/sport/football/videos/cx2gp2qe9rro?at_medium=RSS&at_campaign=rss",
@@ -539,11 +646,11 @@
       "en": "Silva praises 'fantastic' Iwobi in different role",
       "text_for_match": "Silva praises 'fantastic' Iwobi in different role Fulham manager Marco Silva is full of praise for midfielder Alex Iwobi, who scored a superb goal while playing a deeper role in their 2-1 win against Tottenham Hotsur. Fulham manager Marco Silva is full of praise for midfielder Alex Iwobi, who scored a superb goal while playing a deeper role in their 2-1 win against Tottenham Hotsur.",
       "score_detail": {
-        "fresh": 0.8033233388995344,
+        "fresh": 0.7957128759772911,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.849
+      "score": 0.844
     },
     {
       "id": "https://bbc.com/sport/football/articles/cpv81j3jldno?at_medium=RSS&at_campaign=rss",
@@ -557,11 +664,11 @@
       "en": "Wales boss Wilkinson to continue rotating keepers",
       "text_for_match": "Wales boss Wilkinson to continue rotating keepers Head coach Rhian Wilkinson intends to continue rotating her goalkeepers during Wales' Women's World Cup qualifying campaign. Head coach Rhian Wilkinson intends to continue rotating her goalkeepers during Wales' Women's World Cup qualifying campaign.",
       "score_detail": {
-        "fresh": 0.9008009913305562,
+        "fresh": 0.8922670521147076,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.84
+      "score": 0.835
     },
     {
       "id": "https://bbc.com/sport/football/articles/c70n99nkzeyo?at_medium=RSS&at_campaign=rss",
@@ -577,11 +684,11 @@
       "en": "Kerr scores first international goal in 28 months in Australia win",
       "text_for_match": "Kerr scores first international goal in 28 months in Australia win Sam Kerr scores her first international goal in 28 months as Australia open their Asian Cup campaign with a 1-0 win over the Philippines in Perth. Sam Kerr scores her first international goal in 28 months as Australia open their Asian Cup campaign with a 1-0 win over the Philippines in Perth.",
       "score_detail": {
-        "fresh": 0.7780578340447728,
+        "fresh": 0.7706867295210695,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.834
+      "score": 0.829
     },
     {
       "id": "https://bbc.com/sport/football/videos/cge85r8xl0go?at_medium=RSS&at_campaign=rss",
@@ -597,11 +704,11 @@
       "en": "Arsenal beat 10-man Chelsea to extend lead",
       "text_for_match": "Arsenal beat 10-man Chelsea to extend lead Arsenal get an important win in the title race against Chelsea, who had Pedro Neto sent off for a second yellow in a game with three goals scored from corners. Arsenal get an important win in the title race against Chelsea, who had Pedro Neto sent off for a second yellow in a game with three goals scored from corners.",
       "score_detail": {
-        "fresh": 0.8302036987793786,
+        "fresh": 0.8223385787691408,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.831
+      "score": 0.827
     },
     {
       "id": "https://bbc.com/sport/football/videos/cg7evp2egxmo?at_medium=RSS&at_campaign=rss",
@@ -617,11 +724,11 @@
       "en": "Arteta delighted with win over 'top side' Chelsea",
       "text_for_match": "Arteta delighted with win over 'top side' Chelsea Arsenal manager Mikel Arteta is delighted with the win against \"top side\" Chelsea which as his side came out 2-1 winners at the Emirates. Arsenal manager Mikel Arteta is delighted with the win against \"top side\" Chelsea which as his side came out 2-1 winners at the Emirates.",
       "score_detail": {
-        "fresh": 0.8293693557318892,
+        "fresh": 0.8215121400567054,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.831
+      "score": 0.826
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy0dp2dq0z2o?at_medium=RSS&at_campaign=rss",
@@ -637,11 +744,11 @@
       "en": "Analysis: Lack of goals hurting Pereira's side",
       "text_for_match": "Analysis: Lack of goals hurting Pereira's side Finding the back of the net has become a major problem for Nottingham Forest as they find themselves in a relegation battle. Finding the back of the net has become a major problem for Nottingham Forest as they find themselves in a relegation battle.",
       "score_detail": {
-        "fresh": 0.8232727373849664,
+        "fresh": 0.8154732793842252,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.827
+      "score": 0.823
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4g047lmkelo?at_medium=RSS&at_campaign=rss",
@@ -657,11 +764,11 @@
       "en": "Analysis: Things looking up for Hurzeler after shaky spell",
       "text_for_match": "Analysis: Things looking up for Hurzeler after shaky spell Things are looking up for Brighton boss Fabian Hurzeler after back-to-back wins against Brentford and Nottingham Forest. Things are looking up for Brighton boss Fabian Hurzeler after back-to-back wins against Brentford and Nottingham Forest.",
       "score_detail": {
-        "fresh": 0.8226873257092366,
+        "fresh": 0.814893413736647,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.827
+      "score": 0.822
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwy9lx2w881o?at_medium=RSS&at_campaign=rss",
@@ -677,27 +784,9 @@
       "en": "Warnock, 77, back in dugout as Torquay caretaker",
       "text_for_match": "Warnock, 77, back in dugout as Torquay caretaker Neil Warnock is placed in temporary charge of Torquay United after boss Paul Wotton is sacked following Saturday's 5-0 defeat by Chelmsford City. Neil Warnock is placed in temporary charge of Torquay United after boss Paul Wotton is sacked following Saturday's 5-0 defeat by Chelmsford City.",
       "score_detail": {
-        "fresh": 0.8149665369143779,
+        "fresh": 0.8072457695574224,
         "trust": 1,
         "relevance": 0.3333333333333333
-      },
-      "score": 0.822
-    },
-    {
-      "id": "https://bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&at_campaign=rss",
-      "ts": 1772410300000,
-      "url": "https://bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'They look all over the shop' - Hart",
-      "en": "'They look all over the shop' - Hart",
-      "text_for_match": "'They look all over the shop' - Hart Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham. Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham.",
-      "score_detail": {
-        "fresh": 0.862753016365627,
-        "trust": 1,
-        "relevance": 0
       },
       "score": 0.818
     },
@@ -715,11 +804,29 @@
       "en": "Belief key to turning around poor form - Hurzeler",
       "text_for_match": "Belief key to turning around poor form - Hurzeler Fabian Hurzeler says his side never strayed for their belief in their quality and style of football, as Brighton beat Nottingham Forest for back-to-back league wins after losing three in a row. Fabian Hurzeler says his side never strayed for their belief in their quality and style of football, as Brighton beat Nottingham Forest for back-to-back league wins after losing three in a row.",
       "score_detail": {
-        "fresh": 0.8085583743171278,
+        "fresh": 0.8008983161185954,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.818
+      "score": 0.814
+    },
+    {
+      "id": "https://bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&at_campaign=rss",
+      "ts": 1772410300000,
+      "url": "https://bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'They look all over the shop' - Hart",
+      "en": "'They look all over the shop' - Hart",
+      "text_for_match": "'They look all over the shop' - Hart Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham. Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham.",
+      "score_detail": {
+        "fresh": 0.8545795331314676,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.813
     },
     {
       "id": "https://bbc.com/sport/football/videos/c78x1887nd9o?at_medium=RSS&at_campaign=rss",
@@ -735,11 +842,11 @@
       "en": "I don't like 'home team referee' Bramall - Tudor",
       "text_for_match": "I don't like 'home team referee' Bramall - Tudor Tottenham Hotspur manager Igor Tudor call into doubt the decision-making of referee Thomas Bramall, after the official allowed Fulham's opening goal to stand, and demands greater consistency on fouls given for pushing. Tottenham Hotspur manager Igor Tudor call into doubt the decision-making of referee Thomas Bramall, after the official allowed Fulham's opening goal to stand, and demands greater consistency on fouls given for pushing.",
       "score_detail": {
-        "fresh": 0.8065241171703057,
+        "fresh": 0.7988833309608224,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.817
+      "score": 0.813
     },
     {
       "id": "https://bbc.com/sport/football/videos/crm8drp9pjlo?at_medium=RSS&at_campaign=rss",
@@ -753,11 +860,11 @@
       "en": "Hart breaks down why 'disciplined' Raya is so good",
       "text_for_match": "Hart breaks down why 'disciplined' Raya is so good Match of the Day pundit Joe Hart breaks down how David Raya has cemented himself as one of the best goalkeepers in the Premier League. Match of the Day pundit Joe Hart breaks down how David Raya has cemented himself as one of the best goalkeepers in the Premier League.",
       "score_detail": {
-        "fresh": 0.8602579812020004,
+        "fresh": 0.8521081352402606,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.816
+      "score": 0.811
     },
     {
       "id": "https://bbc.com/sport/football/articles/cvg3q7yvvkxo?at_medium=RSS&at_campaign=rss",
@@ -771,11 +878,11 @@
       "en": "Referee halts La Liga game under racism protocol",
       "text_for_match": "Referee halts La Liga game under racism protocol Sunday's La Liga match between Elche and Espanyol is paused for three minutes after the referee instigates Uefa's racism protocol. Sunday's La Liga match between Elche and Espanyol is paused for three minutes after the referee instigates Uefa's racism protocol.",
       "score_detail": {
-        "fresh": 0.8501974437371708,
+        "fresh": 0.8421429085222328,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.81
+      "score": 0.805
     },
     {
       "id": "https://bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&at_campaign=rss",
@@ -789,11 +896,11 @@
       "en": "Chelsea could rival Newcastle for Nunez - Monday's gossip",
       "text_for_match": "Chelsea could rival Newcastle for Nunez - Monday's gossip Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more. Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more.",
       "score_detail": {
-        "fresh": 0.8498087504191547,
+        "fresh": 0.8417578975771065,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.81
+      "score": 0.805
     },
     {
       "id": "https://bbc.com/sport/football/articles/c3v71ykvxwpo?at_medium=RSS&at_campaign=rss",
@@ -807,11 +914,11 @@
       "en": "'Ugly' or 'beautiful'? Set-pieces prove decisive for Arsenal again",
       "text_for_match": "'Ugly' or 'beautiful'? Set-pieces prove decisive for Arsenal again Arsenal move five points clear in the Premier League title race but is their reliance on set-pieces an issue? Arsenal move five points clear in the Premier League title race but is their reliance on set-pieces an issue?",
       "score_detail": {
-        "fresh": 0.8458071671691343,
+        "fresh": 0.8377942242190062,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.807
+      "score": 0.803
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp9mkm1pm50o?at_medium=RSS&at_campaign=rss",
@@ -825,11 +932,11 @@
       "en": "Who will win race for the Champions League?",
       "text_for_match": "Who will win race for the Champions League? England are likely to have five spots in next season's Champions League. With Arsenal and Manchester City set to take two of them, who will claim the others? England are likely to have five spots in next season's Champions League. With Arsenal and Manchester City set to take two of them, who will claim the others?",
       "score_detail": {
-        "fresh": 0.8393697139144096,
+        "fresh": 0.8314177576142846,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.804
+      "score": 0.799
     },
     {
       "id": "https://bbc.com/sport/football/articles/cr73ljr0xe0o?at_medium=RSS&at_campaign=rss",
@@ -843,11 +950,11 @@
       "en": "Who has made Troy's Premier League team of the week?",
       "text_for_match": "Who has made Troy's Premier League team of the week? After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices? After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
       "score_detail": {
-        "fresh": 0.8375199396805375,
+        "fresh": 0.8295855076294163,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.803
+      "score": 0.798
     },
     {
       "id": "https://bbc.co.uk/sounds/play/m002sc75?at_medium=RSS&at_campaign=rss",
@@ -861,11 +968,11 @@
       "en": "Football Daily",
       "text_for_match": "Football Daily Will Spurs get relegated? Does Arsenal's 'boring' tag matter? Everton to get Europe? Will Spurs get relegated? Does Arsenal's 'boring' tag matter? Everton to get Europe?",
       "score_detail": {
-        "fresh": 0.8352832534807213,
+        "fresh": 0.8273700111754572,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.801
+      "score": 0.796
     },
     {
       "id": "https://bbc.com/sport/football/articles/c99j75gzv43o?at_medium=RSS&at_campaign=rss",
@@ -879,11 +986,11 @@
       "en": "Prestianni's Benfica career 'over' if abuse proven - Mourinho",
       "text_for_match": "Prestianni's Benfica career 'over' if abuse proven - Mourinho Benfica boss Jose Mourinho says Gianluca Prestianni's career under him will be \"over\" if it is found he racially abused Vinicius Jr. Benfica boss Jose Mourinho says Gianluca Prestianni's career under him will be \"over\" if it is found he racially abused Vinicius Jr.",
       "score_detail": {
-        "fresh": 0.8350934108225814,
+        "fresh": 0.8271819670341048,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.801
+      "score": 0.796
     },
     {
       "id": "https://bbc.com/sport/football/articles/crm8dx74jneo?at_medium=RSS&at_campaign=rss",
@@ -897,11 +1004,11 @@
       "en": "'It's cultural' - red cards and set-pieces wrecking Chelsea's season",
       "text_for_match": "'It's cultural' - red cards and set-pieces wrecking Chelsea's season Two set‑piece goals and a red card tell a familiar story for Chelsea, now six points adrift of the Premier League's top four and down to sixth in the table. Two set‑piece goals and a red card tell a familiar story for Chelsea, now six points adrift of the Premier League's top four and down to sixth in the table.",
       "score_detail": {
-        "fresh": 0.8347384092159064,
+        "fresh": 0.8268303286143734,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.801
+      "score": 0.796
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy0dp14k40lo?at_medium=RSS&at_campaign=rss",
@@ -915,11 +1022,11 @@
       "en": "Would it be bigger gamble not to give Carrick Man Utd job?",
       "text_for_match": "Would it be bigger gamble not to give Carrick Man Utd job? With six wins and a draw from seven games in charge of Manchester United, would it prove more of a gamble not to give Michael Carrick the head coach position full-time? With six wins and a draw from seven games in charge of Manchester United, would it prove more of a gamble not to give Michael Carrick the head coach position full-time?",
       "score_detail": {
-        "fresh": 0.834046701606401,
+        "fresh": 0.8261451740512695,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.8
+      "score": 0.796
     },
     {
       "id": "https://bbc.com/sport/football/articles/c20j8jnezl8o?at_medium=RSS&at_campaign=rss",
@@ -933,11 +1040,11 @@
       "en": "Iran, the US, and a World Cup that starts in three months",
       "text_for_match": "Iran, the US, and a World Cup that starts in three months What does the US conflict with Iran mean for what was already set to be a highly politicised World Cup this summer? What does the US conflict with Iran mean for what was already set to be a highly politicised World Cup this summer?",
       "score_detail": {
-        "fresh": 0.8322821019559099,
+        "fresh": 0.8243972917293588,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.799
+      "score": 0.795
     },
     {
       "id": "https://bbc.com/sport/football/articles/cq6q0p639rgo?at_medium=RSS&at_campaign=rss",
@@ -951,11 +1058,11 @@
       "en": "NI defender Ballard extends Sunderland contract",
       "text_for_match": "NI defender Ballard extends Sunderland contract Sunderland defender Dan Ballard extends his contract until the summer of 2029, with an option of an additional year. Sunderland defender Dan Ballard extends his contract until the summer of 2029, with an option of an additional year.",
       "score_detail": {
-        "fresh": 0.8304346226670217,
+        "fresh": 0.8225673149478009,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.798
+      "score": 0.794
     },
     {
       "id": "https://bbc.com/sport/football/videos/c8d5y80m083o?at_medium=RSS&at_campaign=rss",
@@ -969,11 +1076,11 @@
       "en": "Chelsea won't achieve anything with  disciplinary issues - Rosenior",
       "text_for_match": "Chelsea won't achieve anything with  disciplinary issues - Rosenior Chelsea manager Liam Rosenior says his side's \"very good team performance\" was let down by \"not managing moments\" as they received a ninth red card in all competitions this season in a 2-1 defeat at Arsenal. Chelsea manager Liam Rosenior says his side's \"very good team performance\" was let down by \"not managing moments\" as they received a ninth red card in all competitions this season in a 2-1 defeat at Arsenal.",
       "score_detail": {
-        "fresh": 0.8293449593880258,
+        "fresh": 0.8214879748370499,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.798
+      "score": 0.793
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckg8dwjgl0lo?at_medium=RSS&at_campaign=rss",
@@ -987,11 +1094,11 @@
       "en": "Forest 'focusing on the present' - but will they stay up? ",
       "text_for_match": "Forest 'focusing on the present' - but will they stay up?  As Nottingham Forest balance Europa League football with a relegation battle, how likely is it that they will stay above the bottom three and survive this season? As Nottingham Forest balance Europa League football with a relegation battle, how likely is it that they will stay above the bottom three and survive this season?",
       "score_detail": {
-        "fresh": 0.8253845536345729,
+        "fresh": 0.8175650888713142,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.795
+      "score": 0.791
     },
     {
       "id": "https://bbc.com/sport/football/articles/c0mgpgm8j7zo?at_medium=RSS&at_campaign=rss",
@@ -1005,11 +1112,11 @@
       "en": "Tudor fury at 'home referee' as Spurs left in 'big emergency'",
       "text_for_match": "Tudor fury at 'home referee' as Spurs left in 'big emergency' Without a win in 10 Premier League matches – their worst league run in 22 years – Tottenham are facing a battle to stay up. Without a win in 10 Premier League matches – their worst league run in 22 years – Tottenham are facing a battle to stay up.",
       "score_detail": {
-        "fresh": 0.8212212248733703,
+        "fresh": 0.8134412023342272,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.793
+      "score": 0.788
     },
     {
       "id": "https://bbc.com/sport/football/articles/cvg3q3p3jd7o?at_medium=RSS&at_campaign=rss",
@@ -1023,29 +1130,11 @@
       "en": "Players covering mouths during confrontations should be sent off - Infantino",
       "text_for_match": "Players covering mouths during confrontations should be sent off - Infantino Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino. Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino.",
       "score_detail": {
-        "fresh": 0.8154766682324275,
+        "fresh": 0.8077510680325887,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.789
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c70n9nr3dx6o?at_medium=RSS&at_campaign=rss",
-      "ts": 1772387299000,
-      "url": "https://bbc.com/sport/football/articles/c70n9nr3dx6o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "What now for 'epic' Scottish title race after Old Firm draw?",
-      "en": "What now for 'epic' Scottish title race after Old Firm draw?",
-      "text_for_match": "What now for 'epic' Scottish title race after Old Firm draw? Amid one of the most captivating title fights in the history Scotland's top flight, BBC Scotland looks at the state of play for each of the four clubs involved. Amid one of the most captivating title fights in the history Scotland's top flight, BBC Scotland looks at the state of play for each of the four clubs involved.",
-      "score_detail": {
-        "fresh": 0.8112852093693161,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.787
+      "score": 0.785
     },
     {
       "id": "https://bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&at_campaign=rss",
@@ -1062,11 +1151,29 @@
       "en": "'Out of absolutely nothing' - Lamine Yamal's solo stunner",
       "text_for_match": "'Out of absolutely nothing' - Lamine Yamal's solo stunner Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga. Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga.",
       "score_detail": {
-        "fresh": 0.6455830520392789,
+        "fresh": 0.6394669769262313,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.787
+      "score": 0.784
+    },
+    {
+      "id": "https://bbc.com/sport/football/articles/c70n9nr3dx6o?at_medium=RSS&at_campaign=rss",
+      "ts": 1772387299000,
+      "url": "https://bbc.com/sport/football/articles/c70n9nr3dx6o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "What now for 'epic' Scottish title race after Old Firm draw?",
+      "en": "What now for 'epic' Scottish title race after Old Firm draw?",
+      "text_for_match": "What now for 'epic' Scottish title race after Old Firm draw? Amid one of the most captivating title fights in the history Scotland's top flight, BBC Scotland looks at the state of play for each of the four clubs involved. Amid one of the most captivating title fights in the history Scotland's top flight, BBC Scotland looks at the state of play for each of the four clubs involved.",
+      "score_detail": {
+        "fresh": 0.803599317890391,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.782
     },
     {
       "id": "https://bbc.com/sport/football/videos/c4g5wgjp9x8o?at_medium=RSS&at_campaign=rss",
@@ -1080,11 +1187,11 @@
       "en": "Forest must focus on one game at a time - Pereira",
       "text_for_match": "Forest must focus on one game at a time - Pereira Nottingham Forest manager Vitor Pereira wants his side to \"focus on the present,\" and take one game at a time in their relegation fight. Nottingham Forest manager Vitor Pereira wants his side to \"focus on the present,\" and take one game at a time in their relegation fight.",
       "score_detail": {
-        "fresh": 0.8068261242731742,
+        "fresh": 0.7991824769320055,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.784
+      "score": 0.78
     },
     {
       "id": "https://bbc.com/sport/football/videos/cp324ld3zr2o?at_medium=RSS&at_campaign=rss",
@@ -1098,11 +1205,11 @@
       "en": "'Foul starts outside the box' - Glasner disputes Man Utd penalty",
       "text_for_match": "'Foul starts outside the box' - Glasner disputes Man Utd penalty Crystal Palace manager Oliver Glasner says he does not believe the penalty awarded to Manchester United for a foul by Maxence Lacroix, who was shown a red card, should have been awarded. Crystal Palace manager Oliver Glasner says he does not believe the penalty awarded to Manchester United for a foul by Maxence Lacroix, who was shown a red card, should have been awarded.",
       "score_detail": {
-        "fresh": 0.8039874164114456,
+        "fresh": 0.7963706622026963,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.782
+      "score": 0.778
     },
     {
       "id": "https://bbc.com/sport/football/articles/cgqgzgqweklo?at_medium=RSS&at_campaign=rss",
@@ -1116,11 +1223,11 @@
       "en": "'Hearts & Motherwell the winners after damaging Old Firm stalemate'",
       "text_for_match": "'Hearts & Motherwell the winners after damaging Old Firm stalemate' BBC Scotland's chief sportswriter Tom English evaluates the impact of Sunday's draw at Ibrox. BBC Scotland's chief sportswriter Tom English evaluates the impact of Sunday's draw at Ibrox.",
       "score_detail": {
-        "fresh": 0.8022241975915656,
+        "fresh": 0.7946241476297898,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.781
+      "score": 0.777
     },
     {
       "id": "https://bbc.com/sport/football/articles/c0rjg4gqdkjo?at_medium=RSS&at_campaign=rss",
@@ -1136,11 +1243,11 @@
       "en": "How do Lionesses solve full-back succession problem?",
       "text_for_match": "How do Lionesses solve full-back succession problem? Will the Lionesses find a solution for their full-back problem in time for the 2027 Women's World Cup? Will the Lionesses find a solution for their full-back problem in time for the 2027 Women's World Cup?",
       "score_detail": {
-        "fresh": 0.7444274501698812,
+        "fresh": 0.7373749505928379,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.78
+      "score": 0.776
     },
     {
       "id": "https://bbc.com/sport/football/articles/czd8gpd9p6qo?at_medium=RSS&at_campaign=rss",
@@ -1158,11 +1265,11 @@
       "en": "Analysis: Xhaka returns as Black Cats end losing streak",
       "text_for_match": "Analysis: Xhaka returns as Black Cats end losing streak Sunderland end their losing streak in a 1-1 draw against Bournemouth as captain Granit Xhaka returns after more than a month out. Sunderland end their losing streak in a 1-1 draw against Bournemouth as captain Granit Xhaka returns after more than a month out.",
       "score_detail": {
-        "fresh": 0.6289933807329232,
+        "fresh": 0.6230344715731795,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.777
+      "score": 0.774
     },
     {
       "id": "https://bbc.com/news/articles/c9wndrz1j9qo?at_medium=RSS&at_campaign=rss",
@@ -1178,11 +1285,11 @@
       "en": "'Rules are there to be broken': The women's team who defied football ban",
       "text_for_match": "'Rules are there to be broken': The women's team who defied football ban The Manchester-formed team, known as The Corinthians, were determined to play the game they loved. The Manchester-formed team, known as The Corinthians, were determined to play the game they loved. ",
       "score_detail": {
-        "fresh": 0.7312630743083699,
+        "fresh": 0.7243352903838378,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.772
+      "score": 0.768
     },
     {
       "id": "https://bbc.com/sport/football/articles/c0q354zdw44o?at_medium=RSS&at_campaign=rss",
@@ -1196,11 +1303,11 @@
       "en": "'Best save I've ever seen' - how good was Pickford's stop?",
       "text_for_match": "'Best save I've ever seen' - how good was Pickford's stop? Where does Jordan Pickford's flying save to deny Sandro Tonali rank among the best-ever stops? Where does Jordan Pickford's flying save to deny Sandro Tonali rank among the best-ever stops?",
       "score_detail": {
-        "fresh": 0.7747503831286685,
+        "fresh": 0.7674106124793161,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.765
+      "score": 0.76
     },
     {
       "id": "https://bbc.com/sport/football/videos/cp32xvg14zwo?at_medium=RSS&at_campaign=rss",
@@ -1217,11 +1324,11 @@
       "en": "'Too much drama for my liking' - Andrews on seven-goal thriller",
       "text_for_match": "'Too much drama for my liking' - Andrews on seven-goal thriller Brentford manager Keith Andrews is pleased with his side's \"grit and character\" as they hold out against Burnley in a dramatic 4-3 win. Brentford manager Keith Andrews is pleased with his side's \"grit and character\" as they hold out against Burnley in a dramatic 4-3 win.",
       "score_detail": {
-        "fresh": 0.6453897236772157,
+        "fresh": 0.6392754801035497,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.754
+      "score": 0.75
     },
     {
       "id": "https://bbc.com/sport/football/videos/cx2lgevrr67o?at_medium=RSS&at_campaign=rss",
@@ -1237,11 +1344,11 @@
       "en": "'World-class save' - how Pickford and Everton thwarted Newcastle",
       "text_for_match": "'World-class save' - how Pickford and Everton thwarted Newcastle Match of the Day pundits Alan Shearer and Ashley Williams react to Jordan Pickford's \"remarkable\" injury-time save against Newcastle. Match of the Day pundits Alan Shearer and Ashley Williams react to Jordan Pickford's \"remarkable\" injury-time save against Newcastle.",
       "score_detail": {
-        "fresh": 0.6839659308155838,
+        "fresh": 0.677486226934852,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.744
+      "score": 0.74
     },
     {
       "id": "https://bbc.com/sport/football/videos/cg4gnk2qkndo?at_medium=RSS&at_campaign=rss",
@@ -1257,11 +1364,11 @@
       "en": "How Guehi and Dias partnership shone against Leeds",
       "text_for_match": "How Guehi and Dias partnership shone against Leeds Match of the Day pundits Alan Shearer and Ashley Williams look at Marc Guehi's impressive partnership with Ruben Dias in Manchester City's 1-0 win at Leeds. Match of the Day pundits Alan Shearer and Ashley Williams look at Marc Guehi's impressive partnership with Ruben Dias in Manchester City's 1-0 win at Leeds.",
       "score_detail": {
-        "fresh": 0.6829643469676283,
+        "fresh": 0.6764941318149955,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.743
+      "score": 0.739
     },
     {
       "id": "https://bbc.com/sport/football/articles/c6200gylppzo?at_medium=RSS&at_campaign=rss",
@@ -1275,11 +1382,11 @@
       "en": "Fishlock ambassadorial role 'important for visibility'",
       "text_for_match": "Fishlock ambassadorial role 'important for visibility' Jess Fishlock, generally regarded as Wales' greatest ever female footballer, says she felt compelled to become an ambassador for the 2027 EuroGames in Cardiff due to the \"political climate right now\" for LGBTQ+ people. Jess Fishlock, generally regarded as Wales' greatest ever female footballer, says she felt compelled to become an ambassador for the 2027 EuroGames in Cardiff due to the \"political climate right now\" for LGBTQ+ people.",
       "score_detail": {
-        "fresh": 0.7348131254799157,
+        "fresh": 0.7278517093533738,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.741
+      "score": 0.737
     },
     {
       "id": "https://bbc.com/sport/football/videos/cqlgkd044pgo?at_medium=RSS&at_campaign=rss",
@@ -1295,11 +1402,11 @@
       "en": "Kane scores twice as Bayern come from behind to beat Dortmund",
       "text_for_match": "Kane scores twice as Bayern come from behind to beat Dortmund Harry Kane scores two second-half goals as Bayern Munich came from behind to beat Borussia Dortmund in a thrilling match and move 11 points clear at the top of the Bundesliga. Harry Kane scores two second-half goals as Bayern Munich came from behind to beat Borussia Dortmund in a thrilling match and move 11 points clear at the top of the Bundesliga.",
       "score_detail": {
-        "fresh": 0.6735545701221126,
+        "fresh": 0.6671735005903296,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.737
+      "score": 0.734
     },
     {
       "id": "https://bbc.com/sport/football/articles/cwygre5geq2o?at_medium=RSS&at_campaign=rss",
@@ -1313,11 +1420,11 @@
       "en": "Arsenal set to celebrate St Totteringham's Day earlier than ever",
       "text_for_match": "Arsenal set to celebrate St Totteringham's Day earlier than ever The day it becomes impossible for Spurs to finish above Arsenal in the Premier League, St Totteringham's Day is set to arrive earlier than ever. The day it becomes impossible for Spurs to finish above Arsenal in the Premier League, St Totteringham's Day is set to arrive earlier than ever.",
       "score_detail": {
-        "fresh": 0.7273352270772866,
+        "fresh": 0.7204446544900442,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.736
+      "score": 0.732
     },
     {
       "id": "https://bbc.com/news/articles/c9wnv158j5lo?at_medium=RSS&at_campaign=rss",
@@ -1331,11 +1438,11 @@
       "en": "Football legends unveil 100th memorial bench",
       "text_for_match": "Football legends unveil 100th memorial bench Ex-Spurs and Chelsea players helped reveal the 100th \"Legend on the Bench\" to help prevent suicide. Ex-Spurs and Chelsea players helped reveal the 100th \"Legend on the Bench\" to help prevent suicide.",
       "score_detail": {
-        "fresh": 0.7260507014722013,
+        "fresh": 0.719172298124936,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.736
+      "score": 0.732
     },
     {
       "id": "https://bbc.com/sport/football/articles/cly80vd4nvdo?at_medium=RSS&at_campaign=rss",
@@ -1351,11 +1458,11 @@
       "en": "'Not the sign of a top team' - Newcastle take huge step backwards",
       "text_for_match": "'Not the sign of a top team' - Newcastle take huge step backwards Newcastle are languishing in 12th place in the Premier League for a reason - they have conceded 23 goals since they last kept a clean sheet in any competition. Newcastle are languishing in 12th place in the Premier League for a reason - they have conceded 23 goals since they last kept a clean sheet in any competition.",
       "score_detail": {
-        "fresh": 0.6594302134322949,
+        "fresh": 0.6531829541456315,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.729
+      "score": 0.725
     },
     {
       "id": "https://bbc.com/sport/football/videos/cn9e8xy1x1ro?at_medium=RSS&at_campaign=rss",
@@ -1371,11 +1478,11 @@
       "en": "Lamine Yamal's first hat-trick as Barcelona hit four",
       "text_for_match": "Lamine Yamal's first hat-trick as Barcelona hit four Lamine Yamal puts on a show, scoring the first hat-trick of his career, as Barcelona soundly defeat Villarreal 4-1 to extend their lead at the top of La Liga to four points. Lamine Yamal puts on a show, scoring the first hat-trick of his career, as Barcelona soundly defeat Villarreal 4-1 to extend their lead at the top of La Liga to four points.",
       "score_detail": {
-        "fresh": 0.6456037692268868,
+        "fresh": 0.6394874978449392,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.721
+      "score": 0.717
     },
     {
       "id": "https://bbc.com/sport/football/videos/cqlg9l4ly66o?at_medium=RSS&at_campaign=rss",
@@ -1391,29 +1498,11 @@
       "en": "Pickford save 'out of this world' - Moyes",
       "text_for_match": "Pickford save 'out of this world' - Moyes Everton manager David Moyes praises the late-game heroics of Jordan Pickford, who made a stunning save to deny Sandro Tonali in Everton's 3-2 win over Newcastle United. Everton manager David Moyes praises the late-game heroics of Jordan Pickford, who made a stunning save to deny Sandro Tonali in Everton's 3-2 win over Newcastle United.",
       "score_detail": {
-        "fresh": 0.6437522113582105,
+        "fresh": 0.637653481122929,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.72
-    },
-    {
-      "id": "https://bbc.com/sport/football/videos/c1kgpj73z4jo?at_medium=RSS&at_campaign=rss",
-      "ts": 1772322867000,
-      "url": "https://bbc.com/sport/football/videos/c1kgpj73z4jo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision",
-      "en": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision",
-      "text_for_match": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision 'Handball rule is a mess' - Alan Shearer unimpressed by Burnley VAR decision. 'Handball rule is a mess' - Alan Shearer unimpressed by Burnley VAR decision.",
-      "score_detail": {
-        "fresh": 0.6828785130248552,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.71
+      "score": 0.716
     },
     {
       "id": "https://bbc.com/sport/football/articles/c62gnrpd8weo?at_medium=RSS&at_campaign=rss",
@@ -1429,11 +1518,29 @@
       "en": "Analysis: Cherries extend run despite slow start",
       "text_for_match": "Analysis: Cherries extend run despite slow start Only Manchester United are on a longer unbeaten run in the top flight than Bournemouth, but the Cherries had to overcome a slow start against Sunderland. Only Manchester United are on a longer unbeaten run in the top flight than Bournemouth, but the Cherries had to overcome a slow start against Sunderland.",
       "score_detail": {
-        "fresh": 0.6280420657413487,
+        "fresh": 0.6220921690764749,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.71
+      "score": 0.707
+    },
+    {
+      "id": "https://bbc.com/sport/football/videos/c1kgpj73z4jo?at_medium=RSS&at_campaign=rss",
+      "ts": 1772322867000,
+      "url": "https://bbc.com/sport/football/videos/c1kgpj73z4jo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.com",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision",
+      "en": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision",
+      "text_for_match": "'Handball rule is a mess' - Shearer unimpressed by Burnley VAR decision 'Handball rule is a mess' - Alan Shearer unimpressed by Burnley VAR decision. 'Handball rule is a mess' - Alan Shearer unimpressed by Burnley VAR decision.",
+      "score_detail": {
+        "fresh": 0.6764091110392343,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.706
     },
     {
       "id": "https://bbc.com/sport/football/articles/cd03402x4edo?at_medium=RSS&at_campaign=rss",
@@ -1447,11 +1554,11 @@
       "en": "Carrick not interested in personal Glasner duel",
       "text_for_match": "Carrick not interested in personal Glasner duel Manchester United interim boss Michael Carrick comes up against one of the major contenders for the permanent job when Oliver Glasner's Crystal Palace go to Old Trafford on Sunday. Manchester United interim boss Michael Carrick comes up against one of the major contenders for the permanent job when Oliver Glasner's Crystal Palace go to Old Trafford on Sunday.",
       "score_detail": {
-        "fresh": 0.6742664221714323,
+        "fresh": 0.667878608750402,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.705
+      "score": 0.701
     },
     {
       "id": "https://bbc.com/sport/football/articles/cg5nm2n9zzpo?at_medium=RSS&at_campaign=rss",
@@ -1465,11 +1572,11 @@
       "en": "Free-scoring Semenyo takes burden off Haaland",
       "text_for_match": "Free-scoring Semenyo takes burden off Haaland Manchester City have often been accused of being too reliant on Erling Haaland this season. There are signs that could be changing. Manchester City have often been accused of being too reliant on Erling Haaland this season. There are signs that could be changing.",
       "score_detail": {
-        "fresh": 0.6724207660386314,
+        "fresh": 0.6660504378528552,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.703
+      "score": 0.7
     },
     {
       "id": "https://bbc.com/sport/football/articles/c178x0jppelo?at_medium=RSS&at_campaign=rss",
@@ -1483,11 +1590,11 @@
       "en": "Boos heard during Ramadan pause at Elland Road",
       "text_for_match": "Boos heard during Ramadan pause at Elland Road Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City. Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City.",
       "score_detail": {
-        "fresh": 0.6642744397225284,
+        "fresh": 0.6579812875770579,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.699
+      "score": 0.695
     },
     {
       "id": "https://bbc.com/sport/football/articles/c15x740p2wko?at_medium=RSS&at_campaign=rss",
@@ -1501,11 +1608,11 @@
       "en": "'Manager of season contender' Andrews has Brentford dreaming of Europe",
       "text_for_match": "'Manager of season contender' Andrews has Brentford dreaming of Europe That Brentford are seventh in the Premier League is credit to Keith Andrews, who - it is easy to forget - is in his debut season as a manager. That Brentford are seventh in the Premier League is credit to Keith Andrews, who - it is easy to forget - is in his debut season as a manager.",
       "score_detail": {
-        "fresh": 0.6633460378051605,
+        "fresh": 0.657061681082438,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.698
+      "score": 0.694
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4g2972nrpeo?at_medium=RSS&at_campaign=rss",
@@ -1519,11 +1626,11 @@
       "en": "New set-piece kings Liverpool can still achieve 'something beautiful'",
       "text_for_match": "New set-piece kings Liverpool can still achieve 'something beautiful' Liverpool boosted their Champions League hopes with a 5-2 win against West Ham, helped by three goals from set-pieces in the first half. Liverpool boosted their Champions League hopes with a 5-2 win against West Ham, helped by three goals from set-pieces in the first half.",
       "score_detail": {
-        "fresh": 0.6617125111044038,
+        "fresh": 0.6554436299614219,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.697
+      "score": 0.693
     },
     {
       "id": "https://bbc.com/sport/football/videos/c5yj4yxgz12o?at_medium=RSS&at_campaign=rss",
@@ -1537,11 +1644,11 @@
       "en": "'A very harsh decision' - assistant Riemer on Farke red card",
       "text_for_match": "'A very harsh decision' - assistant Riemer on Farke red card Leeds United assistant manager Edmund Riemer belives manager Daniel Farke's sending off at the end of their loss against Manchester City was \"very harsh\". Leeds United assistant manager Edmund Riemer belives manager Daniel Farke's sending off at the end of their loss against Manchester City was \"very harsh\".",
       "score_detail": {
-        "fresh": 0.6606534065270883,
+        "fresh": 0.6543945590476713,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.696
+      "score": 0.693
     },
     {
       "id": "https://bbc.com/sport/football/videos/cn4g04pvk8qo?at_medium=RSS&at_campaign=rss",
@@ -1555,11 +1662,11 @@
       "en": "Guardiola lauds 'complete' Man City performance at Leeds",
       "text_for_match": "Guardiola lauds 'complete' Man City performance at Leeds Manchester City manager Pep Guardiola says his side's win tonight was an important one in closing the gap with Arsenal, and growing the gap for Champions League qualification. Manchester City manager Pep Guardiola says his side's win tonight was an important one in closing the gap with Arsenal, and growing the gap for Champions League qualification.",
       "score_detail": {
-        "fresh": 0.6602948626539585,
+        "fresh": 0.654039411919937,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.696
+      "score": 0.692
     },
     {
       "id": "https://bbc.com/sport/football/articles/cdjm83ljpmno?at_medium=RSS&at_campaign=rss",
@@ -1573,11 +1680,11 @@
       "en": "'Not fair to fans' - how VAR denied Burnley one of greatest comebacks",
       "text_for_match": "'Not fair to fans' - how VAR denied Burnley one of greatest comebacks Burnley were set to complete one of the greatest Premier League comebacks - until VAR intervened. BBC Sport takes a look at whether the decisions were correct. Burnley were set to complete one of the greatest Premier League comebacks - until VAR intervened. BBC Sport takes a look at whether the decisions were correct. ",
       "score_detail": {
-        "fresh": 0.66025601737113,
+        "fresh": 0.6540009346465643,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.696
+      "score": 0.692
     },
     {
       "id": "https://bbc.com/sport/football/articles/czx4gv0vk2xo?at_medium=RSS&at_campaign=rss",
@@ -1591,11 +1698,11 @@
       "en": "No points but Burnley valiant in loss to Brentford",
       "text_for_match": "No points but Burnley valiant in loss to Brentford Burnley were denied a memorable point after they were beaten 4-3 by Brentford in a memorable Premier League game at Turf Moor. Burnley were denied a memorable point after they were beaten 4-3 by Brentford in a memorable Premier League game at Turf Moor. ",
       "score_detail": {
-        "fresh": 0.6454881067687138,
+        "fresh": 0.6393729311408752,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.687
+      "score": 0.684
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckgzkljy8p7o?at_medium=RSS&at_campaign=rss",
@@ -1609,11 +1716,11 @@
       "en": "Brentford boost European push with win at Burnley",
       "text_for_match": "Brentford boost European push with win at Burnley Brentford head coach Keith Andrews would have preferred a more straightforward result than the late 4-3 win at Burnley to celebrate signing a new contract at the club this week. Brentford head coach Keith Andrews would have preferred a more straightforward result than the late 4-3 win at Burnley to celebrate signing a new contract at the club this week.",
       "score_detail": {
-        "fresh": 0.6445652764420192,
+        "fresh": 0.6384588434532212,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.687
+      "score": 0.683
     },
     {
       "id": "https://bbc.com/sport/football/videos/cwy87yn8q99o?at_medium=RSS&at_campaign=rss",
@@ -1627,11 +1734,11 @@
       "en": "'It's not a good look' - Howe calls for accountability",
       "text_for_match": "'It's not a good look' - Howe calls for accountability Newcastle United manager Eddie Howe says his side must take collective accountability for their errors against Everton and their defensive track record over the past few weeks. Newcastle United manager Eddie Howe says his side must take collective accountability for their errors against Everton and their defensive track record over the past few weeks.",
       "score_detail": {
-        "fresh": 0.6443464058840891,
+        "fresh": 0.6382420464143651,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.687
+      "score": 0.683
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy4wp49wvp3o?at_medium=RSS&at_campaign=rss",
@@ -1645,11 +1752,11 @@
       "en": "PSG granted more time off between Chelsea ties",
       "text_for_match": "PSG granted more time off between Chelsea ties Paris St-Germain will have five days off between the two legs of their Champions League last-16 tie against Chelsea after their request to postpone a Ligue 1 match is granted. Paris St-Germain will have five days off between the two legs of their Champions League last-16 tie against Chelsea after their request to postpone a Ligue 1 match is granted.",
       "score_detail": {
-        "fresh": 0.6230337284904977,
+        "fresh": 0.6171312794262399,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.674
+      "score": 0.67
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn4g0e2weqdo?at_medium=RSS&at_campaign=rss",
@@ -1663,11 +1770,11 @@
       "en": "West Ham must sell players in summer after £104m loss",
       "text_for_match": "West Ham must sell players in summer after £104m loss West Ham will need to sell players this summer even if they avoid relegation from the Premier League, after revealing a £104.2m loss for the last financial year. West Ham will need to sell players this summer even if they avoid relegation from the Premier League, after revealing a £104.2m loss for the last financial year.",
       "score_detail": {
-        "fresh": 0.5976618920911656,
+        "fresh": 0.5919998087810646,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.659
+      "score": 0.655
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce8w4r130z8o?at_medium=RSS&at_campaign=rss",
@@ -1681,11 +1788,11 @@
       "en": "What next for Salah and Liverpool?",
       "text_for_match": "What next for Salah and Liverpool? Mohamed Salah is once again regularly starting for Liverpool but is this the start of a long goodbye for the record-breaking Egyptian at Anfield? Mohamed Salah is once again regularly starting for Liverpool but is this the start of a long goodbye for the record-breaking Egyptian at Anfield?",
       "score_detail": {
-        "fresh": 0.5764702769156237,
+        "fresh": 0.5710089571010497,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.646
+      "score": 0.643
     },
     {
       "id": "https://bbc.com/sport/football/articles/c363j2ygwy8o?at_medium=RSS&at_campaign=rss",
@@ -1699,11 +1806,11 @@
       "en": "The moment I told my mum I wanted to stop football - and how life changed",
       "text_for_match": "The moment I told my mum I wanted to stop football - and how life changed England captain Leah Williamson tells presenter Kelly Somers about her journey in football - and life away from the game. England captain Leah Williamson tells presenter Kelly Somers about her journey in football - and life away from the game.",
       "score_detail": {
-        "fresh": 0.5764039925857852,
+        "fresh": 0.5709433007306022,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.646
+      "score": 0.643
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&at_campaign=rss",
@@ -1719,11 +1826,11 @@
       "en": "All February's done deals, including deadline day, in one place",
       "text_for_match": "All February's done deals, including deadline day, in one place Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "score_detail": {
-        "fresh": 0.518414399683216,
+        "fresh": 0.5135030851774642,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.644
+      "score": 0.641
     },
     {
       "id": "https://bbc.com/sport/football/articles/cz6eng2znp4o?at_medium=RSS&at_campaign=rss",
@@ -1739,11 +1846,11 @@
       "en": "Midtjylland rematch reminder of chaos of Forest's season",
       "text_for_match": "Midtjylland rematch reminder of chaos of Forest's season Midtjylland will return to haunt Nottingham Forest, a reminder of the chaos which has enveloped the season. Midtjylland will return to haunt Nottingham Forest, a reminder of the chaos which has enveloped the season.\n\n",
       "score_detail": {
-        "fresh": 0.5129617178441211,
+        "fresh": 0.5081020605366031,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.641
+      "score": 0.638
     },
     {
       "id": "https://bbc.com/sport/football/videos/cx2rnne0rp1o?at_medium=RSS&at_campaign=rss",
@@ -1759,11 +1866,11 @@
       "en": "'Laser-focused' - is lack of European football helping Man United?",
       "text_for_match": "'Laser-focused' - is lack of European football helping Man United? Manchester United caretaker head coach Michael Carrick says \"it's a relief\" his side aren't in any European competitions this season, which has allowed them to focus solely on the Premier League with the club unbeaten in six matches in all competitions. Manchester United caretaker head coach Michael Carrick says \"it's a relief\" his side aren't in any European competitions this season, which has allowed them to focus solely on the Premier League with the club unbeaten in six matches in all competitions. ",
       "score_detail": {
-        "fresh": 0.508037597097191,
+        "fresh": 0.5032245895464452,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.638
+      "score": 0.635
     },
     {
       "id": "https://bbc.com/sport/football/articles/c78x13vvnv5o?at_medium=RSS&at_campaign=rss",
@@ -1777,11 +1884,11 @@
       "en": "Emery's title 'dream' over - but will Villa salvage top-five hopes?",
       "text_for_match": "Emery's title 'dream' over - but will Villa salvage top-five hopes? Aston Villa boss Unai Emery concedes his Premier League title \"dreams\" are over, but will the club salvage their Champions League hopes? Aston Villa boss Unai Emery concedes his Premier League title \"dreams\" are over, but will the club salvage their Champions League hopes?",
       "score_detail": {
-        "fresh": 0.5420517666164876,
+        "fresh": 0.5369165182401333,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.625
+      "score": 0.622
     },
     {
       "id": "https://bbc.com/sport/football/articles/cjwz9y9gv17o?at_medium=RSS&at_campaign=rss",
@@ -1795,11 +1902,11 @@
       "en": "Liverpool winger Kone-Doherty signs for Molde",
       "text_for_match": "Liverpool winger Kone-Doherty signs for Molde Republic of Ireland underage international Trent Kone-Doherty leaves Liverpool to sign for Norwegian side Molde on a four-year deal. Republic of Ireland underage international Trent Kone-Doherty leaves Liverpool to sign for Norwegian side Molde on a four-year deal.",
       "score_detail": {
-        "fresh": 0.517385376990778,
+        "fresh": 0.5124838111611418,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.61
+      "score": 0.607
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce3g257gnpko?at_medium=RSS&at_campaign=rss",
@@ -1813,11 +1920,11 @@
       "en": "Chelsea face difficult Champions League run",
       "text_for_match": "Chelsea face difficult Champions League run The Blues have a difficult run in the Champions League, in addition to their final 11 Premier League fixtures, in a challenging end to the season. The Blues have a difficult run in the Champions League, in addition to their final 11 Premier League fixtures, in a challenging end to the season. ",
       "score_detail": {
-        "fresh": 0.5128862770639824,
+        "fresh": 0.5080273344615305,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.608
+      "score": 0.605
     },
     {
       "id": "https://bbc.com/sport/articles/ce8q5z0y409o?at_medium=RSS&at_campaign=rss",
@@ -1831,11 +1938,11 @@
       "en": "🎧 'Relegation will haunt us for a generation'",
       "text_for_match": "🎧 'Relegation will haunt us for a generation' Today's news and views on Spurs in two minutes. Today's news and views on Spurs in two minutes.",
       "score_detail": {
-        "fresh": 0.5117464162487386,
+        "fresh": 0.5068982723720934,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.607
+      "score": 0.604
     },
     {
       "id": "https://bbc.com/sport/articles/cre34qj7y5zo?at_medium=RSS&at_campaign=rss",
@@ -1849,11 +1956,11 @@
       "en": "🎧 Arteta on team fitness and Chelsea",
       "text_for_match": "🎧 Arteta on team fitness and Chelsea Today's news and views on the Gunners in two minutes. Today's news and views on the Gunners in two minutes.",
       "score_detail": {
-        "fresh": 0.5110899569423437,
+        "fresh": 0.5062480321794344,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.607
+      "score": 0.604
     },
     {
       "id": "https://bbc.com/sport/articles/cre34n8d898o?at_medium=RSS&at_campaign=rss",
@@ -1867,11 +1974,11 @@
       "en": "🎧 What Midtjylland has in store",
       "text_for_match": "🎧 What Midtjylland has in store Today's news and views on Forest in two minutes. Today's news and views on Forest in two minutes.",
       "score_detail": {
-        "fresh": 0.5109396369926882,
+        "fresh": 0.5060991363193675,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.607
+      "score": 0.604
     },
     {
       "id": "https://bbc.com/sport/articles/c93n5499kgxo?at_medium=RSS&at_campaign=rss",
@@ -1885,29 +1992,11 @@
       "en": "🎧Rosenior on Cucurella, drawing PSG & facing Arsenal",
       "text_for_match": "🎧Rosenior on Cucurella, drawing PSG & facing Arsenal Today's news and views on the Blues in two minutes. Today's news and views on the Blues in two minutes.",
       "score_detail": {
-        "fresh": 0.5108235109498979,
+        "fresh": 0.5059841104225585,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.606
-    },
-    {
-      "id": "https://bbc.com/sport/articles/cp89x2egzlpo?at_medium=RSS&at_campaign=rss",
-      "ts": 1772212174000,
-      "url": "https://bbc.com/sport/articles/cp89x2egzlpo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "🎧 Howe addresses Gordon-Arsenal rumours",
-      "en": "🎧 Howe addresses Gordon-Arsenal rumours",
-      "text_for_match": "🎧 Howe addresses Gordon-Arsenal rumours Today's news and views on the Toon in two minutes. Today's news and views on the Toon in two minutes.",
-      "score_detail": {
-        "fresh": 0.5079099063033564,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.605
+      "score": 0.604
     },
     {
       "id": "https://bbc.com/sport/football/articles/c8egyyxw1l1o?at_medium=RSS&at_campaign=rss",
@@ -1921,11 +2010,11 @@
       "en": "Marathe stands down as Rangers vice-chair ",
       "text_for_match": "Marathe stands down as Rangers vice-chair  Paraag Marathe is standing as Rangers' vice-chair, while fellow director Gene Schneur is doing the same because of multi-club ownership rules. Paraag Marathe is standing as Rangers' vice-chair, while fellow director Gene Schneur is doing the same because of multi-club ownership rules. ",
       "score_detail": {
-        "fresh": 0.5071715598559643,
+        "fresh": 0.5023667569022897,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.604
+      "score": 0.601
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp81wgjx9ejo?at_medium=RSS&at_campaign=rss",
@@ -1939,11 +2028,11 @@
       "en": "'Very easy to abuse online without consequences' ",
       "text_for_match": "'Very easy to abuse online without consequences'  Chelsea boss Liam Rosenior condemns the racial abuse aimed at players - warning it is \"very easy\" for social media users to target them without punishment. Chelsea boss Liam Rosenior condemns the racial abuse aimed at players - warning it is \"very easy\" for social media users to target them without punishment.",
       "score_detail": {
-        "fresh": 0.5049210947961087,
+        "fresh": 0.5001376121253969,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.603
+      "score": 0.6
     },
     {
       "id": "https://bbc.com/sport/football/videos/cj6dnxl35wko?at_medium=RSS&at_campaign=rss",
@@ -1957,11 +2046,11 @@
       "en": "'He's a tough guy' - Rosenior supports Fofana after online racist abuse ",
       "text_for_match": "'He's a tough guy' - Rosenior supports Fofana after online racist abuse  Chelsea head coach Liam Rosenior has urged his squad to ignore comments on social media after defender Wesley Fofana was subject to racist abuse following Chelsea's 1-1 draw against Burnley in the Premier League. Chelsea head coach Liam Rosenior has urged his squad to ignore comments on social media after defender Wesley Fofana was subject to racist abuse following Chelsea's 1-1 draw against Burnley in the Premier League. ",
       "score_detail": {
-        "fresh": 0.5042342854073069,
+        "fresh": 0.49945730937860955,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.603
+      "score": 0.6
     },
     {
       "id": "https://bbc.com/news/articles/ckg8kzde992o?at_medium=RSS&at_campaign=rss",
@@ -1975,11 +2064,11 @@
       "en": "Arrests after flares thrown in Europa League match",
       "text_for_match": "Arrests after flares thrown in Europa League match Police say it received reports of flares being thrown from the away end and arrested three people. Police say it received reports of flares being thrown from the away end and arrested three people.",
       "score_detail": {
-        "fresh": 0.5018572606264523,
+        "fresh": 0.4971028038724778,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.601
+      "score": 0.598
     },
     {
       "id": "https://bbc.com/sport/football/articles/c20lzy1n59lo?at_medium=RSS&at_campaign=rss",
@@ -1993,11 +2082,11 @@
       "en": "How do Man City's Muslim players adapt to Ramadan?",
       "text_for_match": "How do Man City's Muslim players adapt to Ramadan? Muslims around the world are currently observing the Islamic holy month of Ramadan, including professional footballers, so how do Manchester City help their players? Muslims around the world are currently observing the Islamic holy month of Ramadan, including professional footballers, so how do Manchester City help their players?",
       "score_detail": {
-        "fresh": 0.498908068591641,
+        "fresh": 0.49418155166655564,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.599
+      "score": 0.597
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&at_campaign=rss",
@@ -2011,11 +2100,11 @@
       "en": "Watch live Bundesliga games on Friday nights on the BBC",
       "text_for_match": "Watch live Bundesliga games on Friday nights on the BBC BBC Sport has broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. BBC Sport has broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons.",
       "score_detail": {
-        "fresh": 0.495982839337417,
+        "fresh": 0.4912840352244713,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.598
+      "score": 0.595
     },
     {
       "id": "https://bbc.com/sport/football/articles/cdxz4qrkd9do?at_medium=RSS&at_campaign=rss",
@@ -2029,47 +2118,11 @@
       "en": "Will Martinez deliver more Lille antics?",
       "text_for_match": "Will Martinez deliver more Lille antics? Aston Villa renew hostilities with Lille as they look to end their 30-year trophy drought. Aston Villa renew hostilities with Lille as they look to end their 30-year trophy drought. \n\n",
       "score_detail": {
-        "fresh": 0.4955029340975631,
+        "fresh": 0.4908086764740037,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.597
-    },
-    {
-      "id": "https://bbc.com/sport/articles/cwyvq7n1kzko?at_medium=RSS&at_campaign=rss",
-      "ts": 1772199925000,
-      "url": "https://bbc.com/sport/articles/cwyvq7n1kzko?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "🎧 Real Madrid Champions League draw",
-      "en": "🎧 Real Madrid Champions League draw",
-      "text_for_match": "🎧 Real Madrid Champions League draw Today's news and views on the Citizens in two minutes. Today's news and views on the Citizens in two minutes.",
-      "score_detail": {
-        "fresh": 0.4915423320946777,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.595
-    },
-    {
-      "id": "https://bbc.com/sport/articles/c2epl3zgxero?at_medium=RSS&at_campaign=rss",
-      "ts": 1772199455000,
-      "url": "https://bbc.com/sport/articles/c2epl3zgxero?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "🎧 Huge fees for Amorim sacking",
-      "en": "🎧 Huge fees for Amorim sacking",
-      "text_for_match": "🎧 Huge fees for Amorim sacking Today's news and views on the Red Devils in two minutes. Today's news and views on the Red Devils in two minutes.",
-      "score_detail": {
-        "fresh": 0.4909249182674812,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.595
+      "score": 0.594
     },
     {
       "id": "https://bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&at_campaign=rss",
@@ -2083,11 +2136,11 @@
       "en": "Is England on course for fifth Champions League spot?",
       "text_for_match": "Is England on course for fifth Champions League spot? Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase. Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.",
       "score_detail": {
-        "fresh": 0.4903502392597804,
+        "fresh": 0.48570479684065204,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.594
+      "score": 0.591
     },
     {
       "id": "https://bbc.com/sport/football/articles/clyg15yledeo?at_medium=RSS&at_campaign=rss",
@@ -2101,11 +2154,11 @@
       "en": "When could Wolves be relegated?",
       "text_for_match": "When could Wolves be relegated? BBC Sport's Ask Me Anything team looks at how soon Wolves can officially be relegated from the Premier League. BBC Sport's Ask Me Anything team looks at how soon Wolves can officially be relegated from the Premier League.",
       "score_detail": {
-        "fresh": 0.47810619531317794,
+        "fresh": 0.4735767495767821,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.587
+      "score": 0.584
     },
     {
       "id": "https://bbc.com/sport/football/articles/cnv6e1ggy77o?at_medium=RSS&at_campaign=rss",
@@ -2119,11 +2172,11 @@
       "en": "Gordon needs to stay 'fully focused' after Arsenal talk - Howe",
       "text_for_match": "Gordon needs to stay 'fully focused' after Arsenal talk - Howe Head coach Eddie Howe has urged Anthony Gordon to stay \"fully focused\" after the Newcastle United forward was linked with a move to Arsenal. Head coach Eddie Howe has urged Anthony Gordon to stay \"fully focused\" after the Newcastle United forward was linked with a move to Arsenal.",
       "score_detail": {
-        "fresh": 0.47730394507211027,
+        "fresh": 0.4727820996324049,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.586
+      "score": 0.584
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckg1lzwegpgo?at_medium=RSS&at_campaign=rss",
@@ -2137,11 +2190,11 @@
       "en": "So much for three-year plan - what is the secret to manager longevity?",
       "text_for_match": "So much for three-year plan - what is the secret to manager longevity? In his BBC Sport column, ex-Premier League boss Tony Pulis explains why it is so hard for football managers to keep their jobs in the modern game. In his BBC Sport column, ex-Premier League boss Tony Pulis explains why it is so hard for football managers to keep their jobs in the modern game.",
       "score_detail": {
-        "fresh": 0.4732267797303912,
+        "fresh": 0.46874356022641855,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.584
+      "score": 0.581
     },
     {
       "id": "https://bbc.com/sport/football/articles/cpqw5q1we5ro?at_medium=RSS&at_campaign=rss",
@@ -2155,11 +2208,11 @@
       "en": "FPL talking point: Stick or twist with Haaland?  ",
       "text_for_match": "FPL talking point: Stick or twist with Haaland?   Is it the time to stick or twist with Erling Haaland in your Fantasy Premier League team? And which Manchester United players could provide the point of difference? Is it the time to stick or twist with Erling Haaland in your Fantasy Premier League team? And which Manchester United players could provide the point of difference?",
       "score_detail": {
-        "fresh": 0.46788513780361807,
+        "fresh": 0.46345252353648986,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.581
+      "score": 0.578
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce94r0x3v55o?at_medium=RSS&at_campaign=rss",
@@ -2173,11 +2226,11 @@
       "en": "From Hearts failure to Estoril excitement - the 'most Portuguese Scot there is'",
       "text_for_match": "From Hearts failure to Estoril excitement - the 'most Portuguese Scot there is' After a forgettable seven months in charge at Hearts in 2017, Scottish manager Ian Cathro is rebuilding his reputation at Estoril. After a forgettable seven months in charge at Hearts in 2017, Scottish manager Ian Cathro is rebuilding his reputation at Estoril.",
       "score_detail": {
-        "fresh": 0.4645625206252676,
+        "fresh": 0.4601613839134601,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.579
+      "score": 0.576
     },
     {
       "id": "https://bbc.com/sport/football/articles/c5ykql3krk4o?at_medium=RSS&at_campaign=rss",
@@ -2191,11 +2244,11 @@
       "en": "Spurs in their Tudor era? Try our football history quiz",
       "text_for_match": "Spurs in their Tudor era? Try our football history quiz If new boss Igor can keep struggling Tottenham in the Premier League, he could become one of the most popular Tudors since the 1500s. If new boss Igor can keep struggling Tottenham in the Premier League, he could become one of the most popular Tudors since the 1500s.",
       "score_detail": {
-        "fresh": 0.46438986977557917,
+        "fresh": 0.4599903687101253,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.579
+      "score": 0.576
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn4gwqn8p05o?at_medium=RSS&at_campaign=rss",
@@ -2211,11 +2264,11 @@
       "en": "Antonio set to join Al‑Sailiya after Charlton talks",
       "text_for_match": "Antonio set to join Al‑Sailiya after Charlton talks Michail Antonio is set to sign a short-term deal with Qatari club Al‑Sailiya before his return to club football following a near-fatal car crash. Michail Antonio is set to sign a short-term deal with Qatari club Al‑Sailiya before his return to club football following a near-fatal car crash.",
       "score_detail": {
-        "fresh": 0.4002099473125535,
+        "fresh": 0.39641846906506784,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.573
+      "score": 0.571
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx2l01g40ygo?at_medium=RSS&at_campaign=rss",
@@ -2231,11 +2284,11 @@
       "en": "A 'normal guy' doing 'brilliant' things - Lammens on life at Man Utd",
       "text_for_match": "A 'normal guy' doing 'brilliant' things - Lammens on life at Man Utd Manchester United goalkeeper Senne Lammens says he is \"just a normal guy\", but his reputation is growing in an impressive debut season at Old Trafford. Manchester United goalkeeper Senne Lammens says he is \"just a normal guy\", but his reputation is growing in an impressive debut season at Old Trafford.",
       "score_detail": {
-        "fresh": 0.3836258473870752,
+        "fresh": 0.37999148231117313,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.564
+      "score": 0.561
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckgzyvq8z9ro?at_medium=RSS&at_campaign=rss",
@@ -2249,11 +2302,11 @@
       "en": "Crystal Palace 2-0 Zrinjski (3-1 agg): Palace's chaotic season takes another twist",
       "text_for_match": "Crystal Palace 2-0 Zrinjski (3-1 agg): Palace's chaotic season takes another twist Despite all the on and off-field chaos, Crystal Palace, 13th in the Premier League but 10 points above the relegation zone, could still make more club history by winning their first European trophy. Despite all the on and off-field chaos, Crystal Palace, 13th in the Premier League but 10 points above the relegation zone, could still make more club history by winning their first European trophy.",
       "score_detail": {
-        "fresh": 0.43003238113364,
+        "fresh": 0.4259583734041187,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.558
+      "score": 0.556
     },
     {
       "id": "https://bbc.com/sport/football/articles/c14mp80157vo?at_medium=RSS&at_campaign=rss",
@@ -2267,11 +2320,11 @@
       "en": "'Don't know what fuss was about' - chaotic Palace season could end in glory",
       "text_for_match": "'Don't know what fuss was about' - chaotic Palace season could end in glory Key players have gone, the manager is leaving and has criticised the club and upset fans - yet Crystal Palace's chaotic campaign could still end in European glory. Key players have gone, the manager is leaving and has criticised the club and upset fans - yet Crystal Palace's chaotic campaign could still end in European glory.",
       "score_detail": {
-        "fresh": 0.42965420293619894,
+        "fresh": 0.425583777962226,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.558
+      "score": 0.555
     },
     {
       "id": "https://bbc.com/sport/football/articles/cp8rz2klmv1o?at_medium=RSS&at_campaign=rss",
@@ -2287,11 +2340,11 @@
       "en": "Man Utd ruled out signing Osimhen 'because of Afcon'",
       "text_for_match": "Man Utd ruled out signing Osimhen 'because of Afcon' The Africa Cup of Nations proved to be \"a big stumbling block\" when Manchester United discussed signing Victor Osimhen, according to former coach Benni McCarthy. The Africa Cup of Nations proved to be \"a big stumbling block\" when Manchester United discussed signing Victor Osimhen, according to former coach Benni McCarthy.",
       "score_detail": {
-        "fresh": 0.3115401905699765,
+        "fresh": 0.30858874505070477,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.554
+      "score": 0.552
     },
     {
       "id": "https://bbc.com/sport/football/articles/c4gq70yqv0do?at_medium=RSS&at_campaign=rss",
@@ -2307,11 +2360,11 @@
       "en": "Man Utd post profit but debt rises to £1.3bn",
       "text_for_match": "Man Utd post profit but debt rises to £1.3bn The amount Manchester United owe increases to almost £1.3bn in outstanding transfer fees, rolling credit facility and legacy debt. The amount Manchester United owe increases to almost £1.3bn in outstanding transfer fees, rolling credit facility and legacy debt.",
       "score_detail": {
-        "fresh": 0.36325744484166167,
+        "fresh": 0.3598160443727254,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.551
+      "score": 0.549
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx2jqqvyv5jo?at_medium=RSS&at_campaign=rss",
@@ -2325,11 +2378,11 @@
       "en": "How Rosenior's 'son' Sarr got Chelsea call after 'emotional' Afcon",
       "text_for_match": "How Rosenior's 'son' Sarr got Chelsea call after 'emotional' Afcon Senegal's 20-year-old defender Mamadou Sarr is pushing for a first Premier League start when Chelsea face Arsenal after a rapid rise under Liam Rosenior. Senegal's 20-year-old defender Mamadou Sarr is pushing for a first Premier League start when Chelsea face Arsenal after a rapid rise under Liam Rosenior.",
       "score_detail": {
-        "fresh": 0.4077677750412161,
+        "fresh": 0.4039046960261236,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.545
+      "score": 0.542
     },
     {
       "id": "https://bbc.com/sport/football/articles/cpw01482189o?at_medium=RSS&at_campaign=rss",
@@ -2343,11 +2396,11 @@
       "en": "Spurs relegation fight toughest of career - Tudor",
       "text_for_match": "Spurs relegation fight toughest of career - Tudor Tottenham interim manager Igor Tudor says trying to save the club from Premier League relegation is \"probably\" the toughest challenge of his career. Tottenham interim manager Igor Tudor says trying to save the club from Premier League relegation is \"probably\" the toughest challenge of his career.",
       "score_detail": {
-        "fresh": 0.40606588212533634,
+        "fresh": 0.40221892637258005,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.544
+      "score": 0.541
     },
     {
       "id": "https://bbc.com/sport/football/articles/czx4097l7gxo?at_medium=RSS&at_campaign=rss",
@@ -2361,11 +2414,11 @@
       "en": "Brentford boss Andrews signs new deal to 2032",
       "text_for_match": "Brentford boss Andrews signs new deal to 2032 Brentford head coach Keith Andrews signs a new contract with the club, running until 2032. Brentford head coach Keith Andrews signs a new contract with the club, running until 2032.\n\n",
       "score_detail": {
-        "fresh": 0.40600833388368635,
+        "fresh": 0.4021619233270399,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.544
+      "score": 0.541
     },
     {
       "id": "https://bbc.com/news/articles/ckg26ejgml1o?at_medium=RSS&at_campaign=rss",
@@ -2379,11 +2432,11 @@
       "en": "Ticket tout targeted Arab Liverpool fans in scam",
       "text_for_match": "Ticket tout targeted Arab Liverpool fans in scam Police say Abdelmohaimen Mohamed specialised in selling tickets to fans from Egypt and Saudi Arabia. Police say Abdelmohaimen Mohamed specialised in selling tickets to fans from Egypt and Saudi Arabia.",
       "score_detail": {
-        "fresh": 0.40578907384457497,
+        "fresh": 0.4019447404968396,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.543
+      "score": 0.541
     },
     {
       "id": "https://bbc.com/sport/football/articles/crrxjyk54zpo?at_medium=RSS&at_campaign=rss",
@@ -2397,11 +2450,11 @@
       "en": "How have Chelsea made biggest loss in English football history?",
       "text_for_match": "How have Chelsea made biggest loss in English football history? Chelsea recorded a pre-tax loss of £355m for 2024-25 - the highest loss ever made by an English football club - according to financial figures released by Uefa. How did it happen? Chelsea recorded a pre-tax loss of £355m for 2024-25 - the highest loss ever made by an English football club - according to financial figures released by Uefa. How did it happen?",
       "score_detail": {
-        "fresh": 0.40488289958092605,
+        "fresh": 0.40104715107730093,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.543
+      "score": 0.541
     },
     {
       "id": "https://bbc.com/sport/articles/c2lrxyw4p02o?at_medium=RSS&at_campaign=rss",
@@ -2415,11 +2468,11 @@
       "en": "Fans of richest PL clubs pay £74 per match as ticket revenue soars",
       "text_for_match": "Fans of richest PL clubs pay £74 per match as ticket revenue soars Fans of the Premier League's six wealthiest clubs are paying an average of £74 per ticket for each match they attend, while ticket revenues are soaring, according to data from a new report. Fans of the Premier League's six wealthiest clubs are paying an average of £74 per ticket for each match they attend, while ticket revenues are soaring, according to data from a new report.",
       "score_detail": {
-        "fresh": 0.4009008432781272,
+        "fresh": 0.39710281967353,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.541
+      "score": 0.538
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn48wmy4v3ko?at_medium=RSS&at_campaign=rss",
@@ -2433,11 +2486,11 @@
       "en": "What is St Totteringham's Day and when could it happen?",
       "text_for_match": "What is St Totteringham's Day and when could it happen? BBC Sport's Ask Me Anything team explains what St Totteringham's Day is and what its origins are BBC Sport's Ask Me Anything team explains what St Totteringham's Day is and what its origins are",
       "score_detail": {
-        "fresh": 0.3993194354302648,
+        "fresh": 0.3955363936458243,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.54
+      "score": 0.537
     },
     {
       "id": "https://bbc.com/news/articles/cm2xdr0x5vro?at_medium=RSS&at_campaign=rss",
@@ -2451,11 +2504,11 @@
       "en": "Beverley Knight named Wolves FC charity ambassador",
       "text_for_match": "Beverley Knight named Wolves FC charity ambassador The Wolverhampton-born singer says she is proud to raise awareness of the charity's work. The Wolverhampton-born singer says she is proud to raise awareness of the charity's work.",
       "score_detail": {
-        "fresh": 0.39866111423250417,
+        "fresh": 0.39488430920084283,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.539
+      "score": 0.537
     },
     {
       "id": "https://bbc.com/sport/football/articles/c39wry03jvmo?at_medium=RSS&at_campaign=rss",
@@ -2469,11 +2522,11 @@
       "en": "Ronaldo becomes co-owner of Spanish side Almeria",
       "text_for_match": "Ronaldo becomes co-owner of Spanish side Almeria Cristiano Ronaldo becomes part-owner of Spanish second division side Almeria after acquiring a 25% share in the Saudi Arabian-owned club. Cristiano Ronaldo becomes part-owner of Spanish second division side Almeria after acquiring a 25% share in the Saudi Arabian-owned club. ",
       "score_detail": {
-        "fresh": 0.39711190347528985,
+        "fresh": 0.3933497752374619,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.538
+      "score": 0.536
     },
     {
       "id": "https://bbc.com/sport/football/articles/c3wl4g1g7ywo?at_medium=RSS&at_campaign=rss",
@@ -2489,11 +2542,11 @@
       "en": "Loftus-Cheek out for around eight weeks with broken jaw",
       "text_for_match": "Loftus-Cheek out for around eight weeks with broken jaw England midfielder Ruben Loftus-Cheek will be out for around eight weeks after having surgery on a broken jaw, AC Milan say. England midfielder Ruben Loftus-Cheek will be out for around eight weeks after having surgery on a broken jaw, AC Milan say. ",
       "score_detail": {
-        "fresh": 0.204019693007448,
+        "fresh": 0.20208686691631556,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.522
+      "score": 0.521
     },
     {
       "id": "https://bbc.com/sport/football/articles/c627lgxz077o?at_medium=RSS&at_campaign=rss",
@@ -2507,11 +2560,11 @@
       "en": "Relaxed Pereira makes the right noises ",
       "text_for_match": "Relaxed Pereira makes the right noises  \n\n",
       "score_detail": {
-        "fresh": 0.36870478282812036,
+        "fresh": 0.36521177578713093,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.521
+      "score": 0.519
     },
     {
       "id": "https://bbc.com/sport/football/articles/cjrq18vx2qro?at_medium=RSS&at_campaign=rss",
@@ -2525,11 +2578,11 @@
       "en": "Why Villa are this season's big overperformers",
       "text_for_match": "Why Villa are this season's big overperformers Are Aston Villa wobbling? Are Aston Villa wobbling? \n\n",
       "score_detail": {
-        "fresh": 0.36577920935474945,
+        "fresh": 0.3623139183869366,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.519
+      "score": 0.517
     },
     {
       "id": "https://bbc.com/sport/football/videos/c4gql37ll3vo?at_medium=RSS&at_campaign=rss",
@@ -2543,11 +2596,11 @@
       "en": "Newcastle sweep aside Qarabag in Champions League",
       "text_for_match": "Newcastle sweep aside Qarabag in Champions League Newcastle progress to the Round of 16 in the Champions League, after comfortably beating Qarabag 3-2 (9-3 aggregate) in the knockout phase play-offs. Newcastle progress to the Round of 16 in the Champions League, after comfortably beating Qarabag 3-2 (9-3 aggregate) in the knockout phase play-offs. \n\n\n",
       "score_detail": {
-        "fresh": 0.3355143123560369,
+        "fresh": 0.3323357426439139,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.501
+      "score": 0.499
     },
     {
       "id": "https://bbc.com/sport/football/articles/c7430w99gzvo?at_medium=RSS&at_campaign=rss",
@@ -2561,11 +2614,11 @@
       "en": "Braintree bring in Fulham midfielder on loan",
       "text_for_match": "Braintree bring in Fulham midfielder on loan Braintree Town sign midfielder Matt Dibley-Dias on loan from Premier League club Fulham and Farnborough forward Amir Hadi. Braintree Town sign midfielder Matt Dibley-Dias on loan from Premier League club Fulham and Farnborough forward Amir Hadi.",
       "score_detail": {
-        "fresh": 0.3246952999812339,
+        "fresh": 0.32161922659723513,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.495
+      "score": 0.493
     },
     {
       "id": "https://bbc.com/sport/football/articles/c24drq2j28yo?at_medium=RSS&at_campaign=rss",
@@ -2579,11 +2632,11 @@
       "en": "Anderson focused on Forest amid Man Utd and Man City links",
       "text_for_match": "Anderson focused on Forest amid Man Utd and Man City links \n\n",
       "score_detail": {
-        "fresh": 0.3181815958937127,
+        "fresh": 0.3151672315389978,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.491
+      "score": 0.489
     },
     {
       "id": "https://bbc.com/sport/articles/c5y4jplzw75o?at_medium=RSS&at_campaign=rss",
@@ -2597,11 +2650,11 @@
       "en": "🎧 Aston Villa Daily: Two up top",
       "text_for_match": "🎧 Aston Villa Daily: Two up top Today's news and views on the Villa in two minutes. Today's news and views on the Villa in two minutes.",
       "score_detail": {
-        "fresh": 0.3133868243552099,
+        "fresh": 0.3104178843386754,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.488
+      "score": 0.486
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckg3en0dnrgo?at_medium=RSS&at_campaign=rss",
@@ -2615,11 +2668,11 @@
       "en": "Chelsea and West Ham fined over 'mass confrontation'",
       "text_for_match": "Chelsea and West Ham fined over 'mass confrontation' Chelsea and West Ham are fined £325,000 and £300,000 respectively for a \"mass confrontation\" between players in their match in January. Chelsea and West Ham are fined £325,000 and £300,000 respectively for a \"mass confrontation\" between players in their match in January.",
       "score_detail": {
-        "fresh": 0.3065576189594428,
+        "fresh": 0.3036533769442437,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.484
+      "score": 0.482
     },
     {
       "id": "https://bbc.com/sport/football/articles/cre0v1x8nlvo?at_medium=RSS&at_campaign=rss",
@@ -2635,11 +2688,11 @@
       "en": "Why Champions League return is crucial to Man Utd",
       "text_for_match": "Why Champions League return is crucial to Man Utd Up to fourth in the Premier League after Monday's win at Everton, Champions League qualification would be a big boost to Manchester United's finances after two years outside Europe's elite club competition. Up to fourth in the Premier League after Monday's win at Everton, Champions League qualification would be a big boost to Manchester United's finances after two years outside Europe's elite club competition.",
       "score_detail": {
-        "fresh": 0.24952475529952084,
+        "fresh": 0.24716082684576737,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.483
+      "score": 0.482
     },
     {
       "id": "https://bbc.com/sport/football/articles/ckg3en711wzo?at_medium=RSS&at_campaign=rss",
@@ -2653,11 +2706,11 @@
       "en": "England to host Ukraine at Everton's Hill Dickinson",
       "text_for_match": "England to host Ukraine at Everton's Hill Dickinson The Lionesses will host Ukraine in their Women's World Cup qualifier at the Hill Dickinson Stadium in June. The Lionesses will host Ukraine in their Women's World Cup qualifier at the Hill Dickinson Stadium in June.",
       "score_detail": {
-        "fresh": 0.3015845624783853,
+        "fresh": 0.2987274338235563,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.481
+      "score": 0.479
     },
     {
       "id": "https://bbc.com/sport/football/articles/ce94rg39k0ro?at_medium=RSS&at_campaign=rss",
@@ -2671,11 +2724,11 @@
       "en": "Terry 'frustrated' over Chelsea caretaker choice",
       "text_for_match": "Terry 'frustrated' over Chelsea caretaker choice Former Chelsea captain John Terry says he is \"frustrated\" at being overlooked for a caretaker role following Enzo Maresca's departure as head coach in January. Former Chelsea captain John Terry says he is \"frustrated\" at being overlooked for a caretaker role following Enzo Maresca's departure as head coach in January.",
       "score_detail": {
-        "fresh": 0.29774610666491336,
+        "fresh": 0.29492534247783053,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.479
+      "score": 0.477
     },
     {
       "id": "https://bbc.com/sport/football/videos/c33j64d608no?at_medium=RSS&at_campaign=rss",
@@ -2691,11 +2744,11 @@
       "en": "Has Arteta solved the Gyokeres problem?",
       "text_for_match": "Has Arteta solved the Gyokeres problem? Umir Irfan analyses how Mikel Arteta got the best out of Viktor Gyokeres in the win over Tottenham and how Arsenal have not always played to the striker's strengths this season. Umir Irfan analyses how Mikel Arteta got the best out of Viktor Gyokeres in the win over Tottenham and how Arsenal have not always played to the striker's strengths this season.",
       "score_detail": {
-        "fresh": 0.22840072202735692,
+        "fresh": 0.22623691681688712,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.47
+      "score": 0.469
     },
     {
       "id": "https://bbc.com/news/articles/cvg53lv071eo?at_medium=RSS&at_campaign=rss",
@@ -2711,11 +2764,11 @@
       "en": "Why was Everton's stadium lit up in rainbow colours?",
       "text_for_match": "Why was Everton's stadium lit up in rainbow colours? Find out why the Hill Dickinson Stadium was lit up for the dazzling display before Monday night's match. Find out why the Hill Dickinson Stadium was lit up for the dazzling display before Monday night's match.",
       "score_detail": {
-        "fresh": 0.22831156491088403,
+        "fresh": 0.22614860435025358,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.47
+      "score": 0.469
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx2j9d6eqpyo?at_medium=RSS&at_campaign=rss",
@@ -2729,31 +2782,11 @@
       "en": "'Bring it on' - Newcastle's message to Chelsea and Barcelona",
       "text_for_match": "'Bring it on' - Newcastle's message to Chelsea and Barcelona Jacob Murphy says Newcastle will relish whoever they face in the Champions League last 16 after progressing via the play-offs. Jacob Murphy says Newcastle will relish whoever they face in the Champions League last 16 after progressing via the play-offs.",
       "score_detail": {
-        "fresh": 0.27180395330136475,
+        "fresh": 0.2692289578934722,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.463
-    },
-    {
-      "id": "https://bbc.com/sport/football/articles/c8xy5ppnn15o?at_medium=RSS&at_campaign=rss",
-      "ts": 1771860762000,
-      "url": "https://bbc.com/sport/football/articles/c8xy5ppnn15o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [
-        "好調"
-      ],
-      "players": [],
-      "ja": "How league-worst late-goal record continues to cost Leeds",
-      "en": "How league-worst late-goal record continues to cost Leeds",
-      "text_for_match": "How league-worst late-goal record continues to cost Leeds After conceding another late goal on Saturday, we look at the stats that show Leeds would be ninth in the Premier League if games ended after 85 minutes. After conceding another late goal on Saturday, we look at the stats that show Leeds would be ninth in the Premier League if games ended after 85 minutes.",
-      "score_detail": {
-        "fresh": 0.19845562298063177,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.452
+      "score": 0.462
     },
     {
       "id": "https://bbc.com/sport/football/articles/cx24x48232vo?at_medium=RSS&at_campaign=rss",
@@ -2767,11 +2800,11 @@
       "en": "'It would be catastrophic' - are Spurs too big to go down?",
       "text_for_match": "'It would be catastrophic' - are Spurs too big to go down? Tottenham's heavy north London derby defeat against Arsenal on Sunday just confirmed what everyone already knew - Igor Tudor's team are in serious trouble. BBC Sport assesses their precarious situation, what relegation might bring and asks if they are too big to go down? Tottenham's heavy north London derby defeat against Arsenal on Sunday just confirmed what everyone already knew - Igor Tudor's team are in serious trouble. BBC Sport assesses their precarious situation, what relegation might bring and asks if they are too big to go down?",
       "score_detail": {
-        "fresh": 0.25240991812453706,
+        "fresh": 0.2500186564369023,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.451
+      "score": 0.45
     },
     {
       "id": "https://bbc.com/sport/football/articles/clyxrxj5n8yo?at_medium=RSS&at_campaign=rss",
@@ -2785,11 +2818,11 @@
       "en": "PSG's Hakimi to face trial after rape allegation",
       "text_for_match": "PSG's Hakimi to face trial after rape allegation Paris St-Germain defender Achraf Hakimi says he is set to face trial after an allegation of rape was made against him. Paris St-Germain defender Achraf Hakimi says he is set to face trial after an allegation of rape was made against him.",
       "score_detail": {
-        "fresh": 0.25013338283347547,
+        "fresh": 0.2477636884109566,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.45
+      "score": 0.449
     },
     {
       "id": "https://bbc.com/sport/football/articles/c0rj7jd1jdro?at_medium=RSS&at_campaign=rss",
@@ -2803,11 +2836,11 @@
       "en": "New stadium curse - are Everton showing how clubs struggle after move?",
       "text_for_match": "New stadium curse - are Everton showing how clubs struggle after move? As Everton's home form continues to struggle, BBC Sport takes a closer look at the curse of the new stadium in the Premier League era. As Everton's home form continues to struggle, BBC Sport takes a closer look at the curse of the new stadium in the Premier League era.",
       "score_detail": {
-        "fresh": 0.24745880101093815,
+        "fresh": 0.2451144448361799,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.448
+      "score": 0.447
     },
     {
       "id": "https://bbc.com/sport/football/articles/c9wnyj7p05vo?at_medium=RSS&at_campaign=rss",
@@ -2821,11 +2854,11 @@
       "en": "Portugal want England U18 forward Mane",
       "text_for_match": "Portugal want England U18 forward Mane Wolves forward Mateus Mane is at the centre of a tug of war between England and Portugal. Wolves forward Mateus Mane is at the centre of a tug of war between England and Portugal.",
       "score_detail": {
-        "fresh": 0.24193425478945707,
+        "fresh": 0.23964223663619635,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.445
+      "score": 0.444
     },
     {
       "id": "https://bbc.com/sport/football/articles/cy038lz7088o?at_medium=RSS&at_campaign=rss",
@@ -2839,11 +2872,11 @@
       "en": "I want to show everyone what I can do for Liverpool - Ngumoha",
       "text_for_match": "I want to show everyone what I can do for Liverpool - Ngumoha Rio Ngumoha on life at Liverpool, his mindset when he comes off the bench and his discussions with manager Arne Slot. Rio Ngumoha on life at Liverpool, his mindset when he comes off the bench and his discussions with manager Arne Slot.",
       "score_detail": {
-        "fresh": 0.24170404111557617,
+        "fresh": 0.23941420394292998,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.445
+      "score": 0.444
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn483z97w3zo?at_medium=RSS&at_campaign=rss",
@@ -2857,11 +2890,11 @@
       "en": "Leicester set to name McCarron as sporting director",
       "text_for_match": "Leicester set to name McCarron as sporting director Leicester are poised to appoint James McCarron, director of player development at the City Group, as their new sporting director. Leicester are poised to appoint James McCarron, director of player development at the City Group, as their new sporting director.",
       "score_detail": {
-        "fresh": 0.2377824201682908,
+        "fresh": 0.23552973534684507,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.443
+      "score": 0.441
     },
     {
       "id": "https://bbc.com/sport/football/articles/cn0zrgkeg1lo?at_medium=RSS&at_campaign=rss",
@@ -2875,11 +2908,11 @@
       "en": "Sesko and Lammens allow Man Utd to dream of Champions League",
       "text_for_match": "Sesko and Lammens allow Man Utd to dream of Champions League Striker Benjamin Sesko and goalkeeper Senne Lammens are the key figures as Manchester United gain a hugely valuable Premier League win at Everton. Striker Benjamin Sesko and goalkeeper Senne Lammens are the key figures as Manchester United gain a hugely valuable Premier League win at Everton.",
       "score_detail": {
-        "fresh": 0.2160114978985252,
+        "fresh": 0.2139650647676429,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.43
+      "score": 0.428
     },
     {
       "id": "https://bbc.com/sport/football/articles/cgk2r1ydj68o?at_medium=RSS&at_campaign=rss",
@@ -2893,11 +2926,11 @@
       "en": "Barcelona sign Norwich prospect Tavares",
       "text_for_match": "Barcelona sign Norwich prospect Tavares Spanish giants Barcelona have signed 16-year-old Norwich City academy prospect Ajay Tavares, who has played for England age-group teams. Spanish giants Barcelona have signed 16-year-old Norwich City academy prospect Ajay Tavares, who has played for England age-group teams.",
       "score_detail": {
-        "fresh": 0.20424241323414094,
+        "fresh": 0.20230747715323827,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.423
+      "score": 0.421
     },
     {
       "id": "https://bbc.com/news/articles/cvg1vx9977wo?at_medium=RSS&at_campaign=rss",
@@ -2911,29 +2944,11 @@
       "en": "Fans urge bosses to tackle social media abuse",
       "text_for_match": "Fans urge bosses to tackle social media abuse Wolves fans say sports and social leaders need to do more to protect players from online racism. Wolves fans say sports and social leaders need to do more to protect players from online racism.",
       "score_detail": {
-        "fresh": 0.20287337755010518,
+        "fresh": 0.2009514113342718,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.422
-    },
-    {
-      "id": "https://bbc.com/news/articles/c93j9qzwdwqo?at_medium=RSS&at_campaign=rss",
-      "ts": 1771861927000,
-      "url": "https://bbc.com/news/articles/c93j9qzwdwqo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.com",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Man Utd's Leny Yoro handed driving ban for speeding",
-      "en": "Man Utd's Leny Yoro handed driving ban for speeding",
-      "text_for_match": "Man Utd's Leny Yoro handed driving ban for speeding The French footballer was clocked driving at 72mph in his Porsche in a 30mph zone. The French footballer was clocked driving at 72mph in his Porsche in a 30mph zone.",
-      "score_detail": {
-        "fresh": 0.19907485938176273,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
+      "score": 0.421
     }
   ]
 }
