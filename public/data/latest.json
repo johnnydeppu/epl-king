@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783282561778,
+  "generated_at": 1783287104574,
   "match": {
     "id": "EPL-UNKNOWN",
     "kickoff_jst": "",
@@ -15,6 +15,26 @@
   },
   "items": [
     {
+      "id": "https://bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+      "ts": 1783283491000,
+      "url": "https://bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [
+        "復帰"
+      ],
+      "players": [],
+      "ja": "Quansah set to start at right-back for England",
+      "en": "Quansah set to start at right-back for England",
+      "text_for_match": "Quansah set to start at right-back for England Jarell Quansah is set to start at right-back for England against Mexico in the World Cup last-16 tie at the Azteca stadium. Jarell Quansah is set to start at right-back for England against Mexico in the World Cup last-16 tie at the Azteca stadium.",
+      "score_detail": {
+        "fresh": 0.9903913247555945,
+        "trust": 1,
+        "relevance": 0.3333333333333333
+      },
+      "score": 0.928
+    },
+    {
       "id": "https://bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
       "ts": 1783280171000,
       "url": "https://bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
@@ -28,31 +48,29 @@
       "en": "Trump thanks Fifa after USA striker Balogun's ban suspended",
       "text_for_match": "Trump thanks Fifa after USA striker Balogun's ban suspended Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa. Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa. ",
       "score_detail": {
-        "fresh": 0.9936449511256314,
+        "fresh": 0.9816372770554207,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.93
+      "score": 0.922
     },
     {
-      "id": "https://bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
-      "ts": 1783279967000,
-      "url": "https://bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+      "id": "https://bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
+      "ts": 1783286890000,
+      "url": "https://bbc.co.uk/sport/football/articles/clyeegldnmpo?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.co.uk",
       "trust": "bbc",
-      "tags": [
-        "復帰"
-      ],
+      "tags": [],
       "players": [],
-      "ja": "Spence muscle problem adds to England right-back concerns",
-      "en": "Spence muscle problem adds to England right-back concerns",
-      "text_for_match": "Spence muscle problem adds to England right-back concerns Djed Spence complains of a muscular niggle before the last-16 World Cup tie against Mexico, adding to England's concerns at right-back. Djed Spence complains of a muscular niggle before the last-16 World Cup tie against Mexico, adding to England's concerns at right-back.",
+      "ja": "Shelter-in-place order at Azteca before Mexico-England because of weather",
+      "en": "Shelter-in-place order at Azteca before Mexico-England because of weather",
+      "text_for_match": "Shelter-in-place order at Azteca before Mexico-England because of weather The Azteca Stadium issues a shelter-in-place order because of severe weather before the last-16 World Cup tie between Mexico and England. The Azteca Stadium issues a shelter-in-place order because of severe weather before the last-16 World Cup tie between Mexico and England.",
       "score_detail": {
-        "fresh": 0.9931030333384568,
+        "fresh": 0.9994345577066379,
         "trust": 1,
-        "relevance": 0.3333333333333333
+        "relevance": 0
       },
-      "score": 0.929
+      "score": 0.9
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cp9llnxk45jo?at_medium=RSS&at_campaign=rss",
@@ -68,11 +86,29 @@
       "en": "Santos latest midfielder considered by Man Utd ",
       "text_for_match": "Santos latest midfielder considered by Man Utd  After missing out on Elliot Anderson and Mateus Fernandes, are Bournemouth's Alex Scott and Chelsea's Andrey Santos now heading Man Utd's list of midfield targets? After missing out on Elliot Anderson and Mateus Fernandes, are Bournemouth's Alex Scott and Chelsea's Andrey Santos now heading Man Utd's list of midfield targets?",
       "score_detail": {
-        "fresh": 0.9565589611818115,
+        "fresh": 0.9449994516992756,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.907
+      "score": 0.9
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cgjxx6ngdggo?at_medium=RSS&at_campaign=rss",
+      "ts": 1783286150000,
+      "url": "https://bbc.co.uk/sport/football/articles/cgjxx6ngdggo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Real Madrid plot £188m Olise deal - Monday's gossip",
+      "en": "Real Madrid plot £188m Olise deal - Monday's gossip",
+      "text_for_match": "Real Madrid plot £188m Olise deal - Monday's gossip Real Madrid are preparing a mammoth deal for Michael Olise, Tottenham exploring move for Rafael Leao, while Newcastle target Angelo Stiller, plus more. Real Madrid are preparing a mammoth deal for Michael Olise, Tottenham exploring move for Rafael Leao, while Newcastle target Angelo Stiller, plus more.",
+      "score_detail": {
+        "fresh": 0.9974587398527255,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.898
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&at_campaign=rss",
@@ -88,11 +124,11 @@
       "en": "Real Madrid sign defender Dumfries from Inter Milan",
       "text_for_match": "Real Madrid sign defender Dumfries from Inter Milan Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal. Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal.",
       "score_detail": {
-        "fresh": 0.927029147036303,
+        "fresh": 0.9158264897505317,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.89
+      "score": 0.883
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
@@ -106,32 +142,11 @@
       "en": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
       "text_for_match": "BBC offers 'Stay Up or Catch Up' for England v Mexico The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup. The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
       "score_detail": {
-        "fresh": 0.9788939071082934,
+        "fresh": 0.9670644916087671,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.887
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
-      "ts": 1783203191000,
-      "url": "https://bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "負傷",
-        "復帰"
-      ],
-      "players": [],
-      "ja": "James doubtful for Mexico tie but Quansah fit again",
-      "en": "James doubtful for Mexico tie but Quansah fit again",
-      "text_for_match": "James doubtful for Mexico tie but Quansah fit again Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again. Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again. ",
-      "score_detail": {
-        "fresh": 0.8087757270781302,
-        "trust": 1,
-        "relevance": 1
-      },
-      "score": 0.885
+      "score": 0.88
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cgqjkq3kwdgo?at_medium=RSS&at_campaign=rss",
@@ -145,11 +160,11 @@
       "en": "Newcastle sign Toure for £43m - what will he bring to club?",
       "text_for_match": "Newcastle sign Toure for £43m - what will he bring to club? Newcastle United reporter Ciaran Kelly looks at why the club have bought forward Bazoumana Toure from Hoffenheim for £43m. Newcastle United reporter Ciaran Kelly looks at why the club have bought forward Bazoumana Toure from Hoffenheim for £43m.",
       "score_detail": {
-        "fresh": 0.9650119438614074,
+        "fresh": 0.9533502845507839,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.879
+      "score": 0.872
     },
     {
       "id": "https://bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
@@ -163,11 +178,11 @@
       "en": "Thousands welcome home Cape Verde players after stunning World Cup run",
       "text_for_match": "Thousands welcome home Cape Verde players after stunning World Cup run Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia. Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
       "score_detail": {
-        "fresh": 0.9504470213437889,
+        "fresh": 0.9389613714238951,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.87
+      "score": 0.863
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
@@ -181,29 +196,11 @@
       "en": "Mexico fans fail in bid to wake up England players",
       "text_for_match": "Mexico fans fail in bid to wake up England players England players feel little to no impact of Mexico fans attempting to disturb their sleep by letting off fireworks outside their hotel. England players feel little to no impact of Mexico fans attempting to disturb their sleep by letting off fireworks outside their hotel.",
       "score_detail": {
-        "fresh": 0.9486568352785764,
+        "fresh": 0.9371928188111264,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.869
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
-      "ts": 1783260539000,
-      "url": "https://bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "England have struggled against low block - could they use it to beat Mexico?",
-      "en": "England have struggled against low block - could they use it to beat Mexico?",
-      "text_for_match": "England have struggled against low block - could they use it to beat Mexico? England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tactics to combat the hosts and the altitude to book a place in the quarter-finals. England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tactics to combat the hosts and the altitude to book a place in the quarter-finals.",
-      "score_detail": {
-        "fresh": 0.9428247948929774,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.866
+      "score": 0.862
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss",
@@ -219,11 +216,29 @@
       "en": "Mexico return luxury watches gifted by YouTuber",
       "text_for_match": "Mexico return luxury watches gifted by YouTuber World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts. World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts.",
       "score_detail": {
-        "fresh": 0.8882794525523259,
+        "fresh": 0.8775450648442913,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.866
+      "score": 0.86
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
+      "ts": 1783260539000,
+      "url": "https://bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "England have struggled against low block - could they use it to beat Mexico?",
+      "en": "England have struggled against low block - could they use it to beat Mexico?",
+      "text_for_match": "England have struggled against low block - could they use it to beat Mexico? England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tactics to combat the hosts and the altitude to book a place in the quarter-finals. England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tactics to combat the hosts and the altitude to book a place in the quarter-finals.",
+      "score_detail": {
+        "fresh": 0.9314312555512203,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.859
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
@@ -237,11 +252,11 @@
       "en": "England battling history as well as Mexican nation in Azteca cauldron",
       "text_for_match": "England battling history as well as Mexican nation in Azteca cauldron England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty. England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
       "score_detail": {
-        "fresh": 0.9197890173293798,
+        "fresh": 0.908673853184542,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.852
+      "score": 0.845
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c77yd4yxzlno?at_medium=RSS&at_campaign=rss",
@@ -255,11 +270,11 @@
       "en": "Brentford set to sign Burnley forward Anthony",
       "text_for_match": "Brentford set to sign Burnley forward Anthony Brentford are nearing a move for Burnley forward Jaidon Anthony for a £15m fee rising to £17m with add-ons. Brentford are nearing a move for Burnley forward Jaidon Anthony for a £15m fee rising to £17m with add-ons.",
       "score_detail": {
-        "fresh": 0.9194299740837165,
+        "fresh": 0.90831914878674,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.852
+      "score": 0.845
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
@@ -273,11 +288,11 @@
       "en": "Stay humble - the Premier League feud about to hit world stage",
       "text_for_match": "Stay humble - the Premier League feud about to hit world stage The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup. The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup.",
       "score_detail": {
-        "fresh": 0.900835942782779,
+        "fresh": 0.8899498165267024,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.841
+      "score": 0.834
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
@@ -291,11 +306,11 @@
       "en": "England enter the Azteca - where football kings are crowned",
       "text_for_match": "England enter the Azteca - where football kings are crowned BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup. BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
       "score_detail": {
-        "fresh": 0.8924342438229796,
+        "fresh": 0.8816496476583416,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.835
+      "score": 0.829
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c1ly222d9djo?at_medium=RSS&at_campaign=rss",
@@ -309,11 +324,11 @@
       "en": "'Sassuolo and Bologna in Bowie transfer talks' - gossip",
       "text_for_match": "'Sassuolo and Bologna in Bowie transfer talks' - gossip Sassuolo and Bologna are reportedly in talks with Hellas Verona about Kieron Bowie, while Celtic are linked with Norwegian striker Tobias Lauritsen and three clubs are said to be chasing former Rangers loanee Mikey Moore. Sassuolo and Bologna are reportedly in talks with Hellas Verona about Kieron Bowie, while Celtic are linked with Norwegian striker Tobias Lauritsen and three clubs are said to be chasing former Rangers loanee Mikey Moore. ",
       "score_detail": {
-        "fresh": 0.8890898395971734,
+        "fresh": 0.8783456587900099,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.833
+      "score": 0.827
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cvgez04d1yzo?at_medium=RSS&at_campaign=rss",
@@ -327,11 +342,11 @@
       "en": "'Dear H' - A letter to Harry Kane from his best friend",
       "text_for_match": "'Dear H' - A letter to Harry Kane from his best friend For England captain Harry Kane, a message from his close friend and former Tottenham team-mate Ryan Mason, before the World Cup last-16 meeting with Mexico. For England captain Harry Kane, a message from his close friend and former Tottenham team-mate Ryan Mason, before the World Cup last-16 meeting with Mexico.",
       "score_detail": {
-        "fresh": 0.8847021691094776,
+        "fresh": 0.8740110109811735,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.831
+      "score": 0.824
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&at_campaign=rss",
@@ -347,11 +362,11 @@
       "en": "Mexico could bring the best out of  Tuchel's England",
       "text_for_match": "Mexico could bring the best out of  Tuchel's England BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side. BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
       "score_detail": {
-        "fresh": 0.8247789122748481,
+        "fresh": 0.8148118950345751,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.828
+      "score": 0.822
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
@@ -367,11 +382,11 @@
       "en": "Mbappe coolly fires France into lead from penalty spot",
       "text_for_match": "Mbappe coolly fires France into lead from penalty spot France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup. France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
       "score_detail": {
-        "fresh": 0.8157351453822027,
+        "fresh": 0.8058774172849892,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.823
+      "score": 0.817
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx21k039r7qo?at_medium=RSS&at_campaign=rss",
@@ -385,11 +400,11 @@
       "en": "Who am I? Guess World Cup star No 28",
       "text_for_match": "Who am I? Guess World Cup star No 28 Will you get today's player in as few attempts as possible? Will you get today's player in as few attempts as possible?",
       "score_detail": {
-        "fresh": 0.869766303583926,
+        "fresh": 0.8592556374965508,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.822
+      "score": 0.816
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
@@ -405,11 +420,11 @@
       "en": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
       "text_for_match": "Unbeaten in 34 matches - why Morocco are World Cup contenders As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale. As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
       "score_detail": {
-        "fresh": 0.8019571726134532,
+        "fresh": 0.7922659440351754,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.815
+      "score": 0.809
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cly7pvqde72o?at_medium=RSS&at_campaign=rss",
@@ -425,11 +440,11 @@
       "en": "Everton agree £24m deal for Chelsea winger George",
       "text_for_match": "Everton agree £24m deal for Chelsea winger George Everton agree a deal worth up to £24m including add-ons to sign Chelsea winger Tyrique George, subject to personal terms and a medical. Everton agree a deal worth up to £24m including add-ons to sign Chelsea winger Tyrique George, subject to personal terms and a medical.",
       "score_detail": {
-        "fresh": 0.7992552782247928,
+        "fresh": 0.7895967006121888,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.813
+      "score": 0.807
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cpq3pgdp500o?at_medium=RSS&at_campaign=rss",
@@ -443,11 +458,11 @@
       "en": "The Norway story - 28-year wait for their biggest-ever party",
       "text_for_match": "The Norway story - 28-year wait for their biggest-ever party Norway have waited 28 years for an appearance at the World Cup - now they face Brazil hoping to make history by reaching the quarter-finals for the first time. Norway have waited 28 years for an appearance at the World Cup - now they face Brazil hoping to make history by reaching the quarter-finals for the first time.",
       "score_detail": {
-        "fresh": 0.8522928726802302,
+        "fresh": 0.8419933637702173,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.811
+      "score": 0.805
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss",
@@ -463,11 +478,11 @@
       "en": "Morocco reach quarter-finals as co-hosts Canada knocked out",
       "text_for_match": "Morocco reach quarter-finals as co-hosts Canada knocked out Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston. Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston.",
       "score_detail": {
-        "fresh": 0.7904004868894905,
+        "fresh": 0.7808489147502133,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.808
+      "score": 0.802
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
@@ -483,11 +498,11 @@
       "en": "Ounahi gives Morocco the lead against Canada",
       "text_for_match": "Ounahi gives Morocco the lead against Canada Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup. Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
       "score_detail": {
-        "fresh": 0.7847120263997917,
+        "fresh": 0.7752291962990507,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.804
+      "score": 0.798
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
@@ -501,11 +516,11 @@
       "en": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
       "text_for_match": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching. After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
       "score_detail": {
-        "fresh": 0.8378122888530404,
+        "fresh": 0.8276877701452584,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.803
+      "score": 0.797
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss",
@@ -519,11 +534,11 @@
       "en": "France overcome resolute Paraguay to reach quarter-final",
       "text_for_match": "France overcome resolute Paraguay to reach quarter-final World Cup favourites France book their quarter-final place thanks to Kylian Mbappe's second-half penalty against a stubborn Paraguay side in Philadelphia. World Cup favourites France book their quarter-final place thanks to Kylian Mbappe's second-half penalty against a stubborn Paraguay side in Philadelphia.",
       "score_detail": {
-        "fresh": 0.8263552196341839,
+        "fresh": 0.8163691535525879,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.796
+      "score": 0.79
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
@@ -537,11 +552,11 @@
       "en": "'Disgusting' Paraguay went 'way too far' against France",
       "text_for_match": "'Disgusting' Paraguay went 'way too far' against France BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup. BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup.",
       "score_detail": {
-        "fresh": 0.8214507683791392,
+        "fresh": 0.8115239699988455,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.793
+      "score": 0.787
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
@@ -555,25 +570,7 @@
       "en": "Who has your Premiership club brought in & let go? - Summer 2026",
       "text_for_match": "Who has your Premiership club brought in & let go? - Summer 2026 Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window. Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.",
       "score_detail": {
-        "fresh": 0.8169052258099709,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.79
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
-      "ts": 1783201942000,
-      "url": "https://bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Premier League quartet want Scott - Sunday's gossip",
-      "en": "Premier League quartet want Scott - Sunday's gossip",
-      "text_for_match": "Premier League quartet want Scott - Sunday's gossip Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, Manchester United's Kobbie Mainoo on Real Madrid's radar, plus more. Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, Manchester United's Kobbie Mainoo on Real Madrid's radar, plus more.",
-      "score_detail": {
-        "fresh": 0.8060788824256162,
+        "fresh": 0.807033357909202,
         "trust": 1,
         "relevance": 0
       },
@@ -593,11 +590,11 @@
       "en": "Arias strike sends Colombia into last 16 with victory over Ghana",
       "text_for_match": "Arias strike sends Colombia into last 16 with victory over Ghana Jhon Arias scores the only goal of the game as Colombia become the last team to book their place in the last 16 following a 1-0 win over Ghana in Kansas City. Jhon Arias scores the only goal of the game as Colombia become the last team to book their place in the last 16 following a 1-0 win over Ghana in Kansas City. ",
       "score_detail": {
-        "fresh": 0.6800038622674762,
+        "fresh": 0.6717863749896085,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.775
+      "score": 0.77
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
@@ -611,11 +608,11 @@
       "en": "Why England won't fear Mexico or the Azteca - Shearer",
       "text_for_match": "Why England won't fear Mexico or the Azteca - Shearer Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium. Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
       "score_detail": {
-        "fresh": 0.7829973618942665,
+        "fresh": 0.7735352526078354,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.77
+      "score": 0.764
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
@@ -631,11 +628,11 @@
       "en": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
       "text_for_match": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico. BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
       "score_detail": {
-        "fresh": 0.7159774165517285,
+        "fresh": 0.707325207883184,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.763
+      "score": 0.758
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss",
@@ -651,31 +648,11 @@
       "en": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time",
       "text_for_match": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time Sidny Cabral scores an incredible goal in extra time for Cape Verde as they equalise for a second time against Argentina. Sidny Cabral scores an incredible goal in extra time for Cape Verde as they equalise for a second time against Argentina.  ",
       "score_detail": {
-        "fresh": 0.6591772250101511,
+        "fresh": 0.6512114166361826,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.762
-    },
-    {
-      "id": "https://bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
-      "ts": 1783156158000,
-      "url": "https://bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [],
-      "ja": "Eight of the 10 most populous countries are not in the World Cup",
-      "en": "Eight of the 10 most populous countries are not in the World Cup",
-      "text_for_match": "Eight of the 10 most populous countries are not in the World Cup Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes? Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes?",
-      "score_detail": {
-        "fresh": 0.7131893821541175,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.761
+      "score": 0.757
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c5yz02je4n9o?at_medium=RSS&at_campaign=rss",
@@ -691,11 +668,31 @@
       "en": "'Sensational' Messi finish gives Argentina the lead",
       "text_for_match": "'Sensational' Messi finish gives Argentina the lead Lionel Messi hits Argentina's opening goal against Cape Verde with a \"sensational\" finish in Miami, as he scores in an eighth consecutive World Cup game. Lionel Messi hits Argentina's opening goal against Cape Verde with a \"sensational\" finish in Miami, as he scores in an eighth consecutive World Cup game.",
       "score_detail": {
-        "fresh": 0.6576858587422137,
+        "fresh": 0.6497380727413722,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.761
+      "score": 0.757
+    },
+    {
+      "id": "https://bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
+      "ts": 1783156158000,
+      "url": "https://bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [
+        "負傷"
+      ],
+      "players": [],
+      "ja": "Eight of the 10 most populous countries are not in the World Cup",
+      "en": "Eight of the 10 most populous countries are not in the World Cup",
+      "text_for_match": "Eight of the 10 most populous countries are not in the World Cup Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes? Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes?",
+      "score_detail": {
+        "fresh": 0.7045708654077281,
+        "trust": 1,
+        "relevance": 0.3333333333333333
+      },
+      "score": 0.756
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwwwr8?at_medium=RSS&at_campaign=rss",
@@ -709,11 +706,11 @@
       "en": "Listen: Sportsound with Lennon, Levein & Neilson",
       "text_for_match": "Listen: Sportsound with Lennon, Levein & Neilson All the news from the World Cup plus Neil Lennon, Robbie Neilson, Craig McLeish and more All the news from the World Cup plus Neil Lennon, Robbie Neilson, Craig McLeish and more",
       "score_detail": {
-        "fresh": 0.7667973811165486,
+        "fresh": 0.7575310400357548,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.76
+      "score": 0.755
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss",
@@ -727,11 +724,11 @@
       "en": "Fenerbahce complete deal to sign Ake from Man City",
       "text_for_match": "Fenerbahce complete deal to sign Ake from Man City Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m. Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m.",
       "score_detail": {
-        "fresh": 0.7549555508045223,
+        "fresh": 0.7458323119843704,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.753
+      "score": 0.747
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn75pk43pn7o?at_medium=RSS&at_campaign=rss",
@@ -745,11 +742,11 @@
       "en": "West Ham appoint new director of player recruitment",
       "text_for_match": "West Ham appoint new director of player recruitment West Ham United have confirmed Nils Koppen as their new director of player recruitment. West Ham United have confirmed Nils Koppen as their new director of player recruitment.",
       "score_detail": {
-        "fresh": 0.7517000699555871,
+        "fresh": 0.7426161719008985,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.751
+      "score": 0.746
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c802jp3lz13o?at_medium=RSS&at_campaign=rss",
@@ -763,11 +760,11 @@
       "en": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
       "text_for_match": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub Bouaddi in their ranks. After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub Bouaddi in their ranks.",
       "score_detail": {
-        "fresh": 0.7499251691350707,
+        "fresh": 0.7408627198187221,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.75
+      "score": 0.745
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c1dy2zg5l0zo?at_medium=RSS&at_campaign=rss",
@@ -781,11 +778,11 @@
       "en": "Gabriel v Haaland, the best battle at the World Cup?",
       "text_for_match": "Gabriel v Haaland, the best battle at the World Cup? Gabriel and Erling Haaland's rivalry will be centre-stage as Brazil play Norway in the last-16. Gabriel and Erling Haaland's rivalry will be centre-stage as Brazil play Norway in the last-16.",
       "score_detail": {
-        "fresh": 0.7443189810843336,
+        "fresh": 0.7353242795875793,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.747
+      "score": 0.741
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c77y5zvjd8zo?at_medium=RSS&at_campaign=rss",
@@ -799,11 +796,11 @@
       "en": "Oxlade-Chamberlain signs new one-year Celtic deal",
       "text_for_match": "Oxlade-Chamberlain signs new one-year Celtic deal England-capped midfielder Alex Oxlade-Chamberlain signs a new one-year contract with Celtic. England-capped midfielder Alex Oxlade-Chamberlain signs a new one-year contract with Celtic.",
       "score_detail": {
-        "fresh": 0.7323227775772294,
+        "fresh": 0.7234730438595899,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.739
+      "score": 0.734
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ce8j485z1ppo?at_medium=RSS&at_campaign=rss",
@@ -817,11 +814,11 @@
       "en": "World Cup quiz: How well do you remember the last 32?",
       "text_for_match": "World Cup quiz: How well do you remember the last 32? The World Cup's last-32 ties were decided in a busy six-day spell. But how closely were you paying attention? The World Cup's last-32 ties were decided in a busy six-day spell. But how closely were you paying attention?",
       "score_detail": {
-        "fresh": 0.7312249600993717,
+        "fresh": 0.7223884929257303,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.739
+      "score": 0.733
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
@@ -835,11 +832,11 @@
       "en": "Lightning, hotel security and spying - issues England face in Mexico",
       "text_for_match": "Lightning, hotel security and spying - issues England face in Mexico England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico - and it's not the only issue they face. England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico - and it's not the only issue they face.",
       "score_detail": {
-        "fresh": 0.7287594225783736,
+        "fresh": 0.7199527501225803,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.737
+      "score": 0.732
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvg7zj78eklo?at_medium=RSS&at_campaign=rss",
@@ -853,11 +850,11 @@
       "en": "Williamson eyes Scotland job with McCoist on staff",
       "text_for_match": "Williamson eyes Scotland job with McCoist on staff Former Hibernian and Kilmarnock manager Bobby Williamson puts himself forward for the job as Scotland head coach leading a dream team of Ally McCoist, Scott Brown and Kevin Thomson. Former Hibernian and Kilmarnock manager Bobby Williamson puts himself forward for the job as Scotland head coach leading a dream team of Ally McCoist, Scott Brown and Kevin Thomson.",
       "score_detail": {
-        "fresh": 0.728535341229774,
+        "fresh": 0.7197313766786465,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.737
+      "score": 0.732
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwvvhg?at_medium=RSS&at_campaign=rss",
@@ -871,11 +868,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Douglas Jakobson was Toure's assistant manager at Swedish side Hammarby. Douglas Jakobson was Toure's assistant manager at Swedish side Hammarby.",
       "score_detail": {
-        "fresh": 0.7265527933584255,
+        "fresh": 0.717772786850501,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.736
+      "score": 0.731
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss",
@@ -889,11 +886,11 @@
       "en": "In spotlight but shunning limelight - Olise's unique rise to top",
       "text_for_match": "In spotlight but shunning limelight - Olise's unique rise to top A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics. A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
       "score_detail": {
-        "fresh": 0.7262070337289288,
+        "fresh": 0.7174312055433851,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.736
+      "score": 0.73
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwm92p?at_medium=RSS&at_campaign=rss",
@@ -907,11 +904,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City City defender Marc Guehi on Wonderwall, Mexico and playing at altitude. City defender Marc Guehi on Wonderwall, Mexico and playing at altitude.",
       "score_detail": {
-        "fresh": 0.6951913948888089,
+        "fresh": 0.6867903743061716,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.717
+      "score": 0.712
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
@@ -925,11 +922,11 @@
       "en": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
       "text_for_match": "Murals, flags and beef dishes - Messi mania takes hold in Miami Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero. Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
       "score_detail": {
-        "fresh": 0.6893193768405066,
+        "fresh": 0.6809893164924867,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.714
+      "score": 0.709
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
@@ -943,11 +940,11 @@
       "en": "England into last 16 - what is their path to the final?",
       "text_for_match": "England into last 16 - what is their path to the final? BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16 BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
       "score_detail": {
-        "fresh": 0.6757637775126357,
+        "fresh": 0.6675975294180482,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.705
+      "score": 0.701
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
@@ -961,11 +958,11 @@
       "en": "Farewell Cape Verde - the underdogs the World Cup will never forget",
       "text_for_match": "Farewell Cape Verde - the underdogs the World Cup will never forget Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic. Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic.",
       "score_detail": {
-        "fresh": 0.6731953416749203,
+        "fresh": 0.6650601317699543,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.704
+      "score": 0.699
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cj6gp70g967o?at_medium=RSS&at_campaign=rss",
@@ -979,11 +976,11 @@
       "en": "Argentina overcome Cape Verde in extra-time thriller",
       "text_for_match": "Argentina overcome Cape Verde in extra-time thriller Argentina overcome a huge scare as they beat Cape Verde 3-2 in extra time thanks to a deflected header from Cristian Romero to advance to the last 16. Argentina overcome a huge scare as they beat Cape Verde 3-2 in extra time thanks to a deflected header from Cristian Romero to advance to the last 16. ",
       "score_detail": {
-        "fresh": 0.6652584149155442,
+        "fresh": 0.6572191185756174,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.699
+      "score": 0.694
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
@@ -997,11 +994,11 @@
       "en": "Five and a half hours that left England's World Cup tie in chaos",
       "text_for_match": "Five and a half hours that left England's World Cup tie in chaos For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating in a Fifa U-turn - unfolded. For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating in a Fifa U-turn - unfolded.",
       "score_detail": {
-        "fresh": 0.6632351939070973,
+        "fresh": 0.655220347123739,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.698
+      "score": 0.693
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cly8p49l2vwo?at_medium=RSS&at_campaign=rss",
@@ -1015,11 +1012,11 @@
       "en": "Argentina stunned as Duarte equalises for Cape Verde",
       "text_for_match": "Argentina stunned as Duarte equalises for Cape Verde Deroy Duarte stuns Argentina as he equalises for Cape Verde during their World Cup round of 32 match in Miami. Deroy Duarte stuns Argentina as he equalises for Cape Verde during their World Cup round of 32 match in Miami. ",
       "score_detail": {
-        "fresh": 0.6577544543363337,
+        "fresh": 0.6498058393939915,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.695
+      "score": 0.69
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2wv22v93zo?at_medium=RSS&at_campaign=rss",
@@ -1035,11 +1032,11 @@
       "en": "How to turn BBC Sport alerts on or off for England v Mexico",
       "text_for_match": "How to turn BBC Sport alerts on or off for England v Mexico Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico. Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico.",
       "score_detail": {
-        "fresh": 0.602244803158568,
+        "fresh": 0.5949669930125856,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.695
+      "score": 0.69
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/czde25nmq6no?at_medium=RSS&at_campaign=rss",
@@ -1053,11 +1050,11 @@
       "en": "Egypt into last 16 after shootout victory against Australia",
       "text_for_match": "Egypt into last 16 after shootout victory against Australia Egypt defeated Australia on penalties to claim their first ever win in the World Cup knockout stage and set up a last-16 tie with either Argentina or Cape Verde. Egypt defeated Australia on penalties to claim their first ever win in the World Cup knockout stage and set up a last-16 tie with either Argentina or Cape Verde.",
       "score_detail": {
-        "fresh": 0.639034588481755,
+        "fresh": 0.631312193224387,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.683
+      "score": 0.679
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
@@ -1071,11 +1068,11 @@
       "en": "'I decided last minute!' - Salah on Panenka penalty",
       "text_for_match": "'I decided last minute!' - Salah on Panenka penalty Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup. Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
       "score_detail": {
-        "fresh": 0.6376246008128894,
+        "fresh": 0.6299192445112889,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.683
+      "score": 0.678
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yz8gj95r4o?at_medium=RSS&at_campaign=rss",
@@ -1089,11 +1086,11 @@
       "en": "Southend sign West Ham defender Oyebade on loan",
       "text_for_match": "Southend sign West Ham defender Oyebade on loan Southend United sign teenage defender Rayan Oyebade on a season-long loan from Championship side West Ham. Southend United sign teenage defender Rayan Oyebade on a season-long loan from Championship side West Ham.",
       "score_detail": {
-        "fresh": 0.6339216386561993,
+        "fresh": 0.6262610306951619,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.68
+      "score": 0.676
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c0ry2g0d579o?at_medium=RSS&at_campaign=rss",
@@ -1107,11 +1104,11 @@
       "en": "Chelsea sign Japan midfielder Matsukubo",
       "text_for_match": "Chelsea sign Japan midfielder Matsukubo Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage. Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage. ",
       "score_detail": {
-        "fresh": 0.6281739352029645,
+        "fresh": 0.6205827852003664,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.677
+      "score": 0.672
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yz8jj0g50o?at_medium=RSS&at_campaign=rss",
@@ -1125,11 +1122,11 @@
       "en": "Xhaka set to stay at Sunderland despite Chelsea interest",
       "text_for_match": "Xhaka set to stay at Sunderland despite Chelsea interest Sunderland captain Granit Xhaka is set to stay at the club this summer, despite interest from Chelsea. Sunderland captain Granit Xhaka is set to stay at the club this summer, despite interest from Chelsea.",
       "score_detail": {
-        "fresh": 0.617483001633885,
+        "fresh": 0.6100210459130656,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.67
+      "score": 0.666
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwrltc?at_medium=RSS&at_campaign=rss",
@@ -1143,11 +1140,11 @@
       "en": "Everton FC",
       "text_for_match": "Everton FC Mark Staniford on Everton new signing Hayden Hackney Mark Staniford on Everton new signing Hayden Hackney",
       "score_detail": {
-        "fresh": 0.616667817741147,
+        "fresh": 0.609215713086828,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.67
+      "score": 0.666
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwrgfy?at_medium=RSS&at_campaign=rss",
@@ -1161,11 +1158,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Iain Christie on Harvey Elliott's future Iain Christie on Harvey Elliott's future",
       "score_detail": {
-        "fresh": 0.6151854302523494,
+        "fresh": 0.6077512394673568,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.669
+      "score": 0.665
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss",
@@ -1179,11 +1176,11 @@
       "en": "Ex-Spurs boss Postecoglou takes over at Al-Nassr",
       "text_for_match": "Ex-Spurs boss Postecoglou takes over at Al-Nassr Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo. Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo.",
       "score_detail": {
-        "fresh": 0.6141465950959203,
+        "fresh": 0.6067249580847449,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.668
+      "score": 0.664
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c77ym71vn50o?at_medium=RSS&at_campaign=rss",
@@ -1197,11 +1194,11 @@
       "en": "Denmark defender Thomsen signs two-year London City deal",
       "text_for_match": "Denmark defender Thomsen signs two-year London City deal London City Lionesses sign Denmark international defender Janni Thomsen from Utah Royals FC. London City Lionesses sign Denmark international defender Janni Thomsen from Utah Royals FC.",
       "score_detail": {
-        "fresh": 0.5950361646717165,
+        "fresh": 0.5878454671119169,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.657
+      "score": 0.653
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm2j8lzg2wjo?at_medium=RSS&at_campaign=rss",
@@ -1215,11 +1212,11 @@
       "en": "Slot, Nuno and Kelleher pay heartfelt tributes to 'wonderful' Jota",
       "text_for_match": "Slot, Nuno and Kelleher pay heartfelt tributes to 'wonderful' Jota On the first anniversary of Diogo Jota's death, Caoimhin Kelleher, Arne Slot, Nuno Espirito Santo, Conor Coady and Paulo Goncalves share their memories of the former Liverpool and Wolves forward. On the first anniversary of Diogo Jota's death, Caoimhin Kelleher, Arne Slot, Nuno Espirito Santo, Conor Coady and Paulo Goncalves share their memories of the former Liverpool and Wolves forward.",
       "score_detail": {
-        "fresh": 0.589171330983809,
+        "fresh": 0.5820515068394287,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.654
+      "score": 0.649
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c04yxwl4qdro?at_medium=RSS&at_campaign=rss",
@@ -1233,11 +1230,11 @@
       "en": "WSL newcomers Crystal Palace agree deal for Enge",
       "text_for_match": "WSL newcomers Crystal Palace agree deal for Enge Women's Super League newcomers Crystal Palace are set to sign midfielder Sierra Enge from French side Strasbourg. Women's Super League newcomers Crystal Palace are set to sign midfielder Sierra Enge from French side Strasbourg.",
       "score_detail": {
-        "fresh": 0.5836123986518199,
+        "fresh": 0.5765597512666484,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.65
+      "score": 0.646
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwng9n?at_medium=RSS&at_campaign=rss",
@@ -1251,11 +1248,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Hear from the sculptor of the new Diogo Jota and Andre Silva memorial at Anfield. Hear from the sculptor of the new Diogo Jota and Andre Silva memorial at Anfield.",
       "score_detail": {
-        "fresh": 0.5803782915311055,
+        "fresh": 0.5733647266211881,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.648
+      "score": 0.644
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss",
@@ -1269,11 +1266,11 @@
       "en": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
       "text_for_match": "After World Cup goals are last year's signings finally set to deliver for Newcastle? Anthony Elanga and Yoane Wissa both struggled in their first season at Newcastle, but five goals between at the World Cup them suggest things will be different next term. Anthony Elanga and Yoane Wissa both struggled in their first season at Newcastle, but five goals between at the World Cup them suggest things will be different next term.",
       "score_detail": {
-        "fresh": 0.572845904860201,
+        "fresh": 0.5659233648621624,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.644
+      "score": 0.64
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss",
@@ -1287,11 +1284,11 @@
       "en": "Aston Villa sign Norway midfielder Kielland",
       "text_for_match": "Aston Villa sign Norway midfielder Kielland Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval.\nKielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and scoring four goals. Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval.\nKielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and scoring four goals.\n",
       "score_detail": {
-        "fresh": 0.5709479773520895,
+        "fresh": 0.5640483728048882,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.643
+      "score": 0.638
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c3vy64ee5y4o?at_medium=RSS&at_campaign=rss",
@@ -1305,11 +1302,11 @@
       "en": "Real Madrid have 'no intention' of signing Fernandez",
       "text_for_match": "Real Madrid have 'no intention' of signing Fernandez Real Madrid say they have \"no intention\" of trying to sign Enzo Fernandez from Chelsea this summer. Real Madrid say they have \"no intention\" of trying to sign Enzo Fernandez from Chelsea this summer.",
       "score_detail": {
-        "fresh": 0.5681668052375164,
+        "fresh": 0.5613008096854065,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.641
+      "score": 0.637
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c862ex5xv87o?at_medium=RSS&at_campaign=rss",
@@ -1323,11 +1320,11 @@
       "en": "Gossip: West Ham improve Fatawu offer",
       "text_for_match": "Gossip: West Ham improve Fatawu offer Latest transfer gossip from West Ham. Latest transfer gossip from West Ham.",
       "score_detail": {
-        "fresh": 0.5667676627177088,
+        "fresh": 0.5599185750634719,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.64
+      "score": 0.636
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpd35zz0v94o?at_medium=RSS&at_campaign=rss",
@@ -1344,11 +1341,11 @@
       "en": "EFL stars bow out of World Cup",
       "text_for_match": "EFL stars bow out of World Cup Four English Football League stars will return home after DR Congo and Senegal suffer defeats in the last 32 of the World Cup on Wednesday. Four English Football League stars will return home after DR Congo and Senegal suffer defeats in the last 32 of the World Cup on Wednesday.",
       "score_detail": {
-        "fresh": 0.4538626924590342,
+        "fresh": 0.44837800169750747,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.639
+      "score": 0.636
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckg40qlnneko?at_medium=RSS&at_campaign=rss",
@@ -1362,11 +1359,11 @@
       "en": "Bournemouth agree £25.7m deal for Elche striker Rodriguez",
       "text_for_match": "Bournemouth agree £25.7m deal for Elche striker Rodriguez Bournemouth enter talks for Elche striker Alvaro Rodriguez for an initial fee of £21.4m, rising to £25.7m with add-ons. Bournemouth enter talks for Elche striker Alvaro Rodriguez for an initial fee of £21.4m, rising to £25.7m with add-ons.",
       "score_detail": {
-        "fresh": 0.5616348451959731,
+        "fresh": 0.5548477849286746,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.637
+      "score": 0.633
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy9r153pe31o?at_medium=RSS&at_campaign=rss",
@@ -1380,11 +1377,11 @@
       "en": "Arsenal sign Lioness Stanway from Bayern",
       "text_for_match": "Arsenal sign Lioness Stanway from Bayern England midfielder Georgia Stanway says she is joining Arsenal to \"win trophies and grow as a player\". England midfielder Georgia Stanway says she is joining Arsenal to \"win trophies and grow as a player\".",
       "score_detail": {
-        "fresh": 0.5598144804021282,
+        "fresh": 0.5530494182812588,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.636
+      "score": 0.632
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwltdq?at_medium=RSS&at_campaign=rss",
@@ -1398,11 +1395,11 @@
       "en": "Sunderland AFC",
       "text_for_match": "Sunderland AFC Marco Gabbiadini discusses Dan Neil joining Rangers after leaving Sunderland. Marco Gabbiadini discusses Dan Neil joining Rangers after leaving Sunderland.",
       "score_detail": {
-        "fresh": 0.5541693387603481,
+        "fresh": 0.5474724951926327,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.633
+      "score": 0.628
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwlrq6?at_medium=RSS&at_campaign=rss",
@@ -1416,11 +1413,11 @@
       "en": "Sunderland AFC",
       "text_for_match": "Sunderland AFC Marco Gabbiadini discusses Eliezer Mayenda's seemingly impending exit from the club. Marco Gabbiadini discusses Eliezer Mayenda's seemingly impending exit from the club.",
       "score_detail": {
-        "fresh": 0.5511543961177714,
+        "fresh": 0.5444939865384253,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.631
+      "score": 0.627
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwlqf6?at_medium=RSS&at_campaign=rss",
@@ -1434,11 +1431,11 @@
       "en": "Sunderland AFC",
       "text_for_match": "Sunderland AFC Marco Gabbiadini discusses Chelsea's rejected £8m bid for Swiss midfielder Granit Xhaka. Marco Gabbiadini discusses Chelsea's rejected £8m bid for Swiss midfielder Granit Xhaka.",
       "score_detail": {
-        "fresh": 0.5494767252164897,
+        "fresh": 0.542836589403298,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.63
+      "score": 0.626
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwln5n?at_medium=RSS&at_campaign=rss",
@@ -1452,11 +1449,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Marco Gabbiadini reflects on Newcastle agreeing a deal to sell Sandro Tonali to Spurs. Marco Gabbiadini reflects on Newcastle agreeing a deal to sell Sandro Tonali to Spurs.",
       "score_detail": {
-        "fresh": 0.5470136716787921,
+        "fresh": 0.5404033005658233,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.628
+      "score": 0.624
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
@@ -1472,31 +1469,29 @@
       "en": "Why Spurs' statement spending appears set to continue",
       "text_for_match": "Why Spurs' statement spending appears set to continue Tottenham are set to break their record transfer for the second time in a matter of days with the club's impressive performance off the field allowing greater flexibility for investment into the first-team squad. Tottenham are set to break their record transfer for the second time in a matter of days with the club's impressive performance off the field allowing greater flexibility for investment into the first-team squad.",
       "score_detail": {
-        "fresh": 0.47918074815663747,
+        "fresh": 0.47339010207317833,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.621
+      "score": 0.617
     },
     {
-      "id": "https://bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
-      "ts": 1782997215000,
-      "url": "https://bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&at_campaign=rss",
+      "id": "https://bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
+      "ts": 1783030553000,
+      "url": "https://bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.co.uk",
       "trust": "bbc",
-      "tags": [
-        "復帰"
-      ],
+      "tags": [],
       "players": [],
-      "ja": "England have 'big concerns' - so who would you pick to face Mexico?",
-      "en": "England have 'big concerns' - so who would you pick to face Mexico?",
-      "text_for_match": "England have 'big concerns' - so who would you pick to face Mexico? Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico. Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
+      "ja": "England, France & Spain v Portugal on BBC in last 16",
+      "en": "England, France & Spain v Portugal on BBC in last 16",
+      "text_for_match": "England, France & Spain v Portugal on BBC in last 16 England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport. England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport.",
       "score_detail": {
-        "fresh": 0.4662420759006495,
+        "fresh": 0.5035578848538432,
         "trust": 1,
-        "relevance": 0.3333333333333333
+        "relevance": 0
       },
-      "score": 0.613
+      "score": 0.602
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwj41n?at_medium=RSS&at_campaign=rss",
@@ -1510,11 +1505,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth Warren Cummings spoke to Ian Wilding after the pair followed Andoni Iraola to Liverpool. Warren Cummings spoke to Ian Wilding after the pair followed Andoni Iraola to Liverpool.",
       "score_detail": {
-        "fresh": 0.4889786027723247,
+        "fresh": 0.4830695547942257,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.593
+      "score": 0.59
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&at_campaign=rss",
@@ -1528,11 +1523,11 @@
       "en": "Glasner poised for Forest job as Pereira exits",
       "text_for_match": "Glasner poised for Forest job as Pereira exits Vitor Pereira has left Nottingham Forest with the club poised to appoint former Crystal Palace boss Oliver Glasner as his successor. Vitor Pereira has left Nottingham Forest with the club poised to appoint former Crystal Palace boss Oliver Glasner as his successor. ",
       "score_detail": {
-        "fresh": 0.4872178063275689,
+        "fresh": 0.48133003664388346,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.592
+      "score": 0.589
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwhs42?at_medium=RSS&at_campaign=rss",
@@ -1546,11 +1541,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth The Cherries are reportedly in talks with Elche over an £18m move for Alvaro Rodriguez. The Cherries are reportedly in talks with Elche over an £18m move for Alvaro Rodriguez.",
       "score_detail": {
-        "fresh": 0.48670863569949957,
+        "fresh": 0.480827019073746,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.592
+      "score": 0.588
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwhfxt?at_medium=RSS&at_campaign=rss",
@@ -1564,11 +1559,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Nottingham Forest podcaster Max Hayes on Elliot Anderson's move to Man City. Nottingham Forest podcaster Max Hayes on Elliot Anderson's move to Man City.",
       "score_detail": {
-        "fresh": 0.4860842944178355,
+        "fresh": 0.48021022262649216,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.592
+      "score": 0.588
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwh4w3?at_medium=RSS&at_campaign=rss",
@@ -1582,11 +1577,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Jordan Clark on Andoni Iraola taking his Bournemouth staff to Liverpool Jordan Clark on Andoni Iraola taking his Bournemouth staff to Liverpool",
       "score_detail": {
-        "fresh": 0.48150444401917314,
+        "fresh": 0.47568571729934167,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.589
+      "score": 0.585
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ced4evnl3pyo?at_medium=RSS&at_campaign=rss",
@@ -1600,11 +1595,11 @@
       "en": "TV schedule announced for start of EFL season",
       "text_for_match": "TV schedule announced for start of EFL season The TV schedule for the opening two months of the English Football League's 2026-27 season is announced. The TV schedule for the opening two months of the English Football League's 2026-27 season is announced.",
       "score_detail": {
-        "fresh": 0.4758860759614862,
+        "fresh": 0.4701352442501955,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.586
+      "score": 0.582
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwg1ls?at_medium=RSS&at_campaign=rss",
@@ -1618,11 +1613,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Mick Wadsworth used to be Newcastle United assistant manager and DR Congo head coach. Mick Wadsworth used to be Newcastle United assistant manager and DR Congo head coach.",
       "score_detail": {
-        "fresh": 0.4749059086736031,
+        "fresh": 0.4691669217659456,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.585
+      "score": 0.582
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy4e1n409zzo?at_medium=RSS&at_campaign=rss",
@@ -1636,11 +1631,11 @@
       "en": "Former Arsenal midfielder Cazorla retires at 41",
       "text_for_match": "Former Arsenal midfielder Cazorla retires at 41 Former Arsenal midfielder Santi Cazorla retires from playing at the age of 41. Former Arsenal midfielder Santi Cazorla retires from playing at the age of 41.\n\n",
       "score_detail": {
-        "fresh": 0.4741394578670388,
+        "fresh": 0.4684097331122919,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.584
+      "score": 0.581
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwcn37?at_medium=RSS&at_campaign=rss",
@@ -1654,11 +1649,11 @@
       "en": "Nottingham Forest: Shut Up and Show More Football",
       "text_for_match": "Nottingham Forest: Shut Up and Show More Football Matchday presenter David Jackson on the managerial change at Nottingham Forest. Matchday presenter David Jackson on the managerial change at Nottingham Forest.",
       "score_detail": {
-        "fresh": 0.47384031990550723,
+        "fresh": 0.4681142100749241,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.584
+      "score": 0.581
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwfzfr?at_medium=RSS&at_campaign=rss",
@@ -1672,11 +1667,11 @@
       "en": "Everton FC",
       "text_for_match": "Everton FC Mark Drury on Hayden Hackney's move to Everton Mark Drury on Hayden Hackney's move to Everton",
       "score_detail": {
-        "fresh": 0.4736122907065213,
+        "fresh": 0.4678889364882892,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.584
+      "score": 0.581
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwcb15?at_medium=RSS&at_campaign=rss",
@@ -1690,11 +1685,11 @@
       "en": "Nottingham Forest: Shut Up and Show More Football",
       "text_for_match": "Nottingham Forest: Shut Up and Show More Football Nottingham Forest fans react to Vitor Pereira leaving the City Ground. Nottingham Forest fans react to Vitor Pereira leaving the City Ground.",
       "score_detail": {
-        "fresh": 0.4708844846372511,
+        "fresh": 0.4651940945136582,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.583
+      "score": 0.579
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&at_campaign=rss",
@@ -1708,11 +1703,11 @@
       "en": "Why are Man City breaking the bank for Anderson?",
       "text_for_match": "Why are Man City breaking the bank for Anderson? Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder? Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder?",
       "score_detail": {
-        "fresh": 0.4674893090778867,
+        "fresh": 0.46183994785650057,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.58
+      "score": 0.577
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gyx2x728eo?at_medium=RSS&at_campaign=rss",
@@ -1726,11 +1721,11 @@
       "en": "Hull sign goalkeeper Butland from Rangers",
       "text_for_match": "Hull sign goalkeeper Butland from Rangers Promoted Hull City sign goalkeeper Jack Butland from Rangers on a two-year deal. Promoted Hull City sign goalkeeper Jack Butland from Rangers on a two-year deal.",
       "score_detail": {
-        "fresh": 0.46687838522822467,
+        "fresh": 0.46123640669867444,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.58
+      "score": 0.577
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwf170?at_medium=RSS&at_campaign=rss",
@@ -1744,11 +1739,11 @@
       "en": "Nottingham Forest: Shut Up and Show More Football",
       "text_for_match": "Nottingham Forest: Shut Up and Show More Football Steve Hodge on changes at Forest, and England's chances in Mexico Steve Hodge on changes at Forest, and England's chances in Mexico",
       "score_detail": {
-        "fresh": 0.46667242547358534,
+        "fresh": 0.4610329358588154,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.58
+      "score": 0.577
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvgd049j753o?at_medium=RSS&at_campaign=rss",
@@ -1762,11 +1757,11 @@
       "en": "Sporting director Hughes set to leave Reds next year",
       "text_for_match": "Sporting director Hughes set to leave Reds next year Richard Hughes is overseeing Liverpool's current transfer window, but is expected to exit the club next summer. Richard Hughes is overseeing Liverpool's current transfer window, but is expected to exit the club next summer.",
       "score_detail": {
-        "fresh": 0.4664702988366166,
+        "fresh": 0.4608332518154259,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.58
+      "score": 0.576
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cwykxyqgpzno?at_medium=RSS&at_campaign=rss",
@@ -1780,11 +1775,11 @@
       "en": "Would Glasner tarnish Palace legacy with move to new enemies Forest? ",
       "text_for_match": "Would Glasner tarnish Palace legacy with move to new enemies Forest?  Will Oliver Glasner tarnish Crystal Palace legacy with Nottingham Forest move? Will Oliver Glasner tarnish Crystal Palace legacy with Nottingham Forest move? ",
       "score_detail": {
-        "fresh": 0.4659080492599728,
+        "fresh": 0.46027779672775404,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.58
+      "score": 0.576
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx23d1k6p77o?at_medium=RSS&at_campaign=rss",
@@ -1798,11 +1793,11 @@
       "en": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules?",
       "text_for_match": "Tonali's sale to Spurs - are Newcastle on wrong side of history with rules? With midfielder Sandro Tonali set to join Tottenham for £100m, the Newcastle side has been taken apart over the past year. With midfielder Sandro Tonali set to join Tottenham for £100m, the Newcastle side has been taken apart over the past year.",
       "score_detail": {
-        "fresh": 0.4642315705835553,
+        "fresh": 0.4586215774100837,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.579
+      "score": 0.575
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm20kegmlp5o?at_medium=RSS&at_campaign=rss",
@@ -1816,11 +1811,11 @@
       "en": "First Afcon, now World Cup - Senegal trapped in 'football hell'",
       "text_for_match": "First Afcon, now World Cup - Senegal trapped in 'football hell' Senegal's nightmarish year continues, with a heart-breaking collapse against Belgium featuring late penalty drama which was remarkably similar to events in this year's chaotic Afcon final. Senegal's nightmarish year continues, with a heart-breaking collapse against Belgium featuring late penalty drama which was remarkably similar to events in this year's chaotic Afcon final.",
       "score_detail": {
-        "fresh": 0.462019648168838,
+        "fresh": 0.4564363849086964,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.577
+      "score": 0.574
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c2lywk1nk19o?at_medium=RSS&at_campaign=rss",
@@ -1834,11 +1829,11 @@
       "en": "Brighton sign Austria defender Svoboda from Venezia",
       "text_for_match": "Brighton sign Austria defender Svoboda from Venezia Brighton sign Austria defender Michael Svoboda from Serie B champions Venezia on a four-year deal. Brighton sign Austria defender Michael Svoboda from Serie B champions Venezia on a four-year deal.",
       "score_detail": {
-        "fresh": 0.461930699061035,
+        "fresh": 0.4563485107038496,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.577
+      "score": 0.574
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c17yvrgllk1o?at_medium=RSS&at_campaign=rss",
@@ -1852,11 +1847,11 @@
       "en": "Bronze renews contract with Chelsea until 2027 ",
       "text_for_match": "Bronze renews contract with Chelsea until 2027  England international Lucy Bronze has signed a contract extension with Chelsea until 2027. England international Lucy Bronze has signed a contract extension with Chelsea until 2027.",
       "score_detail": {
-        "fresh": 0.4592910533840149,
+        "fresh": 0.45374076374972294,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.576
+      "score": 0.572
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
@@ -1870,11 +1865,11 @@
       "en": "Who has been eliminated from the World Cup?",
       "text_for_match": "Who has been eliminated from the World Cup? BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "score_detail": {
-        "fresh": 0.4585289577196768,
+        "fresh": 0.45298787760870335,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.575
+      "score": 0.572
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cr475kvyx6go?at_medium=RSS&at_campaign=rss",
@@ -1890,11 +1885,11 @@
       "en": "Quansah and James out of DR Congo game",
       "text_for_match": "Quansah and James out of DR Congo game England coach Thomas Tuchel gives an update on the two right-backs who are both suffering with injury. England coach Thomas Tuchel gives an update on the two right-backs who are both suffering with injury.",
       "score_detail": {
-        "fresh": 0.3460523906538653,
+        "fresh": 0.34187053040943727,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.574
+      "score": 0.572
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&at_campaign=rss",
@@ -1908,11 +1903,11 @@
       "en": "Spurs sign Fernandes for club record £85m",
       "text_for_match": "Spurs sign Fernandes for club record £85m Tottenham complete the signing of Mateus Fernandes from West Ham for a club-record fee of £85m. Tottenham complete the signing of Mateus Fernandes from West Ham for a club-record fee of £85m.",
       "score_detail": {
-        "fresh": 0.4496465493667149,
+        "fresh": 0.44421280846613054,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.57
+      "score": 0.567
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvglewzezl7o?at_medium=RSS&at_campaign=rss",
@@ -1926,11 +1921,11 @@
       "en": "Everton sign midfielder Hackney from Middlesbrough",
       "text_for_match": "Everton sign midfielder Hackney from Middlesbrough Everton sign midfielder Hayden Hackney from Middlesbrough for a fee of at least £16m. Everton sign midfielder Hayden Hackney from Middlesbrough for a fee of at least £16m.",
       "score_detail": {
-        "fresh": 0.4486184418907882,
+        "fresh": 0.4431971251256721,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.569
+      "score": 0.566
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nwb8xh?at_medium=RSS&at_campaign=rss",
@@ -1944,29 +1939,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Matthew Raisbeck shares his insight into Tonali's Newcastle exit and other transfer news. Matthew Raisbeck shares his insight into Tonali's Newcastle exit and other transfer news.",
       "score_detail": {
-        "fresh": 0.4466719873421423,
+        "fresh": 0.44127419245150074,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.568
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-      "ts": 1782964394000,
-      "url": "https://bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "USA march on but will Balogun red card prove costly?",
-      "en": "USA march on but will Balogun red card prove costly?",
-      "text_for_match": "USA march on but will Balogun red card prove costly? Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove? Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
-      "score_detail": {
-        "fresh": 0.4270647958867586,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.556
+      "score": 0.565
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/crkvlv6myreo?at_medium=RSS&at_campaign=rss",
@@ -1982,11 +1959,29 @@
       "en": "Chelsea sign Italy defender Palestra for £47m",
       "text_for_match": "Chelsea sign Italy defender Palestra for £47m Right-back Marco Palestra, 21, becomes Xabi Alonso's first signing as Chelsea manager. Right-back Marco Palestra, 21, becomes Xabi Alonso's first signing as Chelsea manager.",
       "score_detail": {
-        "fresh": 0.3717198626972129,
+        "fresh": 0.3672278246189886,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.556
+      "score": 0.554
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+      "ts": 1782964394000,
+      "url": "https://bbc.co.uk/sport/football/articles/cgjx07ql6v0o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "USA march on but will Balogun red card prove costly?",
+      "en": "USA march on but will Balogun red card prove costly?",
+      "text_for_match": "USA march on but will Balogun red card prove costly? Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove? Mauricio Pochettino's USA side set up a World Cup last-16 meeting with Belgium, but how costly will forward Folarin Balogun's red card prove?",
+      "score_detail": {
+        "fresh": 0.421903943542005,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.553
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2d4drnr70o?at_medium=RSS&at_campaign=rss",
@@ -2002,11 +1997,11 @@
       "en": "No signings, no sales - what is happening at Manchester United?",
       "text_for_match": "No signings, no sales - what is happening at Manchester United? Manchester United have missed out on a second midfield target in Mateus Fernandes but are refusing to panic even though they are yet to sign any players this summer. Manchester United have missed out on a second midfield target in Mateus Fernandes but are refusing to panic even though they are yet to sign any players this summer.",
       "score_detail": {
-        "fresh": 0.3711824729438662,
+        "fresh": 0.3666969289367883,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.556
+      "score": 0.553
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/czde8ynqn6go?at_medium=RSS&at_campaign=rss",
@@ -2022,11 +2017,11 @@
       "en": "Soucek's ankle ligament injury to be assessed",
       "text_for_match": "Soucek's ankle ligament injury to be assessed West Ham United will further assess midfielder Tomas Soucek's ankle injury later this week. West Ham United will further assess midfielder Tomas Soucek's ankle injury later this week.",
       "score_detail": {
-        "fresh": 0.3087737020668196,
+        "fresh": 0.3050423350713243,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.552
+      "score": 0.55
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&at_campaign=rss",
@@ -2042,11 +2037,11 @@
       "en": "All done deals in June 2026",
       "text_for_match": "All done deals in June 2026 Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "score_detail": {
-        "fresh": 0.3551966034971662,
+        "fresh": 0.35090424027345307,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.546
+      "score": 0.544
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8d25v111r6o?at_medium=RSS&at_campaign=rss",
@@ -2060,11 +2055,11 @@
       "en": "What you need to know about England's last-16 opponents Mexico",
       "text_for_match": "What you need to know about England's last-16 opponents Mexico England will face Mexico in the World Cup round of 16. Here is what you need to know about them. England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
       "score_detail": {
-        "fresh": 0.4076244166758857,
+        "fresh": 0.4026984910392093,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.545
+      "score": 0.542
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cd7w0x7yezjo?at_medium=RSS&at_campaign=rss",
@@ -2080,11 +2075,11 @@
       "en": "Summerville exits World Cup but Canada progress",
       "text_for_match": "Summerville exits World Cup but Canada progress West Ham winger Crysencio Summerville sees his shot saved during a dramatic penalty shootout against Morocco to knock the Netherlands out of the World Cup on Tuesday. West Ham winger Crysencio Summerville sees his shot saved during a dramatic penalty shootout against Morocco to knock the Netherlands out of the World Cup on Tuesday.",
       "score_detail": {
-        "fresh": 0.2830854078851384,
+        "fresh": 0.2796644703479762,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.537
+      "score": 0.534
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
@@ -2098,11 +2093,11 @@
       "en": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
       "text_for_match": "Spurs agree deal worth up to £100m for Newcastle's Tonali Tottenham Hotspur agree a deal worth up to £100m with Newcastle United for midfielder Sandro Tonali. Tottenham Hotspur agree a deal worth up to £100m with Newcastle United for midfielder Sandro Tonali.",
       "score_detail": {
-        "fresh": 0.39387613721078607,
+        "fresh": 0.3891163522651644,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.536
+      "score": 0.533
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gyqve0w5jo?at_medium=RSS&at_campaign=rss",
@@ -2116,11 +2111,11 @@
       "en": "Brighton agree club record £46m Vuskovic deal",
       "text_for_match": "Brighton agree club record £46m Vuskovic deal Brighton have third bid accepted by Tottenham and will pay club record £46m for highly-rated young defender Luka Vuskovic Brighton have third bid accepted by Tottenham and will pay club record £46m for highly-rated young defender Luka Vuskovic",
       "score_detail": {
-        "fresh": 0.38130466330370216,
+        "fresh": 0.37669679797593536,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.529
+      "score": 0.526
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw5r74?at_medium=RSS&at_campaign=rss",
@@ -2134,11 +2129,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Adam Beattie on new Liverpool signing Jérémy Jacquet Adam Beattie on new Liverpool signing Jérémy Jacquet",
       "score_detail": {
-        "fresh": 0.37681213053594864,
+        "fresh": 0.37225855509227357,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.526
+      "score": 0.523
     },
     {
       "id": "https://bbc.co.uk/news/articles/c5yzrv2eyn1o?at_medium=RSS&at_campaign=rss",
@@ -2152,11 +2147,11 @@
       "en": "Plaque honour for Spurs and England footballer",
       "text_for_match": "Plaque honour for Spurs and England footballer Tributes are paid to Bill Nicholson as a plaque is unveiled at his birthplace in Scarborough. Tributes are paid to Bill Nicholson as a plaque is unveiled at his birthplace in Scarborough.",
       "score_detail": {
-        "fresh": 0.37616978961501146,
+        "fresh": 0.37162397652187396,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.526
+      "score": 0.523
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2x0pd01dno?at_medium=RSS&at_campaign=rss",
@@ -2172,11 +2167,11 @@
       "en": "Rosenior nears management return at Paris FC",
       "text_for_match": "Rosenior nears management return at Paris FC Former Chelsea manager Liam Rosenior is set to return to football at French club Paris FC on a two-year contract, with the option of a further season. Former Chelsea manager Liam Rosenior is set to return to football at French club Paris FC on a two-year contract, with the option of a further season.",
       "score_detail": {
-        "fresh": 0.3206402968298741,
+        "fresh": 0.31676552830843474,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.526
+      "score": 0.523
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw5fv9?at_medium=RSS&at_campaign=rss",
@@ -2190,11 +2185,11 @@
       "en": "Everton FC",
       "text_for_match": "Everton FC Paul Brown on Everton's lack of transfer business so far Paul Brown on Everton's lack of transfer business so far",
       "score_detail": {
-        "fresh": 0.3750628696805489,
+        "fresh": 0.3705304331297868,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.525
+      "score": 0.522
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx24g44e4y8o?at_medium=RSS&at_campaign=rss",
@@ -2208,11 +2203,11 @@
       "en": "Alonso's start date revealed",
       "text_for_match": "Alonso's start date revealed Chelsea confirm they will begin pre-season under new manager Xabi Alonso next Thursday. Chelsea confirm they will begin pre-season under new manager Xabi Alonso next Thursday.",
       "score_detail": {
-        "fresh": 0.37108421772391126,
+        "fresh": 0.36659986107923637,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.523
+      "score": 0.52
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c6210xn3x14o?at_medium=RSS&at_campaign=rss",
@@ -2228,11 +2223,11 @@
       "en": "Spurs agree £85m deal for West Ham's Fernandes",
       "text_for_match": "Spurs agree £85m deal for West Ham's Fernandes Tottenham agree a deal to sign West Ham's Mateus Fernandes as Manchester United pull out of the race for midfielder. Tottenham agree a deal to sign West Ham's Mateus Fernandes as Manchester United pull out of the race for midfielder.",
       "score_detail": {
-        "fresh": 0.3073813903567061,
+        "fresh": 0.30366684871235883,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.518
+      "score": 0.516
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckg48ek273yo?at_medium=RSS&at_campaign=rss",
@@ -2248,11 +2243,11 @@
       "en": "Arsenal consider Barcola as alternative to Rogers",
       "text_for_match": "Arsenal consider Barcola as alternative to Rogers Arsenal are expected to step up their interest in Paris Saint-Germain's Bradley Barcola this week after receiving encouragement that the forward could be available this summer. Arsenal are expected to step up their interest in Paris Saint-Germain's Bradley Barcola this week after receiving encouragement that the forward could be available this summer.",
       "score_detail": {
-        "fresh": 0.3058939061258913,
+        "fresh": 0.30219733994230386,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.517
+      "score": 0.515
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvgjkkvyz0eo?at_medium=RSS&at_campaign=rss",
@@ -2266,11 +2261,11 @@
       "en": "Huddersfield sign Brentford midfielder Brierley",
       "text_for_match": "Huddersfield sign Brentford midfielder Brierley Brierley, who began his career at Rochdale, has signed a three-year deal at the Accu stadium. Brierley, who began his career at Rochdale, has signed a three-year deal at the Accu stadium.",
       "score_detail": {
-        "fresh": 0.3532008777366652,
+        "fresh": 0.34893263180398093,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.512
+      "score": 0.509
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw17qc?at_medium=RSS&at_campaign=rss",
@@ -2284,11 +2279,11 @@
       "en": "Aston Villa",
       "text_for_match": "Aston Villa Former Villa & Wolves boss Paul Lambert reflects on Scotland's time at France 1998. Former Villa & Wolves boss Paul Lambert reflects on Scotland's time at France 1998.",
       "score_detail": {
-        "fresh": 0.32520409175981735,
+        "fresh": 0.3212741721887199,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.495
+      "score": 0.493
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw13l7?at_medium=RSS&at_campaign=rss",
@@ -2302,11 +2297,11 @@
       "en": "Wolverhampton Wanderers",
       "text_for_match": "Wolverhampton Wanderers Wolves & Walsall legend David 'Ned' Kelly reflects on his World Cups with Ireland. Wolves & Walsall legend David 'Ned' Kelly reflects on his World Cups with Ireland.",
       "score_detail": {
-        "fresh": 0.32442234433752376,
+        "fresh": 0.3205018717708533,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.495
+      "score": 0.492
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw130r?at_medium=RSS&at_campaign=rss",
@@ -2320,11 +2315,11 @@
       "en": "Aston Villa",
       "text_for_match": "Aston Villa Aston Villa legend Brad Friedel relives USA's 2002 World Cup in Japan & South Korea. Aston Villa legend Brad Friedel relives USA's 2002 World Cup in Japan & South Korea.",
       "score_detail": {
-        "fresh": 0.324162179690491,
+        "fresh": 0.3202448510760769,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.494
+      "score": 0.492
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yzr4geggro?at_medium=RSS&at_campaign=rss",
@@ -2338,11 +2333,11 @@
       "en": "Villa among four Premier League clubs fined by Uefa",
       "text_for_match": "Villa among four Premier League clubs fined by Uefa Aston Villa have been fined 22.5m euros (£19.4m) by Uefa for a \"significant breach\" of its squad-cost rule for 2025. Aston Villa have been fined 22.5m euros (£19.4m) by Uefa for a \"significant breach\" of its squad-cost rule for 2025.",
       "score_detail": {
-        "fresh": 0.31603319887166215,
+        "fresh": 0.3122141046940908,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.49
+      "score": 0.487
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nw0pqv?at_medium=RSS&at_campaign=rss",
@@ -2356,11 +2351,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth The Bournemouth President of Business explained more about the Vitality Stadium revamp. The Bournemouth President of Business explained more about the Vitality Stadium revamp.",
       "score_detail": {
-        "fresh": 0.3099708279753213,
+        "fresh": 0.3062249943459302,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.486
+      "score": 0.484
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvzmxh?at_medium=RSS&at_campaign=rss",
@@ -2374,11 +2369,11 @@
       "en": "Everton FC",
       "text_for_match": "Everton FC The panel discuss Heath, Harvey and Howard The panel discuss Heath, Harvey and Howard",
       "score_detail": {
-        "fresh": 0.30967256128431714,
+        "fresh": 0.3059303320502461,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.486
+      "score": 0.484
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8r21k1dmego?at_medium=RSS&at_campaign=rss",
@@ -2392,11 +2387,11 @@
       "en": "West Ham sponsors continue shirt deal",
       "text_for_match": "West Ham sponsors continue shirt deal Gambling firm Boyle Sports have opted to continue their front-of-shirt sponsorship deal with West Ham United. Gambling firm Boyle Sports have opted to continue their front-of-shirt sponsorship deal with West Ham United.",
       "score_detail": {
-        "fresh": 0.3017906986249756,
+        "fresh": 0.29814371753539753,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.481
+      "score": 0.479
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8r21kp8xvdo?at_medium=RSS&at_campaign=rss",
@@ -2410,11 +2405,11 @@
       "en": "Tottenham goalkeeper Kinsky signs new deal",
       "text_for_match": "Tottenham goalkeeper Kinsky signs new deal Tottenham Hotspur goalkeeper Antonin Kinsky signs a new, improved contract with the Premier League club. Tottenham Hotspur goalkeeper Antonin Kinsky signs a new, improved contract with the Premier League club.\n\n",
       "score_detail": {
-        "fresh": 0.2997581779243558,
+        "fresh": 0.29613575877321086,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.48
+      "score": 0.478
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gy899mpp9o?at_medium=RSS&at_campaign=rss",
@@ -2428,11 +2423,11 @@
       "en": "Should teams bring on players just for penalty shootouts?",
       "text_for_match": "Should teams bring on players just for penalty shootouts? BBC Sport's Ask Me Anything team looks at the numbers behind late substitutes taking penalties in shootouts. BBC Sport's Ask Me Anything team looks at the numbers behind late substitutes taking penalties in shootouts.",
       "score_detail": {
-        "fresh": 0.2967632058525824,
+        "fresh": 0.29317697935601345,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.478
+      "score": 0.476
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvy6s9?at_medium=RSS&at_campaign=rss",
@@ -2446,11 +2441,11 @@
       "en": "Brighton & Hove Albion",
       "text_for_match": "Brighton & Hove Albion Johnny Cantor, Warren Aspinall and Adam Pope Johnny Cantor, Warren Aspinall and Adam Pope",
       "score_detail": {
-        "fresh": 0.2918701943855034,
+        "fresh": 0.28834309734644537,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.475
+      "score": 0.473
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvy5xj?at_medium=RSS&at_campaign=rss",
@@ -2464,11 +2459,11 @@
       "en": "Leeds United: Don't Go To Bed Just Yet",
       "text_for_match": "Leeds United: Don't Go To Bed Just Yet Gary Hewitt, brother of missing Leeds United fan Michael, aka \"Little Mick\", issues plea. Gary Hewitt, brother of missing Leeds United fan Michael, aka \"Little Mick\", issues plea.",
       "score_detail": {
-        "fresh": 0.29176094300014516,
+        "fresh": 0.28823516620633727,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.475
+      "score": 0.473
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c07yj9kkzd3o?at_medium=RSS&at_campaign=rss",
@@ -2482,11 +2477,11 @@
       "en": "Chelsea's George close to permanent Everton move",
       "text_for_match": "Chelsea's George close to permanent Everton move Everton close in on a deal to sign Chelsea winger Tyrique George following his loan spell. Everton close in on a deal to sign Chelsea winger Tyrique George following his loan spell.",
       "score_detail": {
-        "fresh": 0.2850094512523729,
+        "fresh": 0.2815652626680186,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.471
+      "score": 0.469
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvtlwj?at_medium=RSS&at_campaign=rss",
@@ -2500,11 +2495,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Former Man City captain Paul Lake on the appointment of Enzo Maresca. Former Man City captain Paul Lake on the appointment of Enzo Maresca.",
       "score_detail": {
-        "fresh": 0.2745620912898049,
+        "fresh": 0.27124415352892894,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.465
+      "score": 0.463
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ce8mgmr732do?at_medium=RSS&at_campaign=rss",
@@ -2518,11 +2513,11 @@
       "en": "Bournemouth reject Arsenal interest in Scott",
       "text_for_match": "Bournemouth reject Arsenal interest in Scott Bournemouth reject an enquiry from Arsenal for Alex Scott and say the midfielder is not for sale this summer. Bournemouth reject an enquiry from Arsenal for Alex Scott and say the midfielder is not for sale this summer.\n\n",
       "score_detail": {
-        "fresh": 0.250133723304532,
+        "fresh": 0.24711098945980547,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.45
+      "score": 0.448
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvtfmh?at_medium=RSS&at_campaign=rss",
@@ -2536,11 +2531,11 @@
       "en": "Sunderland AFC",
       "text_for_match": "Sunderland AFC Simon Pryde talks to fans about Xhaka transfer speculation. Simon Pryde talks to fans about Xhaka transfer speculation.",
       "score_detail": {
-        "fresh": 0.2454719831790019,
+        "fresh": 0.24250558399985578,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.447
+      "score": 0.446
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c4gy38jpkvvo?at_medium=RSS&at_campaign=rss",
@@ -2554,11 +2549,11 @@
       "en": "Why are Man City and Maresca paying Chelsea?",
       "text_for_match": "Why are Man City and Maresca paying Chelsea? Chelsea say that Enzo Maresca will pay them compensation now he has been confirmed as Manchester City's new head coach. Chelsea say that Enzo Maresca will pay them compensation now he has been confirmed as Manchester City's new head coach.",
       "score_detail": {
-        "fresh": 0.24266093277345988,
+        "fresh": 0.23972850365276013,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.446
+      "score": 0.444
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c2k248wwk74o?at_medium=RSS&at_campaign=rss",
@@ -2572,11 +2567,11 @@
       "en": "Why Maresca? What Man City fans can expect from Guardiola's successor",
       "text_for_match": "Why Maresca? What Man City fans can expect from Guardiola's successor Pep Guardiola passes the baton on to Enzo Maresca, but why have Manchester City chosen the Italian as the Spaniard's replacement? Pep Guardiola passes the baton on to Enzo Maresca, but why have Manchester City chosen the Italian as the Spaniard's replacement?",
       "score_detail": {
-        "fresh": 0.24072582706123177,
+        "fresh": 0.23781678267031656,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.444
+      "score": 0.443
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cewq88wl2qxo?at_medium=RSS&at_campaign=rss",
@@ -2590,11 +2585,11 @@
       "en": "Maresca to pay Chelsea compensation - but why?",
       "text_for_match": "Maresca to pay Chelsea compensation - but why? Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea. Enzo Maresca signs three-year Manchester City deal after agreeing to pay compensation to former club Chelsea. ",
       "score_detail": {
-        "fresh": 0.23956666907239732,
+        "fresh": 0.2366716324931356,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.444
+      "score": 0.442
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cjrgzqwe0p3o?at_medium=RSS&at_campaign=rss",
@@ -2608,11 +2603,11 @@
       "en": "Arsenal head of sports science and performance departs",
       "text_for_match": "Arsenal head of sports science and performance departs Arsenal head of sports science performance Tom Allen is the latest member of the club's backroom team set to leave the club. Arsenal head of sports science performance Tom Allen is the latest member of the club's backroom team set to leave the club.",
       "score_detail": {
-        "fresh": 0.23752090816912924,
+        "fresh": 0.23465059352915196,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.443
+      "score": 0.441
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvrmcy?at_medium=RSS&at_campaign=rss",
@@ -2626,11 +2621,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Simon Johnson, Chelsea reporter for The Athletic, on what Man City fans should expect. Simon Johnson, Chelsea reporter for The Athletic, on what Man City fans should expect.",
       "score_detail": {
-        "fresh": 0.2349139595485696,
+        "fresh": 0.23207514850483968,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.441
+      "score": 0.439
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvr2mz?at_medium=RSS&at_campaign=rss",
@@ -2644,11 +2639,11 @@
       "en": "Leeds United: Don't Go To Bed Just Yet",
       "text_for_match": "Leeds United: Don't Go To Bed Just Yet Jonny, Adam and Simon are here to discuss the likely departure of Pascal Struijk. Jonny, Adam and Simon are here to discuss the likely departure of Pascal Struijk.",
       "score_detail": {
-        "fresh": 0.23202952136436747,
+        "fresh": 0.2292255672316019,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.439
+      "score": 0.438
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvqnzx?at_medium=RSS&at_campaign=rss",
@@ -2662,11 +2657,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United Gaz and Jay discuss new stadium plans and why Mainoo should be starting for England. Gaz and Jay discuss new stadium plans and why Mainoo should be starting for England.",
       "score_detail": {
-        "fresh": 0.23032327762899582,
+        "fresh": 0.22753994254998328,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.438
+      "score": 0.437
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0nvplp6?at_medium=RSS&at_campaign=rss",
@@ -2680,11 +2675,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United Marcus Rashford insists England will improve after topping Group L. Marcus Rashford insists England will improve after topping Group L.",
       "score_detail": {
-        "fresh": 0.22270560191210487,
+        "fresh": 0.22001432241801464,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.434
+      "score": 0.432
     }
   ]
 }
