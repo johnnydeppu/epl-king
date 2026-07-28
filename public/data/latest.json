@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785241097437,
+  "generated_at": 1785250529449,
   "match": {
     "id": "EPL-UNKNOWN",
     "kickoff_jst": "",
@@ -29,11 +29,51 @@
       "en": "Rodri out for 'short period' after back surgery",
       "text_for_match": "Rodri out for 'short period' after back surgery Manchester City midfielder Rodri will be sidelined for a \"short period of rehabilitation\" following back surgery on Monday. Manchester City midfielder Rodri will be sidelined for a \"short period of rehabilitation\" following back surgery on Monday.",
       "score_detail": {
-        "fresh": 0.9975651047593231,
+        "fresh": 0.9727215132468588,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.999
+      "score": 0.984
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+      "ts": 1785245308000,
+      "url": "https://bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [
+        "好調"
+      ],
+      "players": [],
+      "ja": "Alonso's first Chelsea match was a tale of four strikers",
+      "en": "Alonso's first Chelsea match was a tale of four strikers",
+      "text_for_match": "Alonso's first Chelsea match was a tale of four strikers Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave. Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.",
+      "score_detail": {
+        "fresh": 0.9861445967779597,
+        "trust": 1,
+        "relevance": 0.6666666666666666
+      },
+      "score": 0.958
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "ts": 1785246840000,
+      "url": "https://bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [
+        "負傷"
+      ],
+      "players": [],
+      "ja": "Mancini reappointed Italy boss after Pirlo controversy",
+      "en": "Mancini reappointed Italy boss after Pirlo controversy",
+      "text_for_match": "Mancini reappointed Italy boss after Pirlo controversy Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns. Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+      "score_detail": {
+        "fresh": 0.9901929626057898,
+        "trust": 1,
+        "relevance": 0.3333333333333333
+      },
+      "score": 0.927
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&at_campaign=rss",
@@ -49,11 +89,83 @@
       "en": "Man City brace for Rodri bid - Tuesday's gossip",
       "text_for_match": "Man City brace for Rodri bid - Tuesday's gossip Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set to make second Yan Diomande offer. Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set to make second Yan Diomande offer.",
       "score_detail": {
-        "fresh": 0.976476539417385,
+        "fresh": 0.9521581424014397,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.919
+      "score": 0.905
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+      "ts": 1785249798000,
+      "url": "https://bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Celtic make Denmark striker Hogh their record signing",
+      "en": "Celtic make Denmark striker Hogh their record signing",
+      "text_for_match": "Celtic make Denmark striker Hogh their record signing Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract. Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.",
+      "score_detail": {
+        "fresh": 0.9980566688911879,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.899
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cddj2m5m0p0o?at_medium=RSS&at_campaign=rss",
+      "ts": 1785248341000,
+      "url": "https://bbc.co.uk/sport/football/articles/cddj2m5m0p0o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "After 16 days of chaos, can Italian football reset for new era?",
+      "en": "After 16 days of chaos, can Italian football reset for new era?",
+      "text_for_match": "After 16 days of chaos, can Italian football reset for new era? Chaos consumed Italian football as Paolo Maldini and Leonardo resigned during the search for a manager – can Roberto Mancini now bring calm on being given the role? Chaos consumed Italian football as Paolo Maldini and Leonardo resigned during the search for a manager – can Roberto Mancini now bring calm on being given the role?",
+      "score_detail": {
+        "fresh": 0.9941755278526692,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.897
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/videos/cpvwkdnpgkpo?at_medium=RSS&at_campaign=rss",
+      "ts": 1785245810000,
+      "url": "https://bbc.co.uk/sport/football/videos/cpvwkdnpgkpo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Relive Zidane's World Cup masterclass as he's named France head coach",
+      "en": "Relive Zidane's World Cup masterclass as he's named France head coach",
+      "text_for_match": "Relive Zidane's World Cup masterclass as he's named France head coach New France head coach Zinedine Zidane produces a masterclass against Brazil in the quarter-finals of the 2006 World Cup. New France head coach Zinedine Zidane produces a masterclass against Brazil in the quarter-finals of the 2006 World Cup.",
+      "score_detail": {
+        "fresh": 0.9874693235698523,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.892
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cjrvnj7xx22o?at_medium=RSS&at_campaign=rss",
+      "ts": 1785244798000,
+      "url": "https://bbc.co.uk/sport/football/articles/cjrvnj7xx22o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'Improve quickly' - Alonso's assessment of opening match",
+      "en": "'Improve quickly' - Alonso's assessment of opening match",
+      "text_for_match": "'Improve quickly' - Alonso's assessment of opening match New Chelsea manager Xabi Alonso says he wants his squad to \"improve quickly\" after a chaotic 6-4 win over Western Sydney Wanderers in his first match. New Chelsea manager Xabi Alonso says he wants his squad to \"improve quickly\" after a chaotic 6-4 win over Western Sydney Wanderers in his first match. ",
+      "score_detail": {
+        "fresh": 0.9848005786672028,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.891
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cdj09wx10r1o?at_medium=RSS&at_campaign=rss",
@@ -69,11 +181,11 @@
       "en": "Rangers near Makhanya deal as Hogh passes Celtic medical - gossip",
       "text_for_match": "Rangers near Makhanya deal as Hogh passes Celtic medical - gossip Celtic, Dundee United and Rangers close in on latest signings as VAR take on new rules from World Cup. Celtic, Dundee United and Rangers close in on latest signings as VAR take on new rules from World Cup.",
       "score_detail": {
-        "fresh": 0.9462002669541053,
+        "fresh": 0.9226358772124815,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.901
+      "score": 0.887
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c2e4jy2xnglo?at_medium=RSS&at_campaign=rss",
@@ -87,11 +199,11 @@
       "en": "Can lightning strike twice? Cape Verde set for Wafcon debut",
       "text_for_match": "Can lightning strike twice? Cape Verde set for Wafcon debut After the men's success at the World Cup, Cape Verde should not be underestimated on their Women's Africa Cup of Nations debut, forward Sandra Martins warns. After the men's success at the World Cup, Cape Verde should not be underestimated on their Women's Africa Cup of Nations debut, forward Sandra Martins warns.",
       "score_detail": {
-        "fresh": 0.9985285977528842,
+        "fresh": 0.9736610111886254,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.899
+      "score": 0.884
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gvew81dd0o?at_medium=RSS&at_campaign=rss",
@@ -105,11 +217,11 @@
       "en": "England keeper Hampton extends deal at Chelsea",
       "text_for_match": "England keeper Hampton extends deal at Chelsea England international Hannah Hampton signs a new two-year deal with Chelsea. England international Hannah Hampton signs a new two-year deal with Chelsea.",
       "score_detail": {
-        "fresh": 0.9929394561781237,
+        "fresh": 0.9682110628850872,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.896
+      "score": 0.881
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm2gyzme6gno?at_medium=RSS&at_campaign=rss",
@@ -123,11 +235,11 @@
       "en": "Only use VAR when error blatant - referee chiefs",
       "text_for_match": "Only use VAR when error blatant - referee chiefs Video assistant referees should only be used to change \"blatantly incorrect\" decisions and clear missed incidents, say European refereeing officials. Video assistant referees should only be used to change \"blatantly incorrect\" decisions and clear missed incidents, say European refereeing officials.",
       "score_detail": {
-        "fresh": 0.9922891212865471,
+        "fresh": 0.967576924083686,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.895
+      "score": 0.881
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8rnevypmgjo?at_medium=RSS&at_campaign=rss",
@@ -141,11 +253,11 @@
       "en": "Shootouts & regional fixture split for new-look League Cup",
       "text_for_match": "Shootouts & regional fixture split for new-look League Cup The Players Cup, formerly the League Cup, will have a 23-team league phase that includes penalty shootouts to settle draws after 90 minutes. The Players Cup, formerly the League Cup, will have a 23-team league phase that includes penalty shootouts to settle draws after 90 minutes.",
       "score_detail": {
-        "fresh": 0.9883088269475545,
+        "fresh": 0.9636957559131867,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.893
+      "score": 0.878
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p14ljs?at_medium=RSS&at_campaign=rss",
@@ -159,11 +271,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Robbie Fowler on new Liverpool head coach Andoni Iraola Robbie Fowler on new Liverpool head coach Andoni Iraola",
       "score_detail": {
-        "fresh": 0.9875241929285489,
+        "fresh": 0.9629306626008096,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.893
+      "score": 0.878
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
@@ -177,11 +289,11 @@
       "en": "Zidane confirmed as France head coach",
       "text_for_match": "Zidane confirmed as France head coach Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
       "score_detail": {
-        "fresh": 0.9692855893035376,
+        "fresh": 0.9451462773682178,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.882
+      "score": 0.867
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss",
@@ -195,11 +307,11 @@
       "en": "Newcastle sign Liverpool forward Kiernan",
       "text_for_match": "Newcastle sign Liverpool forward Kiernan Newcastle United confirm the signing of Republic of Ireland forward Leanne Kiernan from Liverpool for an undisclosed fee. Newcastle United confirm the signing of Republic of Ireland forward Leanne Kiernan from Liverpool for an undisclosed fee.",
       "score_detail": {
-        "fresh": 0.9690134629840805,
+        "fresh": 0.9448809281454014,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.881
+      "score": 0.867
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yzvnk92gko?at_medium=RSS&at_campaign=rss",
@@ -213,11 +325,11 @@
       "en": "No excuses for Rangers as McInnes era is poised to begin",
       "text_for_match": "No excuses for Rangers as McInnes era is poised to begin An experienced figurehead in the dugout, Lawrence Shankland spearheading the attack and further financial backing - there are few excuses for Rangers this season. An experienced figurehead in the dugout, Lawrence Shankland spearheading the attack and further financial backing - there are few excuses for Rangers this season.",
       "score_detail": {
-        "fresh": 0.9640276861902826,
+        "fresh": 0.9400193182871213,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.878
+      "score": 0.864
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&at_campaign=rss",
@@ -231,11 +343,11 @@
       "en": "'I needed this summer' - what next for Arsenal's Kelly?",
       "text_for_match": "'I needed this summer' - what next for Arsenal's Kelly? Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season. Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season.",
       "score_detail": {
-        "fresh": 0.9596524963294875,
+        "fresh": 0.9357530891639988,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.876
+      "score": 0.861
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p13nqw?at_medium=RSS&at_campaign=rss",
@@ -249,11 +361,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United Ex Man Utd defender Danny Simpson ahead of Michael Carrick's first full season in charge. Ex Man Utd defender Danny Simpson ahead of Michael Carrick's first full season in charge.",
       "score_detail": {
-        "fresh": 0.959411296092021,
+        "fresh": 0.9355178958328925,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.876
+      "score": 0.861
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p16qwp?at_medium=RSS&at_campaign=rss",
@@ -267,11 +379,11 @@
       "en": "Podcast: Can Hearts produce a Tynecastle miracle?",
       "text_for_match": "Podcast: Can Hearts produce a Tynecastle miracle? Hearts need something special against Sturm Graz. Hearts need something special against Sturm Graz.",
       "score_detail": {
-        "fresh": 0.9502193179455023,
+        "fresh": 0.9265548368307724,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.87
+      "score": 0.856
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/clyjlym7kjlo?at_medium=RSS&at_campaign=rss",
@@ -285,11 +397,11 @@
       "en": "Who am I? Guess Premier League star No 8",
       "text_for_match": "Who am I? Guess Premier League star No 8 Will you get today's player in as few attempts as possible? Will you get today's player in as few attempts as possible?",
       "score_detail": {
-        "fresh": 0.9432469545408894,
+        "fresh": 0.919756114772949,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.866
+      "score": 0.852
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss",
@@ -303,11 +415,11 @@
       "en": "Why Chelsea want to sign older players",
       "text_for_match": "Why Chelsea want to sign older players Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth. Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.",
       "score_detail": {
-        "fresh": 0.9372175655669216,
+        "fresh": 0.9138768830930009,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.862
+      "score": 0.848
     },
     {
       "id": "https://bbc.co.uk/news/articles/c8jne4rld3no?at_medium=RSS&at_campaign=rss",
@@ -321,11 +433,11 @@
       "en": "Reading remove online shop items with spelling errors",
       "text_for_match": "Reading remove online shop items with spelling errors The League One football club says the images of the merchandise in its online shop have been removed. The League One football club says the images of the merchandise in its online shop have been removed.",
       "score_detail": {
-        "fresh": 0.9334257251157563,
+        "fresh": 0.910179475511229,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.86
+      "score": 0.846
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yw5d2zw1po?at_medium=RSS&at_campaign=rss",
@@ -339,29 +451,9 @@
       "en": "Is Wales set to host football's closest derby?",
       "text_for_match": "Is Wales set to host football's closest derby? Cwmbran Celtic and Cwmbran Town are separated by just 40 metres but will meet on the pitch for the first time in 16 years. Cwmbran Celtic and Cwmbran Town are separated by just 40 metres but will meet on the pitch for the first time in 16 years.",
       "score_detail": {
-        "fresh": 0.9332535068334172,
+        "fresh": 0.910011546192725,
         "trust": 1,
         "relevance": 0
-      },
-      "score": 0.86
-    },
-    {
-      "id": "https://bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-      "ts": 1785182463000,
-      "url": "https://bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [],
-      "ja": "Pirlo out of running for Italy job over link to Russian betting company",
-      "en": "Pirlo out of running for Italy job over link to Russian betting company",
-      "text_for_match": "Pirlo out of running for Italy job over link to Russian betting company Andrea Pirlo says he is no longer a candidate to coach Italy following days of controversy over his link to a Russian betting company. Andrea Pirlo says he is no longer a candidate to coach Italy following days of controversy over his link to a Russian betting company.",
-      "score_detail": {
-        "fresh": 0.8548823065465168,
-        "trust": 1,
-        "relevance": 0.3333333333333333
       },
       "score": 0.846
     },
@@ -379,11 +471,11 @@
       "en": "Wrexham close in on Palace defender Imray",
       "text_for_match": "Wrexham close in on Palace defender Imray Wrexham are closing in on the signing of Crystal Palace full-back Danny Imray. Wrexham are closing in on the signing of Crystal Palace full-back Danny Imray.",
       "score_detail": {
-        "fresh": 0.8338680887893961,
+        "fresh": 0.813101245528413,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.834
+      "score": 0.821
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpw9zw972l2o?at_medium=RSS&at_campaign=rss",
@@ -399,11 +491,11 @@
       "en": "Liverpool's centre-back situation and why Iraola must act",
       "text_for_match": "Liverpool's centre-back situation and why Iraola must act BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them. BBC Sport looks at Liverpool's issues at centre-back, and what Andoni Iraola might do to fix them.",
       "score_detail": {
-        "fresh": 0.8302701050222421,
+        "fresh": 0.8095928667790699,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.831
+      "score": 0.819
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss",
@@ -419,11 +511,11 @@
       "en": "Salah, Stones & Sancho - who are the Premier League free agents?",
       "text_for_match": "Salah, Stones & Sancho - who are the Premier League free agents? BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season. BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.",
       "score_detail": {
-        "fresh": 0.8075037000378921,
+        "fresh": 0.7873934415967802,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.818
+      "score": 0.806
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss",
@@ -437,11 +529,11 @@
       "en": "Inter in advanced talks with England defender Stones",
       "text_for_match": "Inter in advanced talks with England defender Stones England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer. England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
       "score_detail": {
-        "fresh": 0.8550446356427978,
+        "fresh": 0.8337504067734364,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.813
+      "score": 0.8
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss",
@@ -455,11 +547,11 @@
       "en": "Chelsea open talks to sign Henderson and Welbeck",
       "text_for_match": "Chelsea open talks to sign Henderson and Welbeck Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck. Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.",
       "score_detail": {
-        "fresh": 0.8458047017674419,
+        "fresh": 0.824740586343014,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.807
+      "score": 0.795
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p14zfp?at_medium=RSS&at_campaign=rss",
@@ -473,11 +565,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Everything you need to know about Harvey Barnes' new deal at St James' Park. Everything you need to know about Harvey Barnes' new deal at St James' Park.",
       "score_detail": {
-        "fresh": 0.8419435454371105,
+        "fresh": 0.8209755891407222,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.805
+      "score": 0.793
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p14yrv?at_medium=RSS&at_campaign=rss",
@@ -491,11 +583,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Man City fans have their say on the noise surrounding Rodri and Real Madrid. Man City fans have their say on the noise surrounding Rodri and Real Madrid.",
       "score_detail": {
-        "fresh": 0.8412683639980283,
+        "fresh": 0.8203172225759667,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.805
+      "score": 0.792
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p14s59?at_medium=RSS&at_campaign=rss",
@@ -509,11 +601,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC The Redmen TV's Luke Fury on Liverpool's reported interest in PSG winger Bradley Barcola The Redmen TV's Luke Fury on Liverpool's reported interest in PSG winger Bradley Barcola",
       "score_detail": {
-        "fresh": 0.8379005698673638,
+        "fresh": 0.8170333007673003,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.803
+      "score": 0.79
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/clyjxd53zkpo?at_medium=RSS&at_campaign=rss",
@@ -527,29 +619,11 @@
       "en": "English football agrees trial to end goalkeeper tactical timeouts",
       "text_for_match": "English football agrees trial to end goalkeeper tactical timeouts English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season. English football will implement a trial to try to eradicate the goalkeeper tactical timeout this season.",
       "score_detail": {
-        "fresh": 0.8348051781806933,
+        "fresh": 0.8140149974293179,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.801
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&at_campaign=rss",
-      "ts": 1785170832000,
-      "url": "https://bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title",
-      "en": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title",
-      "text_for_match": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title. Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title.",
-      "score_detail": {
-        "fresh": 0.8287018423881609,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.797
+      "score": 0.788
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn0nwjg06l1o?at_medium=RSS&at_campaign=rss",
@@ -565,11 +639,29 @@
       "en": "Gossip: West Ham reject Brentford bid for Diouf",
       "text_for_match": "Gossip: West Ham reject Brentford bid for Diouf West Ham reportedly reject an offer from Brentford for left-back El Hadji Malick Diouf. West Ham reportedly reject an offer from Brentford for left-back El Hadji Malick Diouf.",
       "score_detail": {
-        "fresh": 0.7733509110570511,
+        "fresh": 0.7540912015519469,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.797
+      "score": 0.786
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&at_campaign=rss",
+      "ts": 1785170832000,
+      "url": "https://bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title",
+      "en": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title",
+      "text_for_match": "'Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title. Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title.",
+      "score_detail": {
+        "fresh": 0.8080636605194345,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.785
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p146t9?at_medium=RSS&at_campaign=rss",
@@ -583,11 +675,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United Mason Mount reflects on Friday's 5-0 friendly win over Rosenborg in Trondheim. Mason Mount reflects on Friday's 5-0 friendly win over Rosenborg in Trondheim.",
       "score_detail": {
-        "fresh": 0.8261506176859023,
+        "fresh": 0.8055759721057419,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.796
+      "score": 0.783
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gd0pvr3z0o?at_medium=RSS&at_campaign=rss",
@@ -601,11 +693,11 @@
       "en": "The Chelsea academy stars looking to break through",
       "text_for_match": "The Chelsea academy stars looking to break through BBC Sport takes a look at the seven academy players Chelsea are showcasing on their pre-season tour. BBC Sport takes a look at the seven academy players Chelsea are showcasing on their pre-season tour.",
       "score_detail": {
-        "fresh": 0.8182222619059062,
+        "fresh": 0.7978450659272044,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.791
+      "score": 0.779
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p13jr2?at_medium=RSS&at_campaign=rss",
@@ -619,11 +711,11 @@
       "en": "Everton FC",
       "text_for_match": "Everton FC The Athletic's Everton correspondent Paddy Boyland on reported interest in Iliman Ndiaye The Athletic's Everton correspondent Paddy Boyland on reported interest in Iliman Ndiaye",
       "score_detail": {
-        "fresh": 0.8113088791976476,
+        "fresh": 0.7911038556968661,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.787
+      "score": 0.775
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p13751?at_medium=RSS&at_campaign=rss",
@@ -637,11 +729,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Former Man City and England midfielder Izzy Christiansen on a new era under Enzo Maresca. Former Man City and England midfielder Izzy Christiansen on a new era under Enzo Maresca.",
       "score_detail": {
-        "fresh": 0.802505086806738,
+        "fresh": 0.7825193149827412,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.782
+      "score": 0.77
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c3r087181ndo?at_medium=RSS&at_campaign=rss",
@@ -657,11 +749,11 @@
       "en": "Japan legend Miura, 59, scores first goal since 2022",
       "text_for_match": "Japan legend Miura, 59, scores first goal since 2022 Kazuyoshi Miura, the world's oldest professional footballer, scores his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United. Kazuyoshi Miura, the world's oldest professional footballer, scores his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United.",
       "score_detail": {
-        "fresh": 0.684646510172062,
+        "fresh": 0.6675959155311713,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.777
+      "score": 0.767
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p12q6q?at_medium=RSS&at_campaign=rss",
@@ -675,29 +767,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United Joe and Gaz discuss the pre-season win over Rosenborg and season ticket restrictions. Joe and Gaz discuss the pre-season win over Rosenborg and season ticket restrictions.",
       "score_detail": {
-        "fresh": 0.7917615963888256,
+        "fresh": 0.7720433829287764,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.775
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cz051zggn1po?at_medium=RSS&at_campaign=rss",
-      "ts": 1785150291000,
-      "url": "https://bbc.co.uk/sport/football/articles/cz051zggn1po?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Martin & Foxes must 'find own way' after struggles",
-      "en": "Martin & Foxes must 'find own way' after struggles",
-      "text_for_match": "Martin & Foxes must 'find own way' after struggles Leicester City manager Russell Martin says history should not be used to judge what he can achieve with the former Premier League champions. Leicester City manager Russell Martin says history should not be used to judge what he can achieve with the former Premier League champions.",
-      "score_detail": {
-        "fresh": 0.784408649787494,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.771
+      "score": 0.763
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c20exvzpklxo?at_medium=RSS&at_campaign=rss",
@@ -711,11 +785,11 @@
       "en": "Alonso expects Rogers and Palmer to 'link up well'",
       "text_for_match": "Alonso expects Rogers and Palmer to 'link up well' Chelsea boss Xabi Alonso has backed new signing Morgan Rogers to hit the ground running at Stamford Bridge. Chelsea boss Xabi Alonso has backed new signing Morgan Rogers to hit the ground running at Stamford Bridge.",
       "score_detail": {
-        "fresh": 0.7840793880049105,
+        "fresh": 0.7645524940347804,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.77
+      "score": 0.759
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss",
@@ -729,11 +803,11 @@
       "en": "Brighton captain Symonds signs new 'long-term' deal",
       "text_for_match": "Brighton captain Symonds signs new 'long-term' deal Brighton captain Maisie Symonds signs a new contract, described by the club as long-term. Brighton captain Maisie Symonds signs a new contract, described by the club as long-term.",
       "score_detail": {
-        "fresh": 0.783880220289424,
+        "fresh": 0.7643582864380294,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.77
+      "score": 0.759
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4g4917vdg7o?at_medium=RSS&at_campaign=rss",
@@ -747,11 +821,11 @@
       "en": "York appoint Lindsey after shock Maynard sacking",
       "text_for_match": "York appoint Lindsey after shock Maynard sacking York City appoint former Crawley Town boss Scott Lindsey as their new head coach, one day after sacking title-winning Stuart Maynard. York City appoint former Crawley Town boss Scott Lindsey as their new head coach, one day after sacking title-winning Stuart Maynard.",
       "score_detail": {
-        "fresh": 0.7826946481864376,
+        "fresh": 0.7632022400962135,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.77
+      "score": 0.758
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p1231x?at_medium=RSS&at_campaign=rss",
@@ -765,11 +839,11 @@
       "en": "Leeds United: Don't Go To Bed Just Yet",
       "text_for_match": "Leeds United: Don't Go To Bed Just Yet Jonny, Adam and Simon do some plane spotting and talk about the game in Tampa. Jonny, Adam and Simon do some plane spotting and talk about the game in Tampa.",
       "score_detail": {
-        "fresh": 0.7821652817003839,
+        "fresh": 0.7626860570752563,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.769
+      "score": 0.758
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4g621z2lvzo?at_medium=RSS&at_campaign=rss",
@@ -783,11 +857,11 @@
       "en": "Cardiff teenager Donczew close to Arsenal move",
       "text_for_match": "Cardiff teenager Donczew close to Arsenal move Arsenal are close to completing the signing of Cardiff City teenager Axel Donczew. Arsenal are close to completing the signing of Cardiff City teenager Axel Donczew.",
       "score_detail": {
-        "fresh": 0.7816341830127758,
+        "fresh": 0.7621681849918915,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.769
+      "score": 0.757
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
@@ -801,11 +875,11 @@
       "en": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
       "text_for_match": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future? With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future. With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.",
       "score_detail": {
-        "fresh": 0.7796092876116396,
+        "fresh": 0.7601937180529793,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.768
+      "score": 0.756
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
@@ -819,29 +893,11 @@
       "en": "Meditate, pray or watch football instead of spreading hate - Infantino",
       "text_for_match": "Meditate, pray or watch football instead of spreading hate - Infantino Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup. Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
       "score_detail": {
-        "fresh": 0.762398080856571,
+        "fresh": 0.7434111431616552,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.757
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
-      "ts": 1785135641000,
-      "url": "https://bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Record Spurs spend shows new ambition - Van de Ven",
-      "en": "Record Spurs spend shows new ambition - Van de Ven",
-      "text_for_match": "Record Spurs spend shows new ambition - Van de Ven Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season. Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season.",
-      "score_detail": {
-        "fresh": 0.75427226733955,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.753
+      "score": 0.746
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c3vy76rvk06o?at_medium=RSS&at_campaign=rss",
@@ -857,11 +913,29 @@
       "en": "All done deals in July 2026",
       "text_for_match": "All done deals in July 2026 Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "score_detail": {
-        "fresh": 0.6985241137330874,
+        "fresh": 0.6811279080514765,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.752
+      "score": 0.742
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
+      "ts": 1785135641000,
+      "url": "https://bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Record Spurs spend shows new ambition - Van de Ven",
+      "en": "Record Spurs spend shows new ambition - Van de Ven",
+      "text_for_match": "Record Spurs spend shows new ambition - Van de Ven Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season. Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season.",
+      "score_detail": {
+        "fresh": 0.7354876967791303,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.741
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c9d8eeqg6d2o?at_medium=RSS&at_campaign=rss",
@@ -875,11 +949,11 @@
       "en": "How many midfielders do Rangers need after busy summer of recruitment?",
       "text_for_match": "How many midfielders do Rangers need after busy summer of recruitment? Rangers have a team full of central midfielders, but are they good enough to provide enough ammunition for their strikers? Rangers have a team full of central midfielders, but are they good enough to provide enough ammunition for their strikers?",
       "score_detail": {
-        "fresh": 0.7506362338787418,
+        "fresh": 0.7319422159344822,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.75
+      "score": 0.739
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss",
@@ -893,11 +967,11 @@
       "en": "Rogers and Palmer can play together - Alonso",
       "text_for_match": "Rogers and Palmer can play together - Alonso Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer. Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
       "score_detail": {
-        "fresh": 0.7481732679855204,
+        "fresh": 0.7295405883120847,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.749
+      "score": 0.738
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
@@ -911,11 +985,11 @@
       "en": "Diomande agrees Real Madrid terms as PSG step away",
       "text_for_match": "Diomande agrees Real Madrid terms as PSG step away RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest. RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.",
       "score_detail": {
-        "fresh": 0.7453615099187257,
+        "fresh": 0.726798854916873,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.747
+      "score": 0.736
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/czxqpnvg3xlo?at_medium=RSS&at_campaign=rss",
@@ -929,11 +1003,11 @@
       "en": "Glamour club Wrexham proving it can produce its own",
       "text_for_match": "Glamour club Wrexham proving it can produce its own Despite the club's high-profile recruitment, there remains a firm desire to develop the next generation of homegrown talent. Despite the club's high-profile recruitment, there remains a firm desire to develop the next generation of homegrown talent.",
       "score_detail": {
-        "fresh": 0.7403376384870226,
+        "fresh": 0.7219000991383386,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.744
+      "score": 0.733
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0zm39?at_medium=RSS&at_campaign=rss",
@@ -947,11 +1021,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth Cherries keeper Djordje Petrovic on Austria, Marco Rose and Bournemouth's ambitions Cherries keeper Djordje Petrovic on Austria, Marco Rose and Bournemouth's ambitions",
       "score_detail": {
-        "fresh": 0.6772099308602939,
+        "fresh": 0.6603445385062415,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.706
+      "score": 0.696
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0zld5?at_medium=RSS&at_campaign=rss",
@@ -965,11 +1039,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth Jordan Clark runs through the key talking points from Marco Rose's first game Jordan Clark runs through the key talking points from Marco Rose's first game",
       "score_detail": {
-        "fresh": 0.6752568935384062,
+        "fresh": 0.6584401400763942,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.705
+      "score": 0.695
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cp87vyrgvzlo?at_medium=RSS&at_campaign=rss",
@@ -983,11 +1057,11 @@
       "en": "Holders St Mirren visit Rangers in League Cup last 16",
       "text_for_match": "Holders St Mirren visit Rangers in League Cup last 16 Holders St Mirren are drawn away to Rangers in the last 16 of the Premier Sports Cup, while Celtic visit Dundee United. Holders St Mirren are drawn away to Rangers in the last 16 of the Premier Sports Cup, while Celtic visit Dundee United.",
       "score_detail": {
-        "fresh": 0.656161720705997,
+        "fresh": 0.6398205178335604,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.694
+      "score": 0.684
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
@@ -1001,11 +1075,11 @@
       "en": "Chiesa happy but wants new chapter at Liverpool",
       "text_for_match": "Chiesa happy but wants new chapter at Liverpool Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future. Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
       "score_detail": {
-        "fresh": 0.6530335630974218,
+        "fresh": 0.6367702645837517,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.692
+      "score": 0.682
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5y3gg1083no?at_medium=RSS&at_campaign=rss",
@@ -1019,11 +1093,11 @@
       "en": "Gittens keen to impress 'world-class' Alonso",
       "text_for_match": "Gittens keen to impress 'world-class' Alonso Chelsea winger Jamie Gittens says he will be involved in Xabi Alonso's squad next season and describes his new manager as \"one of the best to do it\". Chelsea winger Jamie Gittens says he will be involved in Xabi Alonso's squad next season and describes his new manager as \"one of the best to do it\".",
       "score_detail": {
-        "fresh": 0.6528257830564373,
+        "fresh": 0.6365676591448439,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.692
+      "score": 0.682
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy8e72w18z9o?at_medium=RSS&at_campaign=rss",
@@ -1037,11 +1111,11 @@
       "en": "Quenda, Emegha and what we learned from Chelsea in Australia",
       "text_for_match": "Quenda, Emegha and what we learned from Chelsea in Australia Chelsea manager Xabi Alonso oversees an open training session at Sydney's Allianz Stadium on Sunday evening. Chelsea manager Xabi Alonso oversees an open training session at Sydney's Allianz Stadium on Sunday evening.",
       "score_detail": {
-        "fresh": 0.6210374591148737,
+        "fresh": 0.6055709989564553,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.673
+      "score": 0.663
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy9wvln2234o?at_medium=RSS&at_campaign=rss",
@@ -1055,11 +1129,11 @@
       "en": "Wilson makes Leeds debut in defeat by Wrexham",
       "text_for_match": "Wilson makes Leeds debut in defeat by Wrexham Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game. Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game.",
       "score_detail": {
-        "fresh": 0.5951975391857763,
+        "fresh": 0.5803746023546781,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.657
+      "score": 0.648
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0wjt5?at_medium=RSS&at_campaign=rss",
@@ -1073,11 +1147,11 @@
       "en": "Wolverhampton Wanderers",
       "text_for_match": "Wolverhampton Wanderers Summary of Wolves v Real Sociedad and Marshall Munetsi interview. Summary of Wolves v Real Sociedad and Marshall Munetsi interview.",
       "score_detail": {
-        "fresh": 0.5501536546551293,
+        "fresh": 0.5364525011162444,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.63
+      "score": 0.622
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
@@ -1093,27 +1167,9 @@
       "en": "Could Mount be final piece in Man Utd midfield jigsaw?",
       "text_for_match": "Could Mount be final piece in Man Utd midfield jigsaw? Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games. Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
       "score_detail": {
-        "fresh": 0.49391132513668656,
+        "fresh": 0.48161084354753136,
         "trust": 1,
         "relevance": 0.3333333333333333
-      },
-      "score": 0.63
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "ts": 1785008570000,
-      "url": "https://bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Who has your Premiership club brought in & let go this summer?",
-      "en": "Who has your Premiership club brought in & let go this summer?",
-      "text_for_match": "Who has your Premiership club brought in & let go this summer? Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window. Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.",
-      "score_detail": {
-        "fresh": 0.5369703121522384,
-        "trust": 1,
-        "relevance": 0
       },
       "score": 0.622
     },
@@ -1129,11 +1185,11 @@
       "en": "Howe unsure over Guimaraes amid Arsenal interest",
       "text_for_match": "Howe unsure over Guimaraes amid Arsenal interest Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes. Newcastle United head coach Eddie Howe says he has had positive discussions with captain Bruno Guimaraes.",
       "score_detail": {
-        "fresh": 0.5126571560207799,
+        "fresh": 0.499889823934525,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.608
+      "score": 0.6
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2dgkg5rq0o?at_medium=RSS&at_campaign=rss",
@@ -1147,29 +1203,11 @@
       "en": "Ipswich sign Japan forward Maeda from Celtic",
       "text_for_match": "Ipswich sign Japan forward Maeda from Celtic Ipswich Town sign Japan forward Daizen Maeda from Celtic on a contract until summer 2029. Ipswich Town sign Japan forward Daizen Maeda from Celtic on a contract until summer 2029.",
       "score_detail": {
-        "fresh": 0.5001903963321287,
+        "fresh": 0.4877335393053073,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.6
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
-      "ts": 1784977730000,
-      "url": "https://bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Growing concerns before Defoe exit - Woking director",
-      "en": "Growing concerns before Defoe exit - Woking director",
-      "text_for_match": "Growing concerns before Defoe exit - Woking director Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager. Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.",
-      "score_detail": {
-        "fresh": 0.4944624089738632,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.597
+      "score": 0.593
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
@@ -1183,11 +1221,11 @@
       "en": "Unhappy Tottenham players should leave - De Zerbi",
       "text_for_match": "Unhappy Tottenham players should leave - De Zerbi Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave. Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
       "score_detail": {
-        "fresh": 0.4911296428765559,
+        "fresh": 0.4788984369441557,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.595
+      "score": 0.587
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c0m7w21v2rzo?at_medium=RSS&at_campaign=rss",
@@ -1201,11 +1239,11 @@
       "en": "Chelsea in talks for Villa set-piece guru MacPhee",
       "text_for_match": "Chelsea in talks for Villa set-piece guru MacPhee Chelsea are looking to sign highly regarded set-piece coach Austin MacPhee from Aston Villa but they face competition from Premier League and Saudi Pro League clubs. Chelsea are looking to sign highly regarded set-piece coach Austin MacPhee from Aston Villa but they face competition from Premier League and Saudi Pro League clubs.",
       "score_detail": {
-        "fresh": 0.48977873460154203,
+        "fresh": 0.4775811720004845,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.594
+      "score": 0.587
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0t8b0?at_medium=RSS&at_campaign=rss",
@@ -1219,11 +1257,11 @@
       "en": "Aston Villa",
       "text_for_match": "Aston Villa Garnacho's arrival has got fans talking, Mike Taylor & Richard Wilford have their say. Garnacho's arrival has got fans talking, Mike Taylor & Richard Wilford have their say.",
       "score_detail": {
-        "fresh": 0.4798596109969738,
+        "fresh": 0.4679090765385586,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.588
+      "score": 0.581
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
@@ -1237,11 +1275,11 @@
       "en": "On the move - football's youngest journeymen",
       "text_for_match": "On the move - football's youngest journeymen The players who had appeared for a remarkable number of clubs by their 23rd birthday. The players who had appeared for a remarkable number of clubs by their 23rd birthday.",
       "score_detail": {
-        "fresh": 0.4778466068139331,
+        "fresh": 0.46594620467610304,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.587
+      "score": 0.58
     },
     {
       "id": "https://bbc.co.uk/news/articles/c1w10e28lvpo?at_medium=RSS&at_campaign=rss",
@@ -1255,11 +1293,11 @@
       "en": "West Ham stadium deal costs taxpayers £19m a year",
       "text_for_match": "West Ham stadium deal costs taxpayers £19m a year West Ham's relegation means it will pay less than half the £4.6m rent it previously paid. West Ham's relegation means it will pay less than half the £4.6m rent it previously paid.",
       "score_detail": {
-        "fresh": 0.4756639323491975,
+        "fresh": 0.4638178880397918,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.585
+      "score": 0.578
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cq6dy718z2vo?at_medium=RSS&at_campaign=rss",
@@ -1275,11 +1313,11 @@
       "en": "Palace want teenage Brest defender Le Guen",
       "text_for_match": "Palace want teenage Brest defender Le Guen Crystal Palace are interested in signing 19-year-old Brest centre-back Raphael le Guen. Crystal Palace are interested in signing 19-year-old Brest centre-back Raphael le Guen.",
       "score_detail": {
-        "fresh": 0.4165417644559681,
+        "fresh": 0.40616811225557164,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.583
+      "score": 0.577
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
@@ -1293,11 +1331,11 @@
       "en": "How do Manchester City manage the Rodri dilemma?",
       "text_for_match": "How do Manchester City manage the Rodri dilemma? BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri. BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
       "score_detail": {
-        "fresh": 0.468806821328575,
+        "fresh": 0.4571315480939986,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.581
+      "score": 0.574
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
@@ -1313,11 +1351,11 @@
       "en": "Chelsea agree deal to sign Palace defender Lacroix",
       "text_for_match": "Chelsea agree deal to sign Palace defender Lacroix Chelsea agree deal to sign France defender Maxence Lacroix from Crystal Palace after two impressive seasons. Chelsea agree deal to sign France defender Maxence Lacroix from Crystal Palace after two impressive seasons.",
       "score_detail": {
-        "fresh": 0.38532323388557077,
+        "fresh": 0.37572705517277943,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.565
+      "score": 0.559
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0rddq?at_medium=RSS&at_campaign=rss",
@@ -1331,11 +1369,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Enzo Maresca on chasing trophies, his next captain and the 115 charges facing the club. Enzo Maresca on chasing trophies, his next captain and the 115 charges facing the club.",
       "score_detail": {
-        "fresh": 0.43358537431291577,
+        "fresh": 0.4227872641205912,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.56
+      "score": 0.554
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cevmx0y88vwo?at_medium=RSS&at_campaign=rss",
@@ -1349,11 +1387,11 @@
       "en": "West Ham winger Summerville joins Al-Hilal",
       "text_for_match": "West Ham winger Summerville joins Al-Hilal West Ham confirm the sale of Netherlands winger Crysencio Summerville to Saudi club Al-Hilal. West Ham confirm the sale of Netherlands winger Crysencio Summerville to Saudi club Al-Hilal.",
       "score_detail": {
-        "fresh": 0.4252691722280407,
+        "fresh": 0.41467817065102963,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.555
+      "score": 0.549
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0rf29?at_medium=RSS&at_campaign=rss",
@@ -1367,11 +1405,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth The new Cherries boss spoke to Jordan Clark for the first time after a 4-1 friendly win. The new Cherries boss spoke to Jordan Clark for the first time after a 4-1 friendly win.",
       "score_detail": {
-        "fresh": 0.42205388482362316,
+        "fresh": 0.4115429575059154,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.553
+      "score": 0.547
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0qqt6?at_medium=RSS&at_campaign=rss",
@@ -1385,11 +1423,11 @@
       "en": "Burnley FC",
       "text_for_match": "Burnley FC Burnley defender Connor Roberts is targetting a third promotion with the clarets Burnley defender Connor Roberts is targetting a third promotion with the clarets",
       "score_detail": {
-        "fresh": 0.41480325170070176,
+        "fresh": 0.4044728958230466,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.549
+      "score": 0.543
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0qpww?at_medium=RSS&at_campaign=rss",
@@ -1403,11 +1441,11 @@
       "en": "Burnley FC",
       "text_for_match": "Burnley FC New Burnley head coach Nicky Hayen speaks to BBC Radio Lancashire for the first time New Burnley head coach Nicky Hayen speaks to BBC Radio Lancashire for the first time",
       "score_detail": {
-        "fresh": 0.41453711516492164,
+        "fresh": 0.4042133872129527,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.549
+      "score": 0.543
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0phd3?at_medium=RSS&at_campaign=rss",
@@ -1421,11 +1459,11 @@
       "en": "Manchester City",
       "text_for_match": "Manchester City Enzo Maresca on the challenge of succeeding Pep Guardiola and his vision for Man City. Enzo Maresca on the challenge of succeeding Pep Guardiola and his vision for Man City.",
       "score_detail": {
-        "fresh": 0.4041601847386795,
+        "fresh": 0.3940948862560583,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.542
+      "score": 0.536
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c935k71xnvno?at_medium=RSS&at_campaign=rss",
@@ -1439,11 +1477,11 @@
       "en": "Gossip: West Ham put together transfer shortlists",
       "text_for_match": "Gossip: West Ham put together transfer shortlists West Ham reportedly want to overhaul the squad for the Championship season. West Ham reportedly want to overhaul the squad for the Championship season.",
       "score_detail": {
-        "fresh": 0.38745590776560423,
+        "fresh": 0.37780661645048547,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.532
+      "score": 0.527
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
@@ -1457,11 +1495,11 @@
       "en": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
       "text_for_match": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet. Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet.",
       "score_detail": {
-        "fresh": 0.3864893732331032,
+        "fresh": 0.3768641527169664,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.532
+      "score": 0.526
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss",
@@ -1478,11 +1516,11 @@
       "en": "Saliba to miss extended period with back injury",
       "text_for_match": "Saliba to miss extended period with back injury Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France. Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France. ",
       "score_detail": {
-        "fresh": 0.27069697146526567,
+        "fresh": 0.26395547163667377,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.529
+      "score": 0.525
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0m81k?at_medium=RSS&at_campaign=rss",
@@ -1496,11 +1534,11 @@
       "en": "AFC Bournemouth",
       "text_for_match": "AFC Bournemouth Bournemouth's Marcus Tavernier speaks to Jordan Clark from their training camp. Bournemouth's Marcus Tavernier speaks to Jordan Clark from their training camp.",
       "score_detail": {
-        "fresh": 0.38031523218921715,
+        "fresh": 0.3708437739060443,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.528
+      "score": 0.523
     },
     {
       "id": "https://bbc.co.uk/news/articles/c79gdjr0ny4o?at_medium=RSS&at_campaign=rss",
@@ -1514,11 +1552,11 @@
       "en": "Man Utd mascot, six, hit by club's ticket tout crackdown",
       "text_for_match": "Man Utd mascot, six, hit by club's ticket tout crackdown Ruari's mum denies any wrongdoing and says she manages other family members' tickets for them. Ruari's mum denies any wrongdoing and says she manages other family members' tickets for them.",
       "score_detail": {
-        "fresh": 0.3786793068314487,
+        "fresh": 0.36924859001080235,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.527
+      "score": 0.522
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss",
@@ -1532,11 +1570,11 @@
       "en": "Why Rogers and Palmer will thrive together in Alonso's Chelsea",
       "text_for_match": "Why Rogers and Palmer will thrive together in Alonso's Chelsea Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea. Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.",
       "score_detail": {
-        "fresh": 0.3716238513044797,
+        "fresh": 0.36236884517600776,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.523
+      "score": 0.517
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0k86b?at_medium=RSS&at_campaign=rss",
@@ -1550,11 +1588,11 @@
       "en": "Manchester United",
       "text_for_match": "Manchester United MUST CEO Duncan Drasdo on potential bans for season-ticket holders. MUST CEO Duncan Drasdo on potential bans for season-ticket holders.",
       "score_detail": {
-        "fresh": 0.33557614584905265,
+        "fresh": 0.32721888009363875,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.501
+      "score": 0.496
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0jn54?at_medium=RSS&at_campaign=rss",
@@ -1568,11 +1606,11 @@
       "en": "Sunderland AFC",
       "text_for_match": "Sunderland AFC Simon Pryde, Nick Barnes and Marco Gabbiadini discus the Black Cats transfer strategy. Simon Pryde, Nick Barnes and Marco Gabbiadini discus the Black Cats transfer strategy.",
       "score_detail": {
-        "fresh": 0.33129619827044166,
+        "fresh": 0.3230455213169319,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.499
+      "score": 0.494
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
@@ -1586,11 +1624,11 @@
       "en": "Anderson's journey to England star and  Man City record signing",
       "text_for_match": "Anderson's journey to England star and  Man City record signing Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing. Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing.",
       "score_detail": {
-        "fresh": 0.330423806829747,
+        "fresh": 0.32219485611394166,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.498
+      "score": 0.493
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
@@ -1604,11 +1642,11 @@
       "en": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
       "text_for_match": "Arsenal set to make £70m bid for Newcastle's Guimaraes Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes. Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
       "score_detail": {
-        "fresh": 0.3293510792639187,
+        "fresh": 0.32114884400289667,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.498
+      "score": 0.493
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cp8xk0x902do?at_medium=RSS&at_campaign=rss",
@@ -1622,11 +1660,11 @@
       "en": "Arsenal sign Greece forward Tzolis for £34m",
       "text_for_match": "Arsenal sign Greece forward Tzolis for £34m Arsenal sign \"extremely versatile attacking player\" Christos Tzolis from Club Brugge for £34m. Arsenal sign \"extremely versatile attacking player\" Christos Tzolis from Club Brugge for £34m.",
       "score_detail": {
-        "fresh": 0.32185623147585685,
+        "fresh": 0.31384064963324976,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.493
+      "score": 0.488
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss",
@@ -1640,11 +1678,11 @@
       "en": "Garnacho joins Villa on loan from Chelsea",
       "text_for_match": "Garnacho joins Villa on loan from Chelsea Aston Villa sign Chelsea winger Alejandro Garnacho in a loan deal that will become permanent \"if certain criteria are met\". Aston Villa sign Chelsea winger Alejandro Garnacho in a loan deal that will become permanent \"if certain criteria are met\".",
       "score_detail": {
-        "fresh": 0.3213153055114302,
+        "fresh": 0.31331319501383564,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.493
+      "score": 0.488
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss",
@@ -1658,11 +1696,11 @@
       "en": "Garnacho, Rogers and two clubs trying to balance the books",
       "text_for_match": "Garnacho, Rogers and two clubs trying to balance the books How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him? How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?",
       "score_detail": {
-        "fresh": 0.31982624129796533,
+        "fresh": 0.3118612147990778,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.492
+      "score": 0.487
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/crmr7d079dxo?at_medium=RSS&at_campaign=rss",
@@ -1676,11 +1714,11 @@
       "en": "Gossip: West Ham eye Celtic midfielder Hatate",
       "text_for_match": "Gossip: West Ham eye Celtic midfielder Hatate West Ham reportedly consider a move for Celtic midfielder Reo Hatate. West Ham reportedly consider a move for Celtic midfielder Reo Hatate.",
       "score_detail": {
-        "fresh": 0.3097863666853266,
+        "fresh": 0.3020713755400444,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.486
+      "score": 0.481
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p0b0gm?at_medium=RSS&at_campaign=rss",
@@ -1694,11 +1732,11 @@
       "en": "Wolverhampton Wanderers",
       "text_for_match": "Wolverhampton Wanderers Wolves forward Mateus Mané speaks to Mike Taylor after the friendly win at Maidenhead. Wolves forward Mateus Mané speaks to Mike Taylor after the friendly win at Maidenhead.",
       "score_detail": {
-        "fresh": 0.29786310326085574,
+        "fresh": 0.2904450518186563,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.479
+      "score": 0.474
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p081bd?at_medium=RSS&at_campaign=rss",
@@ -1712,11 +1750,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Football Finance Expert Kieran Maguire on potential Liverpool investment Football Finance Expert Kieran Maguire on potential Liverpool investment",
       "score_detail": {
-        "fresh": 0.2964327778475439,
+        "fresh": 0.2890503475594213,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.478
+      "score": 0.473
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cly9nrel0pyo?at_medium=RSS&at_campaign=rss",
@@ -1730,11 +1768,11 @@
       "en": "Villa agree loan deal for Chelsea winger Garnacho",
       "text_for_match": "Villa agree loan deal for Chelsea winger Garnacho Aston Villa agree a loan deal for Chelsea winger Alejandro Garnacho until the end of the 2026-27 season, with an obligation to buy. Aston Villa agree a loan deal for Chelsea winger Alejandro Garnacho until the end of the 2026-27 season, with an obligation to buy.",
       "score_detail": {
-        "fresh": 0.27006502852177877,
+        "fresh": 0.263339266746044,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.462
+      "score": 0.458
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p09l7y?at_medium=RSS&at_campaign=rss",
@@ -1748,11 +1786,11 @@
       "en": "Wolverhampton Wanderers",
       "text_for_match": "Wolverhampton Wanderers BBC Sport was told the striker sat down & demanded the club let him move to Fiorentina. BBC Sport was told the striker sat down & demanded the club let him move to Fiorentina.",
       "score_detail": {
-        "fresh": 0.26754625128227344,
+        "fresh": 0.26088321771600653,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.461
+      "score": 0.457
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cr496r9q442o?at_medium=RSS&at_campaign=rss",
@@ -1766,11 +1804,11 @@
       "en": "How can Chelsea afford to keep spending big?",
       "text_for_match": "How can Chelsea afford to keep spending big? Chelsea's latest signing is England midfielder Morgan Rogers, who joins on a record fee for a British player of £117m. But how can Chelsea afford Rogers and continue to bid for others? Chelsea's latest signing is England midfielder Morgan Rogers, who joins on a record fee for a British player of £117m. But how can Chelsea afford Rogers and continue to bid for others? ",
       "score_detail": {
-        "fresh": 0.2669844851702406,
+        "fresh": 0.26033544195683017,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.46
+      "score": 0.456
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p08blp?at_medium=RSS&at_campaign=rss",
@@ -1784,11 +1822,11 @@
       "en": "Leeds United: Don't Go To Bed Just Yet",
       "text_for_match": "Leeds United: Don't Go To Bed Just Yet Leeds United fan & author Ian Hall discusses his book \"Revie's Boys\" recalling the 1980s. Leeds United fan & author Ian Hall discusses his book \"Revie's Boys\" recalling the 1980s.",
       "score_detail": {
-        "fresh": 0.26029630406719073,
+        "fresh": 0.25381382485896936,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.456
+      "score": 0.452
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss",
@@ -1802,11 +1840,11 @@
       "en": "Ipswich sign Diop from Fulham",
       "text_for_match": "Ipswich sign Diop from Fulham Ipswich Town sign Morocco defender Issa Diop from Fulham for £8.5m Ipswich Town sign Morocco defender Issa Diop from Fulham for £8.5m",
       "score_detail": {
-        "fresh": 0.25277867062420944,
+        "fresh": 0.24648341229360982,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.452
+      "score": 0.448
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p064vh?at_medium=RSS&at_campaign=rss",
@@ -1820,11 +1858,11 @@
       "en": "Liverpool FC",
       "text_for_match": "Liverpool FC Andoni Iraola discusses his squad's fitness, Dominik Szoboszlai and transfer targets Andoni Iraola discusses his squad's fitness, Dominik Szoboszlai and transfer targets",
       "score_detail": {
-        "fresh": 0.2501105810232886,
+        "fresh": 0.2438817694116526,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.45
+      "score": 0.446
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss",
@@ -1838,11 +1876,11 @@
       "en": "Middlesbrough sign Tottenham striker Lankshear",
       "text_for_match": "Middlesbrough sign Tottenham striker Lankshear Tottenham striker Will Lankshear signs a five-year contract with Middlesbrough in a deal which could rise to a Boro club-record £20m. Tottenham striker Will Lankshear signs a five-year contract with Middlesbrough in a deal which could rise to a Boro club-record £20m.",
       "score_detail": {
-        "fresh": 0.24608283424592878,
+        "fresh": 0.23995433056925872,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.448
+      "score": 0.444
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
@@ -1856,11 +1894,11 @@
       "en": "Why Chelsea have signed so many Man City academy graduates",
       "text_for_match": "Why Chelsea have signed so many Man City academy graduates Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates. Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates.",
       "score_detail": {
-        "fresh": 0.23578840748645563,
+        "fresh": 0.22991627858878205,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.441
+      "score": 0.438
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
@@ -1874,11 +1912,11 @@
       "en": "Bournemouth reject £64m bid from Chelsea for Scott",
       "text_for_match": "Bournemouth reject £64m bid from Chelsea for Scott Bournemouth reject a £64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest. Bournemouth reject a £64m bid from Chelsea for Alex Scot after the midfielder turns down a new contract amid growing Premier League interest.",
       "score_detail": {
-        "fresh": 0.21738773831014832,
+        "fresh": 0.21197386392277304,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.43
+      "score": 0.427
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss",
@@ -1892,11 +1930,11 @@
       "en": "Villa in talks to sign Chelsea's Garnacho",
       "text_for_match": "Villa in talks to sign Chelsea's Garnacho Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy. Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy.",
       "score_detail": {
-        "fresh": 0.21658929303234137,
+        "fresh": 0.21119530331037017,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.43
+      "score": 0.427
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p03163?at_medium=RSS&at_campaign=rss",
@@ -1910,11 +1948,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Newcastle United CEO David Hopkinson tribute to Kevin Keegan. Newcastle United CEO David Hopkinson tribute to Kevin Keegan.",
       "score_detail": {
-        "fresh": 0.21623684819963784,
+        "fresh": 0.21085163584509115,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.43
+      "score": 0.427
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
@@ -1928,11 +1966,11 @@
       "en": "Chelsea sign £117m Rogers - what will he bring?",
       "text_for_match": "Chelsea sign £117m Rogers - what will he bring? Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad? Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?",
       "score_detail": {
-        "fresh": 0.2156593646659988,
+        "fresh": 0.2102885340946024,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.429
+      "score": 0.426
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p02snk?at_medium=RSS&at_campaign=rss",
@@ -1946,11 +1984,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Journalist Neil Farrington reflects on his time covering Newcastle during the Keegan era. Journalist Neil Farrington reflects on his time covering Newcastle during the Keegan era.",
       "score_detail": {
-        "fresh": 0.2139590363549277,
+        "fresh": 0.20863055115206489,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.428
+      "score": 0.425
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p02qhb?at_medium=RSS&at_campaign=rss",
@@ -1964,11 +2002,11 @@
       "en": "Newcastle United",
       "text_for_match": "Newcastle United Newcastle fan Kev Howourth tells his story after being named after Kevin Keegan. Newcastle fan Kev Howourth tells his story after being named after Kevin Keegan.",
       "score_detail": {
-        "fresh": 0.21341046265011485,
+        "fresh": 0.20809563925335553,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.428
+      "score": 0.425
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss",
@@ -1982,11 +2020,11 @@
       "en": "Chelsea interested in former Man City defender Stones",
       "text_for_match": "Chelsea interested in former Man City defender Stones Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City. Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
       "score_detail": {
-        "fresh": 0.21155467963113772,
+        "fresh": 0.20628607308282196,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.427
+      "score": 0.424
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/clyx7dere3go?at_medium=RSS&at_campaign=rss",
@@ -2000,11 +2038,11 @@
       "en": "Brentford's Trevitt makes Wigan move permanent",
       "text_for_match": "Brentford's Trevitt makes Wigan move permanent Wigan sign Brentford midfielder Ryan Trevitt on a two-year deal after his loan spell at the club last season was made permanent. Wigan sign Brentford midfielder Ryan Trevitt on a two-year deal after his loan spell at the club last season was made permanent.\n\n",
       "score_detail": {
-        "fresh": 0.20952668481619757,
+        "fresh": 0.2043085839186222,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.426
+      "score": 0.423
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckg91k07gr9o?at_medium=RSS&at_campaign=rss",
@@ -2018,11 +2056,11 @@
       "en": "Al-Hilal agree £60m deal for West Ham's Summerville",
       "text_for_match": "Al-Hilal agree £60m deal for West Ham's Summerville Saudi club Al Hilal agree a £68.3m deal to sign winger Crysencio Summerville from West Ham. Saudi club Al Hilal agree a £68.3m deal to sign winger Crysencio Summerville from West Ham.",
       "score_detail": {
-        "fresh": 0.20664041124285035,
+        "fresh": 0.20149419076822417,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.424
+      "score": 0.421
     },
     {
       "id": "https://bbc.co.uk/sounds/play/p0p01k85?at_medium=RSS&at_campaign=rss",
@@ -2036,11 +2074,11 @@
       "en": "Wolverhampton Wanderers",
       "text_for_match": "Wolverhampton Wanderers Wolves reporter Mike Taylor has his say on Wolves summer business so far. Wolves reporter Mike Taylor has his say on Wolves summer business so far.",
       "score_detail": {
-        "fresh": 0.2056123901640382,
+        "fresh": 0.20049177176352867,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.423
+      "score": 0.42
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
@@ -2054,11 +2092,11 @@
       "en": "The defining moments of the 2026 World Cup",
       "text_for_match": "The defining moments of the 2026 World Cup From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup. From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup.\n\n\n",
       "score_detail": {
-        "fresh": 0.20512415913762158,
+        "fresh": 0.20001569975523145,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.423
+      "score": 0.42
     }
   ]
 }
