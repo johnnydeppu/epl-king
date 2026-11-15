@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794772414391,
+  "generated_at": 1794785917241,
   "match": {
     "id": "EPL-UNKNOWN",
     "kickoff_jst": "",
@@ -28,11 +28,11 @@
       "en": "Aston Villa beat Birmingham in WSL derby ",
       "text_for_match": "Aston Villa beat Birmingham in WSL derby  Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022. Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022.",
       "score_detail": {
-        "fresh": 0.9990525970422116,
+        "fresh": 0.9636265298995962,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.966
+      "score": 0.945
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo?at_medium=RSS&at_campaign=rss",
@@ -48,11 +48,29 @@
       "en": "Struggling Charlton make WSL history after defeat at West Ham",
       "text_for_match": "Struggling Charlton make WSL history after defeat at West Ham Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory. Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
       "score_detail": {
-        "fresh": 0.9984650079134832,
+        "fresh": 0.9630597764826093,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.932
+      "score": 0.911
+    },
+    {
+      "id": "https://bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+      "ts": 1794784560000,
+      "url": "https://bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Football Daily",
+      "en": "Football Daily",
+      "text_for_match": "Football Daily Reaction to England’s 3-2 win over Spain in the Nations League. Reaction to England’s 3-2 win over Spain in the Nations League.",
+      "score_detail": {
+        "fresh": 0.9963903133393762,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.898
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss",
@@ -68,11 +86,11 @@
       "en": "AS FAR retain Women's African Champions League title",
       "text_for_match": "AS FAR retain Women's African Champions League title Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title. Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
       "score_detail": {
-        "fresh": 0.9762550894128956,
+        "fresh": 0.941637414179126,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.919
+      "score": 0.898
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
@@ -88,11 +106,65 @@
       "en": "Tenerife return to action after death of De Miguel",
       "text_for_match": "Tenerife return to action after death of De Miguel Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium. Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
       "score_detail": {
-        "fresh": 0.9692471889455816,
+        "fresh": 0.9348780114918276,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.915
+      "score": 0.894
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+      "ts": 1794780775000,
+      "url": "https://bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Who swaggered around like he owned the place? Spain v England ratings",
+      "en": "Who swaggered around like he owned the place? Spain v England ratings",
+      "text_for_match": "Who swaggered around like he owned the place? Spain v England ratings Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England. Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
+      "score_detail": {
+        "fresh": 0.9863559508790188,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.892
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+      "ts": 1794780401000,
+      "url": "https://bbc.co.uk/sport/football/videos/cqy7rd2e400jo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "London City earn point in thrilling draw against Arsenal",
+      "en": "London City earn point in thrilling draw against Arsenal",
+      "text_for_match": "London City earn point in thrilling draw against Arsenal London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium. London City Lionesses prove their elite credentials in a thrilling draw with Arsenal at Emirates Stadium.",
+      "score_detail": {
+        "fresh": 0.9853699471101511,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.891
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+      "ts": 1794775664000,
+      "url": "https://bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Man Utd target Fulham's Bassey - Monday's gossip ",
+      "en": "Man Utd target Fulham's Bassey - Monday's gossip ",
+      "text_for_match": "Man Utd target Fulham's Bassey - Monday's gossip  Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more. Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more.",
+      "score_detail": {
+        "fresh": 0.9729664161900653,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.884
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
@@ -108,11 +180,29 @@
       "en": "Club's first match since player's death abandoned because of serious injury",
       "text_for_match": "Club's first match since player's death abandoned because of serious injury Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary. Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary.",
       "score_detail": {
-        "fresh": 0.9458136768074161,
+        "fresh": 0.9122754437672512,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.901
+      "score": 0.881
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+      "ts": 1794772988000,
+      "url": "https://bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "London City's 'bravery' paying off in top three pursuit",
+      "en": "London City's 'bravery' paying off in top three pursuit",
+      "text_for_match": "London City's 'bravery' paying off in top three pursuit After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three. After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
+      "score_detail": {
+        "fresh": 0.9660286218512812,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.88
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
@@ -126,11 +216,11 @@
       "en": "Ronaldinho makes comeback in Ravenna win",
       "text_for_match": "Ronaldinho makes comeback in Ravenna win Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli. Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
       "score_detail": {
-        "fresh": 0.9965204199791222,
+        "fresh": 0.9611841429786069,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.898
+      "score": 0.877
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
@@ -144,11 +234,11 @@
       "en": "Aberdeen appoint Liechtenstein's Frick as head coach",
       "text_for_match": "Aberdeen appoint Liechtenstein's Frick as head coach Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen. Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
       "score_detail": {
-        "fresh": 0.9862341655933915,
+        "fresh": 0.9512626356938735,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.892
+      "score": 0.871
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmp867d026nno?at_medium=RSS&at_campaign=rss",
@@ -162,11 +252,11 @@
       "en": "Children's tournament abandoned for parents' behaviour",
       "text_for_match": "Children's tournament abandoned for parents' behaviour A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee. A football tournament for nine and 10-year-olds in Italy is suspended because of parents fighting, spitting and shouting homophobic abuse at a child and a referee.",
       "score_detail": {
-        "fresh": 0.9858808217769688,
+        "fresh": 0.9509218213296559,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.892
+      "score": 0.871
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c6894vj39g33o?at_medium=RSS&at_campaign=rss",
@@ -180,11 +270,11 @@
       "en": "Sule strikes late as Scotland U21s snatch draw against USA",
       "text_for_match": "Sule strikes late as Scotland U21s snatch draw against USA St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain. St Mirren forward Eseosa Sule came off the bench to score a late penalty as Scotland U21s drew 1-1 with USA U23s in Spain.",
       "score_detail": {
-        "fresh": 0.9837055407722596,
+        "fresh": 0.9488236750535435,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.89
+      "score": 0.869
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cw1mdl14dzx8o?at_medium=RSS&at_campaign=rss",
@@ -198,11 +288,11 @@
       "en": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
       "text_for_match": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career. Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
       "score_detail": {
-        "fresh": 0.9814694415655011,
+        "fresh": 0.9466668671682538,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.889
+      "score": 0.868
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
@@ -212,15 +302,15 @@
       "trust": "bbc",
       "tags": [],
       "players": [],
-      "ja": "Chapecoense crash survivor wins promotion in final game",
-      "en": "Chapecoense crash survivor wins promotion in final game",
-      "text_for_match": "Chapecoense crash survivor wins promotion in final game Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring. Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring. ",
+      "ja": "Chapecoense air crash survivor wins promotion in final game",
+      "en": "Chapecoense air crash survivor wins promotion in final game",
+      "text_for_match": "Chapecoense air crash survivor wins promotion in final game Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring. Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring. ",
       "score_detail": {
-        "fresh": 0.9741661721412318,
+        "fresh": 0.9396225692072996,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.884
+      "score": 0.864
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
@@ -234,11 +324,11 @@
       "en": "Why Northern Ireland won't focus on point they need in Hungary",
       "text_for_match": "Why Northern Ireland won't focus on point they need in Hungary A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest. A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
       "score_detail": {
-        "fresh": 0.9639585600671301,
+        "fresh": 0.9297769156044269,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.878
+      "score": 0.858
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cklyw2qzzd44o?at_medium=RSS&at_campaign=rss",
@@ -252,11 +342,11 @@
       "en": "You are Scotland boss Pocognoli - what would you do?",
       "text_for_match": "You are Scotland boss Pocognoli - what would you do? Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland. Put yourself in the shoes of Scotland head coach Sebastien Pocognoli as he picks his starting XI for the visit to Switzerland.",
       "score_detail": {
-        "fresh": 0.963059328364128,
+        "fresh": 0.9289095703534311,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.878
+      "score": 0.857
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cx1l0g217veqo?at_medium=RSS&at_campaign=rss",
@@ -270,11 +360,11 @@
       "en": "Bristol Rovers being let down by poor players - Evans",
       "text_for_match": "Bristol Rovers being let down by poor players - Evans Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\". Steve Evans insists he will leave Bristol Rovers if he is not wanted but says his players have been \"inconsistent\" and \"poor\".",
       "score_detail": {
-        "fresh": 0.944120579762414,
+        "fresh": 0.9106423833707428,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.866
+      "score": 0.846
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
@@ -288,31 +378,11 @@
       "en": "Pitch perimeters under review after Vigar death",
       "text_for_match": "Pitch perimeters under review after Vigar death The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year. The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year.\n",
       "score_detail": {
-        "fresh": 0.9432322868341629,
+        "fresh": 0.9097855890092456,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.866
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794726091000,
-      "url": "https://bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [],
-      "ja": "Who am I? Guess WSL star No 12",
-      "en": "Who am I? Guess WSL star No 12",
-      "text_for_match": "Who am I? Guess WSL star No 12 Work out the identity of today's Women's Super League player in as few attempts as possible. Work out the identity of today's Women's Super League player in as few attempts as possible.",
-      "score_detail": {
-        "fresh": 0.8834954289248369,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.863
+      "score": 0.846
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
@@ -328,11 +398,11 @@
       "en": "Liverpool put three past Brighton to end winless run",
       "text_for_match": "Liverpool put three past Brighton to end winless run A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League. A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League.",
       "score_detail": {
-        "fresh": 0.8178704626391295,
+        "fresh": 0.7888690526941518,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.857
+      "score": 0.84
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss",
@@ -346,11 +416,11 @@
       "en": "Wenger decides not to challenge Fifa chief Infantino",
       "text_for_match": "Wenger decides not to challenge Fifa chief Infantino Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term. Arsene Wenger decides against running for the Fifa presidency, in a boost to Gianni Infantino's hopes of a fourth term.",
       "score_detail": {
-        "fresh": 0.9221523231701875,
+        "fresh": 0.8894531137260969,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.853
+      "score": 0.834
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvglr4d04x2go?at_medium=RSS&at_campaign=rss",
@@ -364,11 +434,11 @@
       "en": "Celtic have eye on midfielder Ebonog - gossip",
       "text_for_match": "Celtic have eye on midfielder Ebonog - gossip Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder... Two possible January targets for Celtic as Turkish club maintain interest in Rangers midfielder...",
       "score_detail": {
-        "fresh": 0.9158780664608459,
+        "fresh": 0.8834013400372822,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.85
+      "score": 0.83
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
@@ -384,11 +454,11 @@
       "en": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
       "text_for_match": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches. Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches. ",
       "score_detail": {
-        "fresh": 0.7828059757939823,
+        "fresh": 0.7550479406913053,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.836
+      "score": 0.82
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
@@ -402,11 +472,11 @@
       "en": "How Spain's humble superstar Simon became world's best keeper",
       "text_for_match": "How Spain's humble superstar Simon became world's best keeper As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper. As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
       "score_detail": {
-        "fresh": 0.8874711948859312,
+        "fresh": 0.8560017665192505,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.832
+      "score": 0.814
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
@@ -420,11 +490,11 @@
       "en": "Who am I? Plus today's other quizzes",
       "text_for_match": "Who am I? Plus today's other quizzes Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser. Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "score_detail": {
-        "fresh": 0.8814635489811008,
+        "fresh": 0.8502071497060052,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.829
+      "score": 0.81
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
@@ -438,11 +508,11 @@
       "en": "Respect? Exposure? Why England's star names are going abroad",
       "text_for_match": "Respect? Exposure? Why England's star names are going abroad Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad. Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
       "score_detail": {
-        "fresh": 0.8784303601806766,
+        "fresh": 0.8472815167544103,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.827
+      "score": 0.808
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
@@ -458,31 +528,11 @@
       "en": "The 'manager's dream' who has put NI one game from history",
       "text_for_match": "The 'manager's dream' who has put NI one game from history After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage. After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage.",
       "score_detail": {
-        "fresh": 0.8206660098698237,
+        "fresh": 0.7915654707656926,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.826
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794689806000,
-      "url": "https://bbc.co.uk/sport/football/videos/ck9q8vvz81rxo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "負傷"
-      ],
-      "players": [],
-      "ja": "Spurs held to a draw by Everton in the WSL",
-      "en": "Spurs held to a draw by Everton in the WSL",
-      "text_for_match": "Spurs held to a draw by Everton in the WSL Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League. Tottenham and Everton play out a hard-fought goalless draw in the Women's Super League.",
-      "score_detail": {
-        "fresh": 0.8017954577922144,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.814
+      "score": 0.808
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cm702wwpj9keo?at_medium=RSS&at_campaign=rss",
@@ -498,11 +548,11 @@
       "en": "Chelsea go top with 1-0 win against Man City",
       "text_for_match": "Chelsea go top with 1-0 win against Man City Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half. Chelsea return to the top of the Women's Super League with a crucial victory over rivals Manchester City who went down to 10 players in the second half.",
       "score_detail": {
-        "fresh": 0.7633552503691621,
+        "fresh": 0.7362869314104723,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.791
+      "score": 0.775
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
@@ -516,11 +566,11 @@
       "en": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
       "text_for_match": "Hallgrimsson rues 'painful' defeat for Republic of Ireland Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\". Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
       "score_detail": {
-        "fresh": 0.8151912496625981,
+        "fresh": 0.7862848437034736,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.789
+      "score": 0.772
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
@@ -534,11 +584,11 @@
       "en": "Devlin nets winner as NI top Nations League group",
       "text_for_match": "Devlin nets winner as NI top Nations League group Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League. Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League.",
       "score_detail": {
-        "fresh": 0.8149296955590204,
+        "fresh": 0.7860325642199332,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.789
+      "score": 0.772
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
@@ -552,29 +602,11 @@
       "en": "White has 'exciting future' despite boos - Rice",
       "text_for_match": "White has 'exciting future' despite boos - Rice Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley. Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley.",
       "score_detail": {
-        "fresh": 0.8134795948863068,
+        "fresh": 0.7846338836265498,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.788
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794692925000,
-      "url": "https://bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "en": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-      "text_for_match": "Arsenal target Nusa could cost £66m - Sunday's gossip Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more. Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more.",
-      "score_detail": {
-        "fresh": 0.8085110120611277,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.785
+      "score": 0.771
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
@@ -588,47 +620,11 @@
       "en": "What Wales need to stay in Nations League top tier",
       "text_for_match": "What Wales need to stay in Nations League top tier BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group. BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group.",
       "score_detail": {
-        "fresh": 0.8012853137541731,
+        "fresh": 0.7728720075784146,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.781
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794689037000,
-      "url": "https://bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'No racism in Spain' – De la Fuente message for Tuchel",
-      "en": "'No racism in Spain' – De la Fuente message for Tuchel",
-      "text_for_match": "'No racism in Spain' – De la Fuente message for Tuchel Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid. Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid.",
-      "score_detail": {
-        "fresh": 0.8001483048712907,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.78
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794687720000,
-      "url": "https://bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "en": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-      "text_for_match": "Spain test will reveal if Tuchel and England have learned World Cup lessons England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty. England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
-      "score_detail": {
-        "fresh": 0.7973352242220949,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.778
+      "score": 0.764
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
@@ -642,11 +638,11 @@
       "en": "Haaland helps Norway to win over Wales in Nations League",
       "text_for_match": "Haaland helps Norway to win over Wales in Nations League Watch the best of the action as Norway beat Wales in the Nations League in Oslo. Watch the best of the action as Norway beat Wales in the Nations League in Oslo. ",
       "score_detail": {
-        "fresh": 0.7898502486357218,
+        "fresh": 0.7618424260009359,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.774
+      "score": 0.757
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
@@ -660,11 +656,11 @@
       "en": "Bompastor's risks pay off as Chelsea go top of WSL",
       "text_for_match": "Bompastor's risks pay off as Chelsea go top of WSL In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions. In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game. In this case, it was Sonia Bompastor's decisions.",
       "score_detail": {
-        "fresh": 0.786353868859222,
+        "fresh": 0.7584700266685939,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.772
+      "score": 0.755
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
@@ -678,11 +674,11 @@
       "en": "'I just play where the manager tells me to play!' - Walsh",
       "text_for_match": "'I just play where the manager tells me to play!' - Walsh Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City. Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City.",
       "score_detail": {
-        "fresh": 0.7667001623408519,
+        "fresh": 0.7395132339351259,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.76
+      "score": 0.744
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c98r7l5yrn6go?at_medium=RSS&at_campaign=rss",
@@ -696,11 +692,11 @@
       "en": "Former Stoke City manager Thordarson dies aged 71",
       "text_for_match": "Former Stoke City manager Thordarson dies aged 71 Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71. Gudjon Thordarson, who led Stoke City to promotion from the third tier in 2002 and managed three other English clubs, dies aged 71.",
       "score_detail": {
-        "fresh": 0.7577925294654744,
+        "fresh": 0.7309214627083334,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.755
+      "score": 0.739
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqr7grl145zpo?at_medium=RSS&at_campaign=rss",
@@ -714,11 +710,11 @@
       "en": "Clough's longevity: landmark achievement or indictment on football?",
       "text_for_match": "Clough's longevity: landmark achievement or indictment on football? Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career. Mansfield boss Nigel Clough discusses his longevity and staying power as he becomes a club's longest-serving manager for a second time in his career.",
       "score_detail": {
-        "fresh": 0.7118281553198962,
+        "fresh": 0.6865869697216356,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.727
+      "score": 0.712
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmy974jw1xgeo?at_medium=RSS&at_campaign=rss",
@@ -732,11 +728,11 @@
       "en": "Liverpool's Koumas can be special for Wales - Rush",
       "text_for_match": "Liverpool's Koumas can be special for Wales - Rush Liverpool legend Ian Rush believes Lewis Koumas could help ease Wales' forward concerns, and says the Reds must target a top-four finish plus a trophy this season. Liverpool legend Ian Rush believes Lewis Koumas could help ease Wales' forward concerns, and says the Reds must target a top-four finish plus a trophy this season.",
       "score_detail": {
-        "fresh": 0.7109093313568473,
+        "fresh": 0.6857007269455068,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.727
+      "score": 0.711
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
@@ -750,11 +746,11 @@
       "en": "Six goals to go - will McGinn catch Dalglish & Law?",
       "text_for_match": "Six goals to go - will McGinn catch Dalglish & Law? After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30? After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
       "score_detail": {
-        "fresh": 0.7066806070475506,
+        "fresh": 0.6816219517697714,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.724
+      "score": 0.709
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
@@ -770,11 +766,11 @@
       "en": "All done deals from September-November 2026",
       "text_for_match": "All done deals from September-November 2026 Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "score_detail": {
-        "fresh": 0.6147686760743265,
+        "fresh": 0.5929691867779028,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.702
+      "score": 0.689
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
@@ -788,11 +784,11 @@
       "en": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
       "text_for_match": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino? What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs. What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
       "score_detail": {
-        "fresh": 0.6483947285824162,
+        "fresh": 0.6254028708387062,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.689
+      "score": 0.675
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cr0qjz55z9gvo?at_medium=RSS&at_campaign=rss",
@@ -808,11 +804,11 @@
       "en": "Man Utd fan thinks Mauricio Pochettino is what club needs",
       "text_for_match": "Man Utd fan thinks Mauricio Pochettino is what club needs Manchester United fan Jay Motty believes Mauricio Pochettino is the right fit for what the club needs at this time Manchester United fan Jay Motty believes Mauricio Pochettino is the right fit for what the club needs at this time\n\n\n",
       "score_detail": {
-        "fresh": 0.5848256633597706,
+        "fresh": 0.5640879431654128,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.684
+      "score": 0.672
     },
     {
       "id": "https://bbc.co.uk/news/articles/cwlymndy57d7o?at_medium=RSS&at_campaign=rss",
@@ -828,11 +824,11 @@
       "en": "Football club backs men's mental health initiative ",
       "text_for_match": "Football club backs men's mental health initiative  A charity is reaching out to fans in the stands to provide support to anyone who needs it. A charity is reaching out to fans in the stands to provide support to anyone who needs it.",
       "score_detail": {
-        "fresh": 0.5568113888327956,
+        "fresh": 0.5370670453368044,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.667
+      "score": 0.656
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cmrrg5x49l7yo?at_medium=RSS&at_campaign=rss",
@@ -846,11 +842,11 @@
       "en": "Pochettino defends USA exit to take Man Utd job",
       "text_for_match": "Pochettino defends USA exit to take Man Utd job Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down. Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down.",
       "score_detail": {
-        "fresh": 0.6084326908165364,
+        "fresh": 0.5868578734140868,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.665
+      "score": 0.652
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
@@ -864,11 +860,11 @@
       "en": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
       "text_for_match": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job. An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
       "score_detail": {
-        "fresh": 0.6036953397832615,
+        "fresh": 0.5822885072459529,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.662
+      "score": 0.649
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c50md0g9ymlyo?at_medium=RSS&at_campaign=rss",
@@ -882,11 +878,11 @@
       "en": "Emotional Pochettino in tears at USA press conference",
       "text_for_match": "Emotional Pochettino in tears at USA press conference Incoming Manchester United head coach Mauricio Pochettino was visibly emotional in his USA press conference on Thursday, describing the decision to move as \"one of the most difficult decisions of his career\". Incoming Manchester United head coach Mauricio Pochettino was visibly emotional in his USA press conference on Thursday, describing the decision to move as \"one of the most difficult decisions of his career\". ",
       "score_detail": {
-        "fresh": 0.6034451612849094,
+        "fresh": 0.5820471999925247,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.662
+      "score": 0.649
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
@@ -900,11 +896,11 @@
       "en": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
       "text_for_match": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't. With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
       "score_detail": {
-        "fresh": 0.5847896941111138,
+        "fresh": 0.5640532493741461,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.651
+      "score": 0.638
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6702j2wnngvo?at_medium=RSS&at_campaign=rss",
@@ -918,11 +914,11 @@
       "en": "What do Man Utd fans think of Pochettino?",
       "text_for_match": "What do Man Utd fans think of Pochettino? Manchester United fans outside Old Trafford give their opinions on incoming manager Mauricio Pochettino. Manchester United fans outside Old Trafford give their opinions on incoming manager Mauricio Pochettino.",
       "score_detail": {
-        "fresh": 0.5839661349521916,
+        "fresh": 0.5632588933444147,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.65
+      "score": 0.638
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6174gwyr17vo?at_medium=RSS&at_campaign=rss",
@@ -936,11 +932,11 @@
       "en": "Does Alderweireld think Pochettino is right for Man Utd?",
       "text_for_match": "Does Alderweireld think Pochettino is right for Man Utd? Former Tottenham Hotspur defender Toby Alderweireld recalls what it was like to work with Mauricio Pochettino, who has agreed to succeed Michael Carrick at Manchester United. Former Tottenham Hotspur defender Toby Alderweireld recalls what it was like to work with Mauricio Pochettino, who has agreed to succeed Michael Carrick at Manchester United.",
       "score_detail": {
-        "fresh": 0.5839614500811693,
+        "fresh": 0.5632543745973341,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.65
+      "score": 0.638
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/ck5y18dgnnglo?at_medium=RSS&at_campaign=rss",
@@ -954,11 +950,11 @@
       "en": "Tuchel defends White after more Wembley boos",
       "text_for_match": "Tuchel defends White after more Wembley boos England manager Thomas Tuchel defended Ben White after the defender was booed by sections of the Wembley crowd during the 2-1 win over Croatia in the Nations League. England manager Thomas Tuchel defended Ben White after the defender was booed by sections of the Wembley crowd during the 2-1 win over Croatia in the Nations League.",
       "score_detail": {
-        "fresh": 0.5730812304172365,
+        "fresh": 0.5527599638422436,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.644
+      "score": 0.632
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
@@ -972,11 +968,11 @@
       "en": "Fernandes rejects second Man Utd contract offer",
       "text_for_match": "Fernandes rejects second Man Utd contract offer Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season. Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
       "score_detail": {
-        "fresh": 0.5722787513933184,
+        "fresh": 0.5519859404530599,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.643
+      "score": 0.631
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cx5y18dv0r2po?at_medium=RSS&at_campaign=rss",
@@ -990,11 +986,11 @@
       "en": "Newcastle fan explains club's 'litany of problems'",
       "text_for_match": "Newcastle fan explains club's 'litany of problems' Newcastle fan Raul Kohli isn't happy with signings made during the last two seasons Newcastle fan Raul Kohli isn't happy with signings made during the last two seasons",
       "score_detail": {
-        "fresh": 0.5720278247927403,
+        "fresh": 0.5517439116248576,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.643
+      "score": 0.631
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cm8689440dypo?at_medium=RSS&at_campaign=rss",
@@ -1008,11 +1004,11 @@
       "en": "West Ham fan: What I noticed in Parker's first two games",
       "text_for_match": "West Ham fan: What I noticed in Parker's first two games West Ham fan Josh Birdi has noticed a couple of things from Scott Parker's first two games in charge of the club West Ham fan Josh Birdi has noticed a couple of things from Scott Parker's first two games in charge of the club",
       "score_detail": {
-        "fresh": 0.5669671345722591,
+        "fresh": 0.5468626717677201,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.64
+      "score": 0.628
     },
     {
       "id": "https://bbc.co.uk/sport/videos/cq70p0160j1zo?at_medium=RSS&at_campaign=rss",
@@ -1026,11 +1022,11 @@
       "en": "'Just wait until the Fulham fans see this'",
       "text_for_match": "'Just wait until the Fulham fans see this' Shea and Pierce Charles re-live their youth as they play a game of two touch in their garden - and it doesn't take long before things get competitive. Shea and Pierce Charles re-live their youth as they play a game of two touch in their garden - and it doesn't take long before things get competitive.",
       "score_detail": {
-        "fresh": 0.5632270008025221,
+        "fresh": 0.5432551618762868,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.638
+      "score": 0.626
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss",
@@ -1044,11 +1040,11 @@
       "en": "From postcards to texts, the different ways a manager gets the sack - Pulis",
       "text_for_match": "From postcards to texts, the different ways a manager gets the sack - Pulis BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned. BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned.",
       "score_detail": {
-        "fresh": 0.5630161765001696,
+        "fresh": 0.5430518133323804,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.638
+      "score": 0.626
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cqevrjvvj410o?at_medium=RSS&at_campaign=rss",
@@ -1062,11 +1058,11 @@
       "en": "Liverpool fan on importance of Van Dijk contract situation",
       "text_for_match": "Liverpool fan on importance of Van Dijk contract situation Liverpool fan Abigail Rudkin explains why she would like to see her captain extend his current deal beyond this summer Liverpool fan Abigail Rudkin explains why she would like to see her captain extend his current deal beyond this summer",
       "score_detail": {
-        "fresh": 0.5625255628292178,
+        "fresh": 0.5425785966562412,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.638
+      "score": 0.626
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
@@ -1080,11 +1076,11 @@
       "en": "Liverpool and Van Dijk have a decision to make",
       "text_for_match": "Liverpool and Van Dijk have a decision to make Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future. Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
       "score_detail": {
-        "fresh": 0.556201227940081,
+        "fresh": 0.5364785205429469,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.634
+      "score": 0.622
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cmx2xkkee709o?at_medium=RSS&at_campaign=rss",
@@ -1098,11 +1094,11 @@
       "en": "How do you stop Haaland?",
       "text_for_match": "How do you stop Haaland? How do you stop Erling Haaland? How do you stop Erling Haaland?",
       "score_detail": {
-        "fresh": 0.5505836879314437,
+        "fresh": 0.5310601766027764,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.63
+      "score": 0.619
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cky86000y21zo?at_medium=RSS&at_campaign=rss",
@@ -1118,11 +1114,11 @@
       "en": "Goalkeeper Martin returns to West Ham as coach",
       "text_for_match": "Goalkeeper Martin returns to West Ham as coach David Martin is named West Ham's head of academy goalkeeping. David Martin is named West Ham's head of academy goalkeeping.",
       "score_detail": {
-        "fresh": 0.4819986139039127,
+        "fresh": 0.4649071061000587,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.623
+      "score": 0.612
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckm2mn2lvld9o?at_medium=RSS&at_campaign=rss",
@@ -1138,29 +1134,11 @@
       "en": "Police investigation into Vigar's death ongoing",
       "text_for_match": "Police investigation into Vigar's death ongoing The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months. The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
       "score_detail": {
-        "fresh": 0.4687895021514785,
+        "fresh": 0.4521663849821331,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.615
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794524947000,
-      "url": "https://bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-      "en": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-      "text_for_match": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\". Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
-      "score_detail": {
-        "fresh": 0.5159403044543295,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.61
+      "score": 0.605
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c5ev37egv97mo?at_medium=RSS&at_campaign=rss",
@@ -1176,11 +1154,29 @@
       "en": "Six matches that defined Carrick's Man Utd tenure",
       "text_for_match": "Six matches that defined Carrick's Man Utd tenure BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United. BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
       "score_detail": {
-        "fresh": 0.460880156232829,
+        "fresh": 0.4445375017942725,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.61
+      "score": 0.6
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+      "ts": 1794524947000,
+      "url": "https://bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "en": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "text_for_match": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\". Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\".",
+      "score_detail": {
+        "fresh": 0.4976452357849786,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.599
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
@@ -1194,11 +1190,11 @@
       "en": "Grealish apologises for absence after breach of discipline",
       "text_for_match": "Grealish apologises for absence after breach of discipline Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue. Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
       "score_detail": {
-        "fresh": 0.5110873532978495,
+        "fresh": 0.4929643686349046,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.607
+      "score": 0.596
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
@@ -1212,11 +1208,11 @@
       "en": "Where does Kane rank among all-time England greats?",
       "text_for_match": "Where does Kane rank among all-time England greats? Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players? Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
       "score_detail": {
-        "fresh": 0.5110682193095311,
+        "fresh": 0.49294591313133945,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.607
+      "score": 0.596
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6gele255177o?at_medium=RSS&at_campaign=rss",
@@ -1232,11 +1228,11 @@
       "en": "Shea in goal or Pierce in midfield? Quickfire questions with NI brothers",
       "text_for_match": "Shea in goal or Pierce in midfield? Quickfire questions with NI brothers From the best cook to best passer of the ball, brothers and Northern Ireland team-mates Shea and Pierce Charles take on BBC Sport's quickfire questions. From the best cook to best passer of the ball, brothers and Northern Ireland team-mates Shea and Pierce Charles take on BBC Sport's quickfire questions.",
       "score_detail": {
-        "fresh": 0.4476987301079592,
+        "fresh": 0.431823484580923,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.602
+      "score": 0.592
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/ck0jxw824gvwo?at_medium=RSS&at_campaign=rss",
@@ -1250,11 +1246,11 @@
       "en": "Pochettino leads US training",
       "text_for_match": "Pochettino leads US training Mauricio Pochettino, who is set to replace Michael Carrick at Manchester United, leading US men's national team training. Mauricio Pochettino, who is set to replace Michael Carrick at Manchester United, leading US men's national team training.",
       "score_detail": {
-        "fresh": 0.49486479064300914,
+        "fresh": 0.4773170525642152,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.597
+      "score": 0.586
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c98r7dlkz5r8o?at_medium=RSS&at_campaign=rss",
@@ -1268,11 +1264,11 @@
       "en": "Carrick sacking 'a new low for Manchester United'",
       "text_for_match": "Carrick sacking 'a new low for Manchester United' BBC Sport's Dan Roan explains why Michael Carrick was sacked as Manchester United manager, and how the fans have reacted to the news. BBC Sport's Dan Roan explains why Michael Carrick was sacked as Manchester United manager, and how the fans have reacted to the news.",
       "score_detail": {
-        "fresh": 0.4913505814461327,
+        "fresh": 0.47392745603671205,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.595
+      "score": 0.584
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
@@ -1286,11 +1282,11 @@
       "en": "Crystal Palace sack boss Sage after 16 games",
       "text_for_match": "Crystal Palace sack boss Sage after 16 games Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table. Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
       "score_detail": {
-        "fresh": 0.48746879271440124,
+        "fresh": 0.47018331422031906,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.592
+      "score": 0.582
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
@@ -1304,11 +1300,11 @@
       "en": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
       "text_for_match": "How Pochettino came on Man Utd's radar - and what Carrick was told when How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting. How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting.",
       "score_detail": {
-        "fresh": 0.4825906054474233,
+        "fresh": 0.46547810582368876,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.59
+      "score": 0.579
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c3x2958dyr21o?at_medium=RSS&at_campaign=rss",
@@ -1322,11 +1318,11 @@
       "en": "'We will get better now Sage has gone'",
       "text_for_match": "'We will get better now Sage has gone' Crystal Palace fan Ollie Thomas claims performances will now improve after Pierre Sage sacking Crystal Palace fan Ollie Thomas claims performances will now improve after Pierre Sage sacking",
       "score_detail": {
-        "fresh": 0.4780078791878706,
+        "fresh": 0.4610578814871056,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.587
+      "score": 0.577
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c60qjzel52ygo?at_medium=RSS&at_campaign=rss",
@@ -1340,11 +1336,11 @@
       "en": "What does Pochettino need to succeed at Man Utd?",
       "text_for_match": "What does Pochettino need to succeed at Man Utd? Raphael Honigstein and Julien Laurens give their views on what Mauricio Pochettino will need to succeed at Manchester United. Raphael Honigstein and Julien Laurens give their views on what Mauricio Pochettino will need to succeed at Manchester United.",
       "score_detail": {
-        "fresh": 0.47460576171168406,
+        "fresh": 0.45777640194579394,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.585
+      "score": 0.575
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cq5y15y5z0z1o?at_medium=RSS&at_campaign=rss",
@@ -1358,11 +1354,11 @@
       "en": "Man Utd fan: 'I wish those above Carrick would lose jobs'",
       "text_for_match": "Man Utd fan: 'I wish those above Carrick would lose jobs' Manchester United fan Jay Motty understands why Michael Carrick has been sacked, but is baffled by the club's decision to keep Omar Berrada and Jason Wilcox in employment Manchester United fan Jay Motty understands why Michael Carrick has been sacked, but is baffled by the club's decision to keep Omar Berrada and Jason Wilcox in employment ",
       "score_detail": {
-        "fresh": 0.4638997112777553,
+        "fresh": 0.4474499844387275,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.578
+      "score": 0.568
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cq742l2yl01po?at_medium=RSS&at_campaign=rss",
@@ -1376,11 +1372,11 @@
       "en": "Carrick sacked by Manchester United",
       "text_for_match": "Carrick sacked by Manchester United Watch the moment that Michael Carrick's sacking as Manchester United head coach is confirmed by BBC Sport correspondent Andy Swiss. Watch the moment that Michael Carrick's sacking as Manchester United head coach is confirmed by BBC Sport correspondent Andy Swiss.",
       "score_detail": {
-        "fresh": 0.4620895667752457,
+        "fresh": 0.4457040270479612,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.577
+      "score": 0.567
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6jd7k7yennvo?at_medium=RSS&at_campaign=rss",
@@ -1394,11 +1390,11 @@
       "en": "Carrick leaves Man Utd training ground after sacking",
       "text_for_match": "Carrick leaves Man Utd training ground after sacking Michael Carrick leaves Manchester United training ground after being sacked by the club. Michael Carrick leaves Manchester United training ground after being sacked by the club. ",
       "score_detail": {
-        "fresh": 0.45894431598519353,
+        "fresh": 0.4426703057869834,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.575
+      "score": 0.566
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/ck4gndnwqjx8o?at_medium=RSS&at_campaign=rss",
@@ -1412,11 +1408,11 @@
       "en": "Can Manchester United be fixed? ",
       "text_for_match": "Can Manchester United be fixed?  BBC Sport reporters discuss whether Manchester United can be fixed under the ownership of the Glazers and management of Sir Jim Ratcliffe. BBC Sport reporters discuss whether Manchester United can be fixed under the ownership of the Glazers and management of Sir Jim Ratcliffe. ",
       "score_detail": {
-        "fresh": 0.4566452260153181,
+        "fresh": 0.44045274076972907,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.574
+      "score": 0.564
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cw0540v6v9m6o?at_medium=RSS&at_campaign=rss",
@@ -1430,11 +1426,11 @@
       "en": "'There's no point getting a new manager'",
       "text_for_match": "'There's no point getting a new manager' Manchester United fans were asked by BBC Sport who they think should replace Michael Carrick after losing 3-0 to Bournemouth in October. Manchester United fans were asked by BBC Sport who they think should replace Michael Carrick after losing 3-0 to Bournemouth in October.",
       "score_detail": {
-        "fresh": 0.4563229559114035,
+        "fresh": 0.4401418982546852,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.574
+      "score": 0.564
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
@@ -1448,11 +1444,11 @@
       "en": "The chaos that took Carrick from two-year deal to sacked within 15 games",
       "text_for_match": "The chaos that took Carrick from two-year deal to sacked within 15 games Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong? Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
       "score_detail": {
-        "fresh": 0.456150927563417,
+        "fresh": 0.43997596997372646,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.574
+      "score": 0.564
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c8g46y7ekqd4o?at_medium=RSS&at_campaign=rss",
@@ -1466,11 +1462,11 @@
       "en": "Scott Parker, the right man for the job",
       "text_for_match": "Scott Parker, the right man for the job Fan writer Holly Turbutt talks about the reason she is optimistic Scott Parker can unpick West Ham United's weakness despite just one point in his first two games. Fan writer Holly Turbutt talks about the reason she is optimistic Scott Parker can unpick West Ham United's weakness despite just one point in his first two games.",
       "score_detail": {
-        "fresh": 0.4531902931874212,
+        "fresh": 0.4371203186912128,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.572
+      "score": 0.562
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm1j3j20r2rzo?at_medium=RSS&at_campaign=rss",
@@ -1484,11 +1480,11 @@
       "en": "England's Blues brothers - how the Bellinghams helped save Birmingham",
       "text_for_match": "England's Blues brothers - how the Bellinghams helped save Birmingham Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years. Boyhood Birmingham City fans Jude and Jobe Bellingham could become the first brothers to play for England for 19 years.",
       "score_detail": {
-        "fresh": 0.4425399032633245,
+        "fresh": 0.42684758799112793,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.566
+      "score": 0.556
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
@@ -1504,11 +1500,11 @@
       "en": "Burn replaces injured Guehi in England squad",
       "text_for_match": "Burn replaces injured Guehi in England squad Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury. Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
       "score_detail": {
-        "fresh": 0.23194427322728936,
+        "fresh": 0.22371960775820202,
         "trust": 1,
         "relevance": 1
       },
-      "score": 0.539
+      "score": 0.534
     },
     {
       "id": "https://bbc.co.uk/sport/videos/cq98x4n3z69no?at_medium=RSS&at_campaign=rss",
@@ -1522,11 +1518,11 @@
       "en": "Ampadu blew up my phone over Leeds - Wilson",
       "text_for_match": "Ampadu blew up my phone over Leeds - Wilson Wales star Harry Wilson says team-mate strongly Ethan Ampadu encouraged him to join Leeds. Wales star Harry Wilson says team-mate strongly Ethan Ampadu encouraged him to join Leeds.",
       "score_detail": {
-        "fresh": 0.3950212411533006,
+        "fresh": 0.38101392156543623,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.537
+      "score": 0.529
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c8wy5xgnezrxo?at_medium=RSS&at_campaign=rss",
@@ -1540,11 +1536,11 @@
       "en": "Man Utd job 'always been present' for Pochettino",
       "text_for_match": "Man Utd job 'always been present' for Pochettino Spanish football expert Guillem Balague says Manchester United has always been a dream job for Mauricio Pochettino. Spanish football expert Guillem Balague says Manchester United has always been a dream job for Mauricio Pochettino.",
       "score_detail": {
-        "fresh": 0.39313487965982263,
+        "fresh": 0.37919444981241945,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.536
+      "score": 0.528
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cvze758n7rx5o?at_medium=RSS&at_campaign=rss",
@@ -1558,11 +1554,11 @@
       "en": "Is Carrick to blame for Man Utd's problems?",
       "text_for_match": "Is Carrick to blame for Man Utd's problems? Manchester United fans outside Old Trafford shared their thoughts on whether Michael Carrick is to blame for problems at the club. Manchester United fans outside Old Trafford shared their thoughts on whether Michael Carrick is to blame for problems at the club.",
       "score_detail": {
-        "fresh": 0.3912010304643935,
+        "fresh": 0.377329174255299,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.535
+      "score": 0.526
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cw98756j41djo?at_medium=RSS&at_campaign=rss",
@@ -1576,11 +1572,11 @@
       "en": "'A fantastic coach' - Kane on Pochettino",
       "text_for_match": "'A fantastic coach' - Kane on Pochettino England captain Harry Kane heaped praise on former head coach Mauricio Pochettino following reports the Argentine is ready to accept an offer to become the next Manchester United boss. England captain Harry Kane heaped praise on former head coach Mauricio Pochettino following reports the Argentine is ready to accept an offer to become the next Manchester United boss.",
       "score_detail": {
-        "fresh": 0.3871132931722276,
+        "fresh": 0.3733863867447585,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.532
+      "score": 0.524
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
@@ -1594,11 +1590,11 @@
       "en": "Pochettino ready to accept Man Utd offer to replace Carrick",
       "text_for_match": "Pochettino ready to accept Man Utd offer to replace Carrick Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach. Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
       "score_detail": {
-        "fresh": 0.38244185361848604,
+        "fresh": 0.36888059485738967,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.529
+      "score": 0.521
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cq369691973lo?at_medium=RSS&at_campaign=rss",
@@ -1612,29 +1608,11 @@
       "en": "Man City fan addresses club's midfield problem",
       "text_for_match": "Man City fan addresses club's midfield problem Manchester City fan Steven McInerney thinks the club's recent poor form stems from Enzo Maresca's favoured 3-6-1 formation Manchester City fan Steven McInerney thinks the club's recent poor form stems from Enzo Maresca's favoured 3-6-1 formation",
       "score_detail": {
-        "fresh": 0.37383480946215475,
+        "fresh": 0.36057875357534575,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.524
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794401897000,
-      "url": "https://bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Pochettino a decade in Man Utd's making - but Carrick deserved better",
-      "en": "Pochettino a decade in Man Utd's making - but Carrick deserved better",
-      "text_for_match": "Pochettino a decade in Man Utd's making - but Carrick deserved better Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty. Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
-      "score_detail": {
-        "fresh": 0.37127140740814885,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.523
+      "score": 0.516
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cv1j3jj11l15o?at_medium=RSS&at_campaign=rss",
@@ -1650,11 +1628,29 @@
       "en": "Would Frank be a good fit for Crystal Palace?",
       "text_for_match": "Would Frank be a good fit for Crystal Palace? With pressure growing on Pierre Sage, the Monday Night Club panel discuss if Thomas Frank would be a good fit for Crystal Palace. With pressure growing on Pierre Sage, the Monday Night Club panel discuss if Thomas Frank would be a good fit for Crystal Palace.",
       "score_detail": {
-        "fresh": 0.3161782445065079,
+        "fresh": 0.30496667090959884,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.523
+      "score": 0.516
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+      "ts": 1794401897000,
+      "url": "https://bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Pochettino a decade in Man Utd's making - but Carrick deserved better",
+      "en": "Pochettino a decade in Man Utd's making - but Carrick deserved better",
+      "text_for_match": "Pochettino a decade in Man Utd's making - but Carrick deserved better Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty. Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+      "score_detail": {
+        "fresh": 0.3581062488910556,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.515
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmz9dwk90ny7o?at_medium=RSS&at_campaign=rss",
@@ -1668,11 +1664,11 @@
       "en": "Former BBC radio presenter Kelly dies aged 69",
       "text_for_match": "Former BBC radio presenter Kelly dies aged 69 Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69. Former BBC radio presenter Danny Kelly has been described as a \"broadcasting titan\" following his death at the age of 69.",
       "score_detail": {
-        "fresh": 0.3704383526189291,
+        "fresh": 0.35730273394286494,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.522
+      "score": 0.514
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cmz6qxgv692jo?at_medium=RSS&at_campaign=rss",
@@ -1686,29 +1682,11 @@
       "en": "Forest fan 'surprised' by Elliot Anderson replacement",
       "text_for_match": "Forest fan 'surprised' by Elliot Anderson replacement Nottingham Forest fan Ellie Molloson says James McAtee has been the club's player of the season so far, proving a surprise direct replacement for Elliot Anderson, who left for Manchester City in the summer. Nottingham Forest fan Ellie Molloson says James McAtee has been the club's player of the season so far, proving a surprise direct replacement for Elliot Anderson, who left for Manchester City in the summer.",
       "score_detail": {
-        "fresh": 0.3693729914636883,
+        "fresh": 0.3562751501338104,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.522
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794397629000,
-      "url": "https://bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Assessing the reasons for Man City's decline in form under Maresca",
-      "en": "Assessing the reasons for Man City's decline in form under Maresca",
-      "text_for_match": "Assessing the reasons for Man City's decline in form under Maresca The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad. The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
-      "score_detail": {
-        "fresh": 0.3670580301307372,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.52
+      "score": 0.514
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
@@ -1724,31 +1702,29 @@
       "en": "NI's O'Neill ruled out of Nations League matches",
       "text_for_match": "NI's O'Neill ruled out of Nations League matches Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest. Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
       "score_detail": {
-        "fresh": 0.25448664609378674,
+        "fresh": 0.24546263570823884,
         "trust": 1,
         "relevance": 0.6666666666666666
       },
-      "score": 0.519
+      "score": 0.514
     },
     {
-      "id": "https://bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794167993000,
-      "url": "https://bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
+      "id": "https://bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
+      "ts": 1794397629000,
+      "url": "https://bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
       "domain": "bbc.co.uk",
       "trust": "bbc",
-      "tags": [
-        "好調"
-      ],
+      "tags": [],
       "players": [],
-      "ja": "Bournemouth beat Ipswich to extend winning streak",
-      "en": "Bournemouth beat Ipswich to extend winning streak",
-      "text_for_match": "Bournemouth beat Ipswich to extend winning streak Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich. Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+      "ja": "Assessing the reasons for Man City's decline in form under Maresca",
+      "en": "Assessing the reasons for Man City's decline in form under Maresca",
+      "text_for_match": "Assessing the reasons for Man City's decline in form under Maresca The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad. The ongoing international break gives manager Enzo Maresca much-needed time to fix the growing issues in his Man City squad.",
       "score_detail": {
-        "fresh": 0.19862769664842866,
+        "fresh": 0.3540422765466461,
         "trust": 1,
-        "relevance": 1
+        "relevance": 0
       },
-      "score": 0.519
+      "score": 0.512
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm752n34wek9o?at_medium=RSS&at_campaign=rss",
@@ -1762,11 +1738,11 @@
       "en": "Wales boss Bellamy praises Liverpool's handling of Koumas",
       "text_for_match": "Wales boss Bellamy praises Liverpool's handling of Koumas Wales manager Craig Bellamy has praised Liverpool for their handling of forward Lewis Koumas ahead of their Nations League trip to Norway. Wales manager Craig Bellamy has praised Liverpool for their handling of forward Lewis Koumas ahead of their Nations League trip to Norway.",
       "score_detail": {
-        "fresh": 0.36393329878146097,
+        "fresh": 0.3510283471140155,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.518
+      "score": 0.511
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss",
@@ -1780,11 +1756,11 @@
       "en": "Shirt pull on Isak should have been penalty - panel",
       "text_for_match": "Shirt pull on Isak should have been penalty - panel Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel. Liverpool should have been awarded a penalty against Arsenal for Jurrien Timber's shirt pull on Alexander Isak, says a Premier League panel.",
       "score_detail": {
-        "fresh": 0.36217117926963394,
+        "fresh": 0.34932871176400754,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.517
+      "score": 0.51
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c64gnled395eo?at_medium=RSS&at_campaign=rss",
@@ -1798,47 +1774,11 @@
       "en": "🎧 Why is the Championship so tight at the top?",
       "text_for_match": "🎧 Why is the Championship so tight at the top? Former Bromley boss Andy Woodman joins Aaron Paul and Jobi McAnuff in the latest episode of the 72+ podcast. Former Bromley boss Andy Woodman joins Aaron Paul and Jobi McAnuff in the latest episode of the 72+ podcast.",
       "score_detail": {
-        "fresh": 0.3590621229957289,
+        "fresh": 0.34632990157387783,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.515
-    },
-    {
-      "id": "https://bbc.co.uk/sport/videos/crz656927g0no?at_medium=RSS&at_campaign=rss",
-      "ts": 1794386055000,
-      "url": "https://bbc.co.uk/sport/videos/crz656927g0no?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'When mum comes down, she probably does all the cleaning'",
-      "en": "'When mum comes down, she probably does all the cleaning'",
-      "text_for_match": "'When mum comes down, she probably does all the cleaning' From steak sandwiches to their mum, Mary, doing the cleaning, Shea and Pierce Charles tell all about who does the chores in their house. From steak sandwiches to their mum, Mary, doing the cleaning, Shea and Pierce Charles tell all about who does the chores in their house.",
-      "score_detail": {
-        "fresh": 0.3558712502300353,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.514
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/cq8jzjdggp2mo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794385300000,
-      "url": "https://bbc.co.uk/sport/football/videos/cq8jzjdggp2mo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Fans debate Pickford or Trafford as England's number one",
-      "en": "Fans debate Pickford or Trafford as England's number one",
-      "text_for_match": "Fans debate Pickford or Trafford as England's number one Everton fan Sarah Halpin and Leeds fan Lewis Deighton debate who should be England's starting keeper Everton fan Sarah Halpin and Leeds fan Lewis Deighton debate who should be England's starting keeper",
-      "score_detail": {
-        "fresh": 0.3551534692072985,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.513
+      "score": 0.508
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
@@ -1854,11 +1794,47 @@
       "en": "Birthdays and broken lamps - at home with the Charles brothers",
       "text_for_match": "Birthdays and broken lamps - at home with the Charles brothers Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team. Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team. ",
       "score_detail": {
-        "fresh": 0.29935170714285037,
+        "fresh": 0.28873679686896103,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.513
+      "score": 0.507
+    },
+    {
+      "id": "https://bbc.co.uk/sport/videos/crz656927g0no?at_medium=RSS&at_campaign=rss",
+      "ts": 1794386055000,
+      "url": "https://bbc.co.uk/sport/videos/crz656927g0no?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "'When mum comes down, she probably does all the cleaning'",
+      "en": "'When mum comes down, she probably does all the cleaning'",
+      "text_for_match": "'When mum comes down, she probably does all the cleaning' From steak sandwiches to their mum, Mary, doing the cleaning, Shea and Pierce Charles tell all about who does the chores in their house. From steak sandwiches to their mum, Mary, doing the cleaning, Shea and Pierce Charles tell all about who does the chores in their house.",
+      "score_detail": {
+        "fresh": 0.34325217607708247,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.506
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/videos/cq8jzjdggp2mo?at_medium=RSS&at_campaign=rss",
+      "ts": 1794385300000,
+      "url": "https://bbc.co.uk/sport/football/videos/cq8jzjdggp2mo?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Fans debate Pickford or Trafford as England's number one",
+      "en": "Fans debate Pickford or Trafford as England's number one",
+      "text_for_match": "Fans debate Pickford or Trafford as England's number one Everton fan Sarah Halpin and Leeds fan Lewis Deighton debate who should be England's starting keeper Everton fan Sarah Halpin and Leeds fan Lewis Deighton debate who should be England's starting keeper",
+      "score_detail": {
+        "fresh": 0.3425598473266089,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.506
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cjx232kygqwpo?at_medium=RSS&at_campaign=rss",
@@ -1874,11 +1850,11 @@
       "en": "'Wolves grind out results but need to find extra edge'",
       "text_for_match": "'Wolves grind out results but need to find extra edge' Wolves fan writer Dazzling Dave reflects on the draw at Wrexham and says Wanderers need to find an extra edge to really compete for promotion. Wolves fan writer Dazzling Dave reflects on the draw at Wrexham and says Wanderers need to find an extra edge to really compete for promotion.",
       "score_detail": {
-        "fresh": 0.2940375586428197,
+        "fresh": 0.2836110862771299,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.51
+      "score": 0.503
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss",
@@ -1892,11 +1868,11 @@
       "en": "Does Pickford finally face serious competition for his England place?",
       "text_for_match": "Does Pickford finally face serious competition for his England place? Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty. Does England's long-time first-choice goalkeeper Jordan Pickford finally face serious competition for his place, asks chief football writer Phil McNulty.",
       "score_detail": {
-        "fresh": 0.3485372730907565,
+        "fresh": 0.33617825928630557,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.509
+      "score": 0.502
     },
     {
       "id": "https://bbc.co.uk/news/articles/c6jrwrx2r4vjo?at_medium=RSS&at_campaign=rss",
@@ -1910,11 +1886,11 @@
       "en": "Fans 'deserve better' than derby bubble policing",
       "text_for_match": "Fans 'deserve better' than derby bubble policing December's Tyne-Wear derby is designated a bubble fixture, severely restricting fan movement. December's Tyne-Wear derby is designated a bubble fixture, severely restricting fan movement.",
       "score_detail": {
-        "fresh": 0.3478073105508047,
+        "fresh": 0.3354741809710969,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.509
+      "score": 0.501
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&at_campaign=rss",
@@ -1928,11 +1904,11 @@
       "en": "Leicester and Brentford U21 into EFL Trophy knockout stages",
       "text_for_match": "Leicester and Brentford U21 into EFL Trophy knockout stages Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories. Brentford U21 and League One side Leicester City move into the knockout stages of the Jersey Mike's Trophy with vital victories.",
       "score_detail": {
-        "fresh": 0.32236115723065706,
+        "fresh": 0.31093033964003725,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.493
+      "score": 0.487
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cm4g1gjknee8o?at_medium=RSS&at_campaign=rss",
@@ -1946,11 +1922,11 @@
       "en": "Brentford lose appeal against Thiago red card",
       "text_for_match": "Brentford lose appeal against Thiago red card Brentford's appeal is rejected after Igor Thiago was shown a red card during Sunday's 2-0 defeat at Brighton. Brentford's appeal is rejected after Igor Thiago was shown a red card during Sunday's 2-0 defeat at Brighton.",
       "score_detail": {
-        "fresh": 0.3106293437672136,
+        "fresh": 0.29961453231349894,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.486
+      "score": 0.48
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c58jzj8k08lzo?at_medium=RSS&at_campaign=rss",
@@ -1964,32 +1940,11 @@
       "en": "Johnson says definitely more to come after 50 caps",
       "text_for_match": "Johnson says definitely more to come after 50 caps Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales. Brennan Johnson says he is happy with what he has achieved in football but would like to reach more major tournaments with Wales. ",
       "score_detail": {
-        "fresh": 0.3093469386624544,
+        "fresh": 0.2983776008599566,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.486
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794168076000,
-      "url": "https://bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "復帰",
-        "好調"
-      ],
-      "players": [],
-      "ja": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "en": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "text_for_match": "Man Utd score twice in stoppage time to share points in eight-goal thriller Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone. Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
-      "score_detail": {
-        "fresh": 0.19867178831970028,
-        "trust": 1,
-        "relevance": 0.6666666666666666
-      },
-      "score": 0.486
+      "score": 0.479
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cqm2d2093w2go?at_medium=RSS&at_campaign=rss",
@@ -2005,11 +1960,11 @@
       "en": "Are Man City's players being affected by the charges verdict?",
       "text_for_match": "Are Man City's players being affected by the charges verdict? Tommy Smith says it'll be hard for Manchester City's players to block out all the noise regarding the club's guilty charges verdict. Tommy Smith says it'll be hard for Manchester City's players to block out all the noise regarding the club's guilty charges verdict.",
       "score_detail": {
-        "fresh": 0.24574428327600792,
+        "fresh": 0.2370302741187083,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.481
+      "score": 0.476
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/ckly0yqq58pyo?at_medium=RSS&at_campaign=rss",
@@ -2023,11 +1978,11 @@
       "en": "'No candles?!' - Pierce's birthday surprise for Shea",
       "text_for_match": "'No candles?!' - Pierce's birthday surprise for Shea Pierce Charles surprises his brother and Northern Ireland team-mate Shea with a cake on his 23rd birthday. Pierce Charles surprises his brother and Northern Ireland team-mate Shea with a cake on his 23rd birthday.",
       "score_detail": {
-        "fresh": 0.3005356096539904,
+        "fresh": 0.28987871859753345,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.48
+      "score": 0.474
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cmy4x4vkn9vjo?at_medium=RSS&at_campaign=rss",
@@ -2043,11 +1998,11 @@
       "en": "Would Fabian Hürzeler ever manage Man Utd?",
       "text_for_match": "Would Fabian Hürzeler ever manage Man Utd? If the job became available and Man Utd approached Fabian Hürzeler, would it make sense for him to leave Brighton? If the job became available and Man Utd approached Fabian Hürzeler, would it make sense for him to leave Brighton? ",
       "score_detail": {
-        "fresh": 0.23883526636565902,
+        "fresh": 0.2303662486108943,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.477
+      "score": 0.472
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
@@ -2061,11 +2016,11 @@
       "en": "Szoboszlai fitness call to come at 'last minute'",
       "text_for_match": "Szoboszlai fitness call to come at 'last minute' Hungary say they will do \"everything possible\" for Liverpool midfielder Dominik Szoboszlai to feature in Nations League fixtures against Georgia and Northern Ireland across the next week. Hungary say they will do \"everything possible\" for Liverpool midfielder Dominik Szoboszlai to feature in Nations League fixtures against Georgia and Northern Ireland across the next week.",
       "score_detail": {
-        "fresh": 0.29223850563949905,
+        "fresh": 0.2818758270847432,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.475
+      "score": 0.469
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
@@ -2079,29 +2034,11 @@
       "en": "Hill gets first England call-up as Konsa cover",
       "text_for_match": "Hill gets first England call-up as Konsa cover Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley. Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
       "score_detail": {
-        "fresh": 0.2910678281446771,
+        "fresh": 0.28074666141788374,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.475
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c63r5ry95lg8o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794307108000,
-      "url": "https://bbc.co.uk/sport/football/videos/c63r5ry95lg8o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Chelsea staff warned over Fantasy Premier League use",
-      "en": "Chelsea staff warned over Fantasy Premier League use",
-      "text_for_match": "Chelsea staff warned over Fantasy Premier League use BBC Sport's Nizaar Kinsella explains why Chelsea have warned staff about revealing team news through playing Fantasy Premier League. BBC Sport's Nizaar Kinsella explains why Chelsea have warned staff about revealing team news through playing Fantasy Premier League.",
-      "score_detail": {
-        "fresh": 0.2881411903322377,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.473
+      "score": 0.468
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c98rzr51rlvpo?at_medium=RSS&at_campaign=rss",
@@ -2117,11 +2054,29 @@
       "en": "Chelsea staff warned over Fantasy Premier League use",
       "text_for_match": "Chelsea staff warned over Fantasy Premier League use Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections. Chelsea warn staff to be careful about revealing team news through Fantasy Premier League after Joao Pedro's injury appeared to have been inadvertently disclosed through team selections.",
       "score_detail": {
-        "fresh": 0.23325297954601526,
+        "fresh": 0.2249819077935606,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.473
+      "score": 0.468
+    },
+    {
+      "id": "https://bbc.co.uk/sport/football/videos/c63r5ry95lg8o?at_medium=RSS&at_campaign=rss",
+      "ts": 1794307108000,
+      "url": "https://bbc.co.uk/sport/football/videos/c63r5ry95lg8o?at_medium=RSS&at_campaign=rss",
+      "domain": "bbc.co.uk",
+      "trust": "bbc",
+      "tags": [],
+      "players": [],
+      "ja": "Chelsea staff warned over Fantasy Premier League use",
+      "en": "Chelsea staff warned over Fantasy Premier League use",
+      "text_for_match": "Chelsea staff warned over Fantasy Premier League use BBC Sport's Nizaar Kinsella explains why Chelsea have warned staff about revealing team news through playing Fantasy Premier League. BBC Sport's Nizaar Kinsella explains why Chelsea have warned staff about revealing team news through playing Fantasy Premier League.",
+      "score_detail": {
+        "fresh": 0.2779238011922826,
+        "trust": 1,
+        "relevance": 0
+      },
+      "score": 0.467
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c6ly0ygqz5nvo?at_medium=RSS&at_campaign=rss",
@@ -2135,11 +2090,11 @@
       "en": "'I never stopped believing' - Calvert-Lewin on England career",
       "text_for_match": "'I never stopped believing' - Calvert-Lewin on England career Leeds United's Dominic Calvert-Lewin talks about another recall to the England squad saying \"it means everyhting.\" Leeds United's Dominic Calvert-Lewin talks about another recall to the England squad saying \"it means everyhting.\"\n\n\n",
       "score_detail": {
-        "fresh": 0.2867468135406888,
+        "fresh": 0.2765788685300876,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.472
+      "score": 0.466
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cmd939pdv71vo?at_medium=RSS&at_campaign=rss",
@@ -2153,11 +2108,11 @@
       "en": "'Grim day brings the R-word into focus'",
       "text_for_match": "'Grim day brings the R-word into focus' BBC Radio Lancashire's Scott Read on Burnley's capitulation to lose 5-4 at Cardiff and the ugly scenes which followed it. BBC Radio Lancashire's Scott Read on Burnley's capitulation to lose 5-4 at Cardiff and the ugly scenes which followed it.",
       "score_detail": {
-        "fresh": 0.2826834020208622,
+        "fresh": 0.272659544208228,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.47
+      "score": 0.464
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
@@ -2171,11 +2126,11 @@
       "en": "Cast your vote for BBC Women's Footballer of the Year 2026",
       "text_for_match": "Cast your vote for BBC Women's Footballer of the Year 2026 Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist. Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
       "score_detail": {
-        "fresh": 0.27665049238267,
+        "fresh": 0.2668405595050599,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.466
+      "score": 0.46
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&at_campaign=rss",
@@ -2191,51 +2146,11 @@
       "en": "Four 'huge mistakes' that show Man Utd's defensive problems",
       "text_for_match": "Four 'huge mistakes' that show Man Utd's defensive problems After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day. After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion Dublin and Leon Osman brake down what is going wrong on Match of the Day.",
       "score_detail": {
-        "fresh": 0.2062088367126808,
+        "fresh": 0.19889674111690167,
         "trust": 1,
         "relevance": 0.3333333333333333
       },
-      "score": 0.457
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c98rz767gd1ko?at_medium=RSS&at_campaign=rss",
-      "ts": 1794175448000,
-      "url": "https://bbc.co.uk/sport/football/videos/c98rz767gd1ko?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "好調"
-      ],
-      "players": [],
-      "ja": "Brentford fan criticises 'discipline issue' after Brighton defeat",
-      "en": "Brentford fan criticises 'discipline issue' after Brighton defeat",
-      "text_for_match": "Brentford fan criticises 'discipline issue' after Brighton defeat Bees fan Michael Johnston bemoans a lack of discipline in the Brentford squad after a 2-0 loss to in-form Brighton. Bees fan Michael Johnston bemoans a lack of discipline in the Brentford squad after a 2-0 loss to in-form Brighton.",
-      "score_detail": {
-        "fresh": 0.20262727453268004,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.455
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c6n4ek5730jyo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794172294000,
-      "url": "https://bbc.co.uk/sport/football/videos/c6n4ek5730jyo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [
-        "好調"
-      ],
-      "players": [],
-      "ja": "Villa fan speechless after frantic finish",
-      "en": "Villa fan speechless after frantic finish",
-      "text_for_match": "Villa fan speechless after frantic finish Aston Villa fan Amy Finley believes dropping two two goal leads twice is 'devastating' after drawing 4-4 with Man Utd. Aston Villa fan Amy Finley believes dropping two two goal leads twice is 'devastating' after drawing 4-4 with Man Utd. ",
-      "score_detail": {
-        "fresh": 0.2009254301520725,
-        "trust": 1,
-        "relevance": 0.3333333333333333
-      },
-      "score": 0.454
+      "score": 0.453
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/ckq5n5309692o?at_medium=RSS&at_campaign=rss",
@@ -2249,11 +2164,11 @@
       "en": "Commentator reacts to Dorgu's late equaliser",
       "text_for_match": "Commentator reacts to Dorgu's late equaliser Ali Bruce-Ball reacts to Patrick Dorgu's late Manchester United equaliser to give them a point against Aston Villa. Ali Bruce-Ball reacts to Patrick Dorgu's late Manchester United equaliser to give them a point against Aston Villa.",
       "score_detail": {
-        "fresh": 0.2471579510591393,
+        "fresh": 0.23839381372044988,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.448
+      "score": 0.443
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/ck3r5rwdpjj7o?at_medium=RSS&at_campaign=rss",
@@ -2267,11 +2182,11 @@
       "en": "Wilson eyeing survival step as Wales tackle Norway",
       "text_for_match": "Wilson eyeing survival step as Wales tackle Norway Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A. Harry Wilson believes Wales can shock Norway again in Oslo on Saturday and move a step closer to survival in Nations League A.",
       "score_detail": {
-        "fresh": 0.2439743729132084,
+        "fresh": 0.23532312417866796,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.446
+      "score": 0.441
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cjqlnl63ewzpo?at_medium=RSS&at_campaign=rss",
@@ -2285,11 +2200,11 @@
       "en": "Arsenal monitor Leverkusen striker Kofane ",
       "text_for_match": "Arsenal monitor Leverkusen striker Kofane  Arsenal have been monitoring Bayer Leverkusen striker Christian Kofane as they look at potential forward options to add to their ranks. Arsenal have been monitoring Bayer Leverkusen striker Christian Kofane as they look at potential forward options to add to their ranks. ",
       "score_detail": {
-        "fresh": 0.24028050216494556,
+        "fresh": 0.23176023683761657,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.444
+      "score": 0.439
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cw33x3z4yk2no?at_medium=RSS&at_campaign=rss",
@@ -2303,11 +2218,11 @@
       "en": "'Jude was a big person for me' - King on Bellingham's guidance",
       "text_for_match": "'Jude was a big person for me' - King on Bellingham's guidance After Fulham's Josh King receives his first senior England call-up, he talks about help he received from Jude Bellingham and Harry Kane at World Cup training camps in the summer. After Fulham's Josh King receives his first senior England call-up, he talks about help he received from Jude Bellingham and Harry Kane at World Cup training camps in the summer.",
       "score_detail": {
-        "fresh": 0.23783144783089744,
+        "fresh": 0.2293980251418147,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.443
+      "score": 0.438
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
@@ -2321,11 +2236,11 @@
       "en": "Incident-by-incident: Was it a bad weekend for VAR?",
       "text_for_match": "Incident-by-incident: Was it a bad weekend for VAR? Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors? Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
       "score_detail": {
-        "fresh": 0.23751810453024516,
+        "fresh": 0.22909579288860923,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.443
+      "score": 0.437
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/c6jdmdegyejgo?at_medium=RSS&at_campaign=rss",
@@ -2339,11 +2254,11 @@
       "en": "Blackburn Rovers 2-1 West Ham - the fans' verdict",
       "text_for_match": "Blackburn Rovers 2-1 West Ham - the fans' verdict Supporters have their say after Blackburn's victory against West Ham in the Championship. Supporters have their say after Blackburn's victory against West Ham in the Championship.",
       "score_detail": {
-        "fresh": 0.2341222457295583,
+        "fresh": 0.22582035009228105,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.44
+      "score": 0.435
     },
     {
       "id": "https://bbc.co.uk/news/articles/cr3ele3n30l1o?at_medium=RSS&at_campaign=rss",
@@ -2357,11 +2272,11 @@
       "en": "Medal gifted anonymously to Bradley Lowery charity",
       "text_for_match": "Medal gifted anonymously to Bradley Lowery charity It follows a 14-year-old being bailed over allegedly taunting Sunderland fans with Bradley’s image It follows a 14-year-old being bailed over allegedly taunting Sunderland fans with Bradley’s image",
       "score_detail": {
-        "fresh": 0.233983296157796,
+        "fresh": 0.22568632762533108,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.44
+      "score": 0.435
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cmkgqg7r0pv0o?at_medium=RSS&at_campaign=rss",
@@ -2375,11 +2290,11 @@
       "en": "Fulham fan 'excited for world to see how good Josh King is'",
       "text_for_match": "Fulham fan 'excited for world to see how good Josh King is' Fan John Charles is excited for the world to see how good Josh King is Fan John Charles is excited for the world to see how good Josh King is\n\n\n",
       "score_detail": {
-        "fresh": 0.23296934124639654,
+        "fresh": 0.22470832721210035,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.44
+      "score": 0.435
     },
     {
       "id": "https://bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
@@ -2393,11 +2308,11 @@
       "en": "Alisson wants to sign new Liverpool contract",
       "text_for_match": "Alisson wants to sign new Liverpool contract Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire. Liverpool goalkeeper Alisson Becker wants to stay at the club beyond the end of the season, when his current contract is set to expire.",
       "score_detail": {
-        "fresh": 0.23171612964314903,
+        "fresh": 0.2234995540683814,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.439
+      "score": 0.434
     },
     {
       "id": "https://bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
@@ -2411,11 +2326,11 @@
       "en": "Which Premier League players are set for yellow card suspensions?",
       "text_for_match": "Which Premier League players are set for yellow card suspensions? Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season. Thirteen players are on the brink of a one-match ban in the 2026-27 Premier League season.",
       "score_detail": {
-        "fresh": 0.22853213648924214,
+        "fresh": 0.22042846423466594,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.437
+      "score": 0.432
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss",
@@ -2429,11 +2344,11 @@
       "en": "Why defenders hate playing against brilliant Brobbey",
       "text_for_match": "Why defenders hate playing against brilliant Brobbey Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea. Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian Brobbey in the Black Cats' 1-0 win over Chelsea.",
       "score_detail": {
-        "fresh": 0.20620607953447467,
+        "fresh": 0.19889408170730205,
         "trust": 1,
         "relevance": 0
       },
-      "score": 0.424
+      "score": 0.419
     },
     {
       "id": "https://bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
@@ -2447,151 +2362,7 @@
       "en": "'A horrible place to be' - What's gone wrong for Palace?",
       "text_for_match": "'A horrible place to be' - What's gone wrong for Palace? Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club. Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led to Crystal Palace being bottom of Premier League, after a couple of seasons of unprecedented success for the club.",
       "score_detail": {
-        "fresh": 0.20620221954692033,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.424
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c6e9lkepn7njo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794173981000,
-      "url": "https://bbc.co.uk/sport/football/videos/c6e9lkepn7njo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Palace fan: 'If this carries on, we will go down'",
-      "en": "Palace fan: 'If this carries on, we will go down'",
-      "text_for_match": "Palace fan: 'If this carries on, we will go down' Crystal Palace fan Ollie Thomas believes that a change in management feels inevitable with the Eagles bottom of the table going into the international break. Crystal Palace fan Ollie Thomas believes that a change in management feels inevitable with the Eagles bottom of the table going into the international break.",
-      "score_detail": {
-        "fresh": 0.2018339207696296,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.421
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794170980000,
-      "url": "https://bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Palace consider replacing Sage, with Frank among contenders",
-      "en": "Palace consider replacing Sage, with Frank among contenders",
-      "text_for_match": "Palace consider replacing Sage, with Frank among contenders Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him. Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.",
-      "score_detail": {
-        "fresh": 0.20022064307571188,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.42
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/cmpdgw0vxvj0o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794170089000,
-      "url": "https://bbc.co.uk/sport/football/videos/cmpdgw0vxvj0o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Chelsea fan 'getting a little bit worried'",
-      "en": "Chelsea fan 'getting a little bit worried'",
-      "text_for_match": "Chelsea fan 'getting a little bit worried' Chelsea fan Savage Dan is critical of Chelsea's attacking prowess and lightweight defensively after losing to Sunderland in the Premier League. Chelsea fan Savage Dan is critical of Chelsea's attacking prowess and lightweight defensively after losing to Sunderland in the Premier League. ",
-      "score_detail": {
-        "fresh": 0.1997441465622577,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.42
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c63r5g0evw5po?at_medium=RSS&at_campaign=rss",
-      "ts": 1794168548000,
-      "url": "https://bbc.co.uk/sport/football/videos/c63r5g0evw5po?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "'Going into the international break second is huge'",
-      "en": "'Going into the international break second is huge'",
-      "text_for_match": "'Going into the international break second is huge' Brighton fan Maz Mirzadeh on the importance of the Seagulls heading into the international break in second place in the Premier League table. Brighton fan Maz Mirzadeh on the importance of the Seagulls heading into the international break in second place in the Premier League table. ",
-      "score_detail": {
-        "fresh": 0.198922712652651,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794168353000,
-      "url": "https://bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-      "en": "Where does Man Utd 4-4 Villa rank among best Premier League games?",
-      "text_for_match": "Where does Man Utd 4-4 Villa rank among best Premier League games? Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games? Where does Manchester United 4-4 Aston Villa rank among the Premier League's greatest games?",
-      "score_detail": {
-        "fresh": 0.19881900848301748,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
-      "ts": 1794168021000,
-      "url": "https://bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Brighton breeze past 10-man Brentford to move up to second",
-      "en": "Brighton breeze past 10-man Brentford to move up to second",
-      "text_for_match": "Brighton breeze past 10-man Brentford to move up to second Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League. Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
-      "score_detail": {
-        "fresh": 0.19864256985332931,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-      "ts": 1794167926000,
-      "url": "https://bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Liverpool dispatch Palace to pile pressure on Sage",
-      "en": "Liverpool dispatch Palace to pile pressure on Sage",
-      "text_for_match": "Liverpool dispatch Palace to pile pressure on Sage Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League. Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-      "score_detail": {
-        "fresh": 0.19859211171421567,
-        "trust": 1,
-        "relevance": 0
-      },
-      "score": 0.419
-    },
-    {
-      "id": "https://bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-      "ts": 1794167911000,
-      "url": "https://bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-      "domain": "bbc.co.uk",
-      "trust": "bbc",
-      "tags": [],
-      "players": [],
-      "ja": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "en": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "text_for_match": "Struggling Sunderland beat Chelsea to move off bottom of Premier League Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light. Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-      "score_detail": {
-        "fresh": 0.19858414581134964,
+        "fresh": 0.19889035859360066,
         "trust": 1,
         "relevance": 0
       },
